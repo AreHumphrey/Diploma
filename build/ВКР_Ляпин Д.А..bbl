@@ -1161,6 +1161,50 @@
       \field{pages}{5329\bibrangedash 5333}
       \range{pages}{5}
     \endentry
+    \entry{sqlite}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=abc88efd85f1d8482dc06c18d13a5d7e}{%
+           family={Hipp},
+           familyi={H\bibinitperiod},
+           given={D.\bibnamedelimi Richard},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{abc88efd85f1d8482dc06c18d13a5d7e}
+      \strng{fullhash}{abc88efd85f1d8482dc06c18d13a5d7e}
+      \strng{bibnamehash}{abc88efd85f1d8482dc06c18d13a5d7e}
+      \strng{authorbibnamehash}{abc88efd85f1d8482dc06c18d13a5d7e}
+      \strng{authornamehash}{abc88efd85f1d8482dc06c18d13a5d7e}
+      \strng{authorfullhash}{abc88efd85f1d8482dc06c18d13a5d7e}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.sqlite.org/docs.html}}
+      \field{note}{Дата обращения: 2025}
+      \field{title}{{SQLite} Documentation}
+      \field{year}{2023}
+    \endentry
+    \entry{pyinstaller}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ee9e7b17b4928dffb2b7e64f330b3116}{%
+           family={{PyInstaller Development Team}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee9e7b17b4928dffb2b7e64f330b3116}
+      \strng{fullhash}{ee9e7b17b4928dffb2b7e64f330b3116}
+      \strng{bibnamehash}{ee9e7b17b4928dffb2b7e64f330b3116}
+      \strng{authorbibnamehash}{ee9e7b17b4928dffb2b7e64f330b3116}
+      \strng{authornamehash}{ee9e7b17b4928dffb2b7e64f330b3116}
+      \strng{authorfullhash}{ee9e7b17b4928dffb2b7e64f330b3116}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://pyinstaller.org/}}
+      \field{note}{Дата обращения: 2025}
+      \field{title}{{PyInstaller}: Freeze Python applications}
+      \field{year}{2023}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

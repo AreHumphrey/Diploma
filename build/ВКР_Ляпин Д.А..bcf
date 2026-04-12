@@ -2434,6 +2434,18 @@
     <bcf:citekey order="56" intorder="1">bredin2023pyannote</bcf:citekey>
     <bcf:citekey order="57" intorder="1">valk2021voxlingua107</bcf:citekey>
     <bcf:citekey order="58" intorder="1">gamma1995patterns</bcf:citekey>
+    <bcf:citekey order="59" intorder="1">martin2017clean</bcf:citekey>
+    <bcf:citekey order="60" intorder="1">pyqt6</bcf:citekey>
+    <bcf:citekey order="61" intorder="1">hohpe2003enterprise</bcf:citekey>
+    <bcf:citekey order="62" intorder="1">fowler2002patterns</bcf:citekey>
+    <bcf:citekey order="63" intorder="1">gamma1995patterns</bcf:citekey>
+    <bcf:citekey order="64" intorder="1">gamma1995patterns</bcf:citekey>
+    <bcf:citekey order="65" intorder="1">martin2017clean</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">sqlite</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">gamma1995patterns</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">gamma1995patterns</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">pyqt6</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">pyinstaller</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
