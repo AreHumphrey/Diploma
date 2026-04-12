@@ -1,0 +1,210 @@
+\RequirePackage{graphicx}
+\RequirePackage{multicol}
+\RequirePackage{array}
+
+\newcommand{\uline}[1]{\underline{#1\vphantom{lp}}}
+
+\newcommand{\usersignature}[1]{
+    \(
+        \underset{\textit{(Ф.И.О.)}}{\uline{~ \text{#1} ~}}
+    \)
+    \(
+        \underset{\textit{(подпись)}}{\uline{\hspace{50pt}}}
+    \)
+}
+
+\newcommand{\fakedocdate}[3]{
+    <<\uline{#1}>> \uline{~\monthname{#2}~} 20\uline{\DTMtwodigits{#3}}~г.
+}
+
+\newcommand{\docdate}{
+    <<\uline{~\the\day~}>> \uline{~\monthname{\the\month}~} 20\uline{\DTMtwodigits{\the\year}}~г.
+}
+
+% Пустые поля для подписей на титульнике курсовой
+\newcommand{\blankdate}{%
+    <<\uline{\hspace{12pt}}>>~\uline{\hspace{52pt}}~20\uline{\hspace{12pt}}~г.%
+}
+
+% Титульный лист курсовой работы ДВФУ
+% #1 - тема курсовой работы
+% #2 - направление подготовки (код и название)
+% #3 - профиль
+% #4 - номер группы
+% #5 - ФИО студента
+% #6 - должность и учёное звание руководителя
+% #7 - ФИО руководителя
+\newcommand{\fefukursovaya}[7]{
+
+    \thispagestyle{empty}
+
+    \begin{center}
+        \includegraphics[scale=0.25]{pictures/logo.pdf}
+
+        {\fontsize{11}{11}\selectfont МИНИСТЕРСТВО НАУКИ И ВЫСШЕГО ОБРАЗОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ}
+
+        \vspace*{-12pt}
+
+        {\fontsize{11}{11}\selectfont Федеральное государственное автономное образовательное учреждение высшего образования}
+
+        \vspace*{-10pt}
+
+        \textbf{<<Дальневосточный федеральный университет>>}
+
+        \vspace*{-10pt}
+
+        (ДВФУ)
+
+        \vspace*{-10pt}
+
+        \rule{\textwidth}{3pt}
+
+        \vspace*{-24pt}
+
+        \rule{\textwidth}{1pt}
+
+        \vspace{10pt}
+
+        \textbf{ИНСТИТУТ МАТЕМАТИКИ И КОМПЬЮТЕРНЫХ ТЕХНОЛОГИЙ (ШКОЛА)}
+
+        \vspace{2pt}
+
+        Департамент математического и компьютерного моделирования
+    \end{center}
+
+    \vspace{20pt}
+
+    \begin{center}
+        \textbf{\large ВЫПУСКНАЯ КВАЛИФИКАЦИОННАЯ РАБОТА} \\[6pt]
+        по образовательной программе подготовки бакалавров \\[2pt]
+        по направлению #2 \\[2pt]
+        профиль <<#3>> \\[14pt]
+        \textbf{#1}
+    \end{center}
+
+    \vfill
+
+    \noindent
+    \begin{minipage}[t]{0.44\textwidth}\raggedright
+        Работа защищена \\
+        с оценкой \uline{\hspace{80pt}} \\[6pt]
+        \vspace{52pt}
+        Регистрационный номер \uline{\hspace{26pt}} \\[6pt]
+        \blankdate
+    \end{minipage}%
+    \hfill
+    \begin{minipage}[t]{0.52\textwidth}\raggedright
+        Студент группы~№~#4 \\[8pt]
+        \(\underset{\textit{(подпись)}}{\uline{\hspace{55pt}}}\)~%
+        \(\underset{\textit{(Ф.И.О.)}}{\uline{~\text{#5}~}}\) \\[4pt]
+        \blankdate \\[14pt]
+        Руководитель \uline{\hspace{88pt}} \\[2pt]
+        \textit{\small(#6)} \\[6pt]
+        \(\underset{\textit{(подпись)}}{\uline{\hspace{55pt}}}\)~%
+        \(\underset{\textit{(Ф.И.О.)}}{\uline{~\text{#7}~}}\) \\[4pt]
+        \blankdate
+    \end{minipage}
+
+    \vfill
+
+    \begin{center}
+        \textbf{г. Владивосток}
+
+        \textbf{\the\year}
+    \end{center}
+
+    \pagebreak
+}
+
+\newcommand{\fefutitlepage}[7]{
+
+    \thispagestyle{empty}
+
+    \begin{center}
+        \includegraphics[scale=0.25]{pictures/logo.pdf}
+
+        {\fontsize{11}{11}\selectfont МИНИСТЕРСТВО НАУКИ И ВЫСШЕГО ОБРАЗОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ}
+        
+        \vspace*{-12pt}
+
+        {\fontsize{11}{11}\selectfont Федеральное государственное автономное образовательное учреждение высшего образования}
+
+        \vspace*{-10pt}
+
+        \textbf{<<Дальневосточный федеральный университет>>}
+
+        \vspace*{-10pt}
+
+        (ДВФУ)
+        
+        \vspace*{-10pt}
+
+        \rule{\textwidth}{3pt}
+
+        \vspace*{-24pt}
+
+        \rule{\textwidth}{1pt}
+
+        \vspace{10pt}
+
+        \textbf{ИНСТИТУТ МАТЕМАТИКИ И КОМПЬЮТЕРНЫХ ТЕХНОЛОГИЙ}
+
+        \textbf{(ШКОЛА)}
+
+        \vspace{10pt}
+
+        \textbf{Департамент математического и компьютерного моделирования}
+
+        \vspace{20pt}
+
+        \textbf{#1}
+
+        \vspace{15pt}
+
+        #2
+
+        \vspace{10pt}
+
+        Направление подготовки
+
+        \vspace*{-6pt}
+
+        #3
+
+    \end{center}
+
+    \begin{multicols}{2}
+        
+        \vfill\null
+
+        \columnbreak
+
+        Выполнил студент гр.
+
+        #4
+
+        \usersignature{#5}
+
+        #6
+
+        \usersignature{#7}
+
+        \vspace{10pt}
+
+        %\docdate
+        \fakedocdate{30}{3}{25}
+        
+    \end{multicols}
+
+    \vfill
+
+    \begin{center}
+
+        \textbf{г. Владивосток}
+
+        \textbf{\the\year}
+
+    \end{center}
+
+    \pagebreak
+}

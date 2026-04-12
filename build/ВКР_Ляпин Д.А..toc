@@ -1,0 +1,28 @@
+\xpginauxfiletrue 
+\selectlanguage *{russian}
+\contentsline {section}{Введение}{3}{Doc-Start}%
+\contentsline {section}{\numberline {1}Анализ предметной области и существующих решений}{7}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Задача транскрибации многоязычной речи}{7}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Обзор методов и моделей}{8}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Модели автоматического распознавания речи}{8}{subsubsection.1.2.1}%
+\contentsline {paragraph}{Whisper.}{8}{paragraph*.1}%
+\contentsline {paragraph}{Conformer.}{9}{paragraph*.2}%
+\contentsline {paragraph}{wav2vec 2.0.}{9}{paragraph*.3}%
+\contentsline {paragraph}{Vosk.}{9}{paragraph*.4}%
+\contentsline {subsubsection}{\numberline {1.2.2}Модели диаризации спикеров}{10}{subsubsection.1.2.2}%
+\contentsline {paragraph}{pyannote.audio.}{10}{paragraph*.6}%
+\contentsline {paragraph}{NVIDIA NeMo.}{11}{paragraph*.7}%
+\contentsline {subsubsection}{\numberline {1.2.3}Модели определения языка}{11}{subsubsection.1.2.3}%
+\contentsline {paragraph}{SpeechBrain / ECAPA-TDNN.}{11}{paragraph*.8}%
+\contentsline {paragraph}{Whisper LID.}{12}{paragraph*.9}%
+\contentsline {subsection}{\numberline {1.3}Анализ существующих решений}{12}{subsection.1.3}%
+\contentsline {paragraph}{Облачные сервисы.}{12}{paragraph*.10}%
+\contentsline {paragraph}{Локальные инструменты.}{13}{paragraph*.11}%
+\contentsline {subsection}{\numberline {1.4}Выводы по главе и требования к системе}{14}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Заключение}{16}{section.2}%
+\contentsline {section}{Приложения}{20}{section.2}%
+\contentsline {section}{\numberline {A}Исходный код ключевых модулей}{20}{appendix.A}%
+\contentsline {section}{\numberline {B}Конфигурационные файлы}{20}{appendix.B}%
+\contentsline {section}{\numberline {C}Скриншоты интерфейса}{20}{appendix.C}%
+\contentsline {section}{\numberline {D}Результаты экспериментов}{20}{appendix.D}%
+\contentsline {section}{\numberline {E}Акт внедрения / справка об использовании}{20}{appendix.E}%
