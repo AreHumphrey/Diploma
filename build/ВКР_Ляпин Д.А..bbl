@@ -656,7 +656,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.riverbankcomputing.com/software/pyqt/}}
-      \field{note}{Дата обращения: 2025}
+      \field{note}{Дата обращения: 07.04.2026}
       \field{title}{{PyQt6}: {Python} bindings for {Qt} 6}
       \field{year}{2023}
     \endentry
@@ -994,7 +994,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://github.com/SYSTRAN/faster-whisper}}
-      \field{note}{Дата обращения: 2025}
+      \field{note}{Дата обращения: 15.02.2026}
       \field{title}{faster-whisper: Faster Whisper transcription with {CTranslate2}}
       \field{year}{2023}
     \endentry
@@ -1089,7 +1089,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://github.com/ggerganov/whisper.cpp}}
-      \field{note}{Дата обращения: 2025}
+      \field{note}{Дата обращения: 03.03.2026}
       \field{title}{whisper.cpp: Port of OpenAI's Whisper model in {C/C++}}
       \field{year}{2023}
     \endentry
@@ -1110,7 +1110,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://alphacephei.com/vosk/}}
-      \field{note}{Дата обращения: 2025}
+      \field{note}{Дата обращения: 22.02.2026}
       \field{title}{Vosk: Offline Speech Recognition API}
       \field{year}{2023}
     \endentry
@@ -1180,7 +1180,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.sqlite.org/docs.html}}
-      \field{note}{Дата обращения: 2025}
+      \field{note}{Дата обращения: 19.03.2026}
       \field{title}{{SQLite} Documentation}
       \field{year}{2023}
     \endentry
@@ -1201,7 +1201,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://pyinstaller.org/}}
-      \field{note}{Дата обращения: 2025}
+      \field{note}{Дата обращения: 12.03.2026}
       \field{title}{{PyInstaller}: Freeze Python applications}
       \field{year}{2023}
     \endentry

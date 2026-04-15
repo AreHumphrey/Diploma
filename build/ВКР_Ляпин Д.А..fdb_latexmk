@@ -1,22 +1,22 @@
 # Fdb version 4
-["biber build/ВКР_Ляпин Д.А."] 1775984662.20865 "build/ВКР_Ляпин Д.А..bcf" "build/ВКР_Ляпин Д.А..bbl" "build/ВКР_Ляпин Д.А." 1775984735.67354 0
-  "./build/ВКР_Ляпин Д.А..bcf" 1775984735.30098 113055 602a743a9df44362676bb9137654d620 ""
-  "build/ВКР_Ляпин Д.А..bcf" 1775984735.30098 113055 602a743a9df44362676bb9137654d620 "xelatex"
-  "refs/bibliography.bib" 1775925390 15687 78d1d7763a98e4a6f6ec4bf9251a483b ""
+["biber build/ВКР_Ляпин Д.А."] 1776261857.92039 "build/ВКР_Ляпин Д.А..bcf" "build/ВКР_Ляпин Д.А..bbl" "build/ВКР_Ляпин Д.А." 1776262923.9548 0
+  "./build/ВКР_Ляпин Д.А..bcf" 1776262923.61124 113055 602a743a9df44362676bb9137654d620 ""
+  "build/ВКР_Ляпин Д.А..bcf" 1776262923.61124 113055 602a743a9df44362676bb9137654d620 "xelatex"
+  "refs/bibliography.bib" 1776261842.67769 15789 818c810756f6eb291e8b4af77c21783e ""
   (generated)
   "build/ВКР_Ляпин Д.А..bbl"
   "build/ВКР_Ляпин Д.А..blg"
   (rewritten before read)
-["xdvipdfmx"] 1775984735.40519 "build/ВКР_Ляпин Д.А..xdv" "build/ВКР_Ляпин Д.А..pdf" "build/ВКР_Ляпин Д.А." 1775984735.67569 0
-  "build/ВКР_Ляпин Д.А..xdv" 1775984735.30198 569500 3221e98143c73c1b8a1043d76c681e11 "xelatex"
-  "build/ВКР_Ляпин Д.А..xdv" 1775984735.30198 569500 3221e98143c73c1b8a1043d76c681e11 "xelatex"
+["xdvipdfmx"] 1776262923.70831 "build/ВКР_Ляпин Д.А..xdv" "build/ВКР_Ляпин Д.А..pdf" "build/ВКР_Ляпин Д.А." 1776262923.95676 0
+  "build/ВКР_Ляпин Д.А..xdv" 1776262923.61224 601656 efe9fc477f9cec23f74c11296fafe28c "xelatex"
+  "build/ВКР_Ляпин Д.А..xdv" 1776262923.61224 601656 efe9fc477f9cec23f74c11296fafe28c "xelatex"
   (generated)
   "build/ВКР_Ляпин Д.А..pdf"
   "build/ВКР_Ляпин Д.А..pdf"
   (rewritten before read)
-["xelatex"] 1775984733.11651 "/home/dmitry/report_diplom_baka_tex/main.tex" "build/ВКР_Ляпин Д.А..xdv" "ВКР_Ляпин Д.А." 1775984735.67369 0
+["xelatex"] 1776262921.57164 "/home/dmitry/report_diplom_baka_tex/main.tex" "build/ВКР_Ляпин Д.А..xdv" "ВКР_Ляпин Д.А." 1776262923.95495 0
   "/etc/texmf/web2c/texmf.cnf" 1775956210.3131 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/dmitry/report_diplom_baka_tex/main.tex" 1775965493.79826 545 a56b9431eb8c4e1e20a361d53d4d8a97 ""
+  "/home/dmitry/report_diplom_baka_tex/main.tex" 1776262115.17683 639 2c35af63757ecdb4302b2ac5af906fa4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -89,10 +89,12 @@
   "/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/russian.lbx" 1643926307 45859 11ceb0c84af12b9adde69a2b9fb6e5ba ""
   "/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty" 1696191071 56128 c2ccf1a29d78c33bc553880402e4fb9a ""
   "/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty" 1696191071 72619 ee90b6612147680fd73c3b1406a74245 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty" 1525297854 4336 84bc4a8edb126e69abec1a67dc0c36cf ""
   "/usr/share/texlive/texmf-dist/tex/latex/datetime2/datetime2.sty" 1616362849 50803 b80b063ff7af28173912da006b4ff1ba ""
   "/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1601931149 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "/usr/share/texlive/texmf-dist/tex/latex/extsizes/extarticle.cls" 1137110130 20602 3112294ba237d94ce4a1502cfef3594f ""
   "/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo" 1137110130 6214 cc6d832fdd2fc5f4a20ee1a002f45d0f ""
+  "/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty" 1668028059 18450 88279bf67c81e69f8e3f1c1bad1a26c5 ""
   "/usr/share/texlive/texmf-dist/tex/latex/float/float.sty" 1137110151 6749 16d2656a1984957e674b149555f1ea1d ""
   "/usr/share/texlive/texmf-dist/tex/latex/fontsize/fontsize.sty" 1628111688 37415 0e6c7f6e0a0a12265999ea33ac0fc505 ""
   "/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty" 1642282977 162076 2f6d31c4632f2730c57b9c0fda038e15 ""
@@ -150,20 +152,21 @@
   "/usr/share/texmf/tex/latex/tipa/t3enc.def" 1615504778 26483 c461a68c34040cb0d96c43e86c012a6d ""
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1775956256 10844826 f4bc4539ed5a016235c3f92df43ce285 ""
-  "build/ВКР_Ляпин Д.А..aux" 1775984735.29298 18073 d66fceb3b77fb56bb509cd1a147e7d06 "xelatex"
-  "build/ВКР_Ляпин Д.А..bbl" 1775984663.25311 48680 6eabf4fd0dc4e8e279875f917c6e93cf "biber build/ВКР_Ляпин Д.А."
-  "build/ВКР_Ляпин Д.А..out" 1775984735.29698 12465 e558d0043099d4d16cf8ea4dd2945821 "xelatex"
-  "build/ВКР_Ляпин Д.А..run.xml" 1775984735.30198 2564 edd5c0a7d017d7d944f3ea65e80cc085 "xelatex"
-  "build/ВКР_Ляпин Д.А..toc" 1775984735.30198 6069 51860be1d21c372b0685af179f4ad30c "xelatex"
-  "build/ВКР_Ляпин Д.А..aux" 1775984735.29298 18073 d66fceb3b77fb56bb509cd1a147e7d06 "xelatex"
-  "main.tex" 1775965493.79826 545 a56b9431eb8c4e1e20a361d53d4d8a97 ""
+  "build/ВКР_Ляпин Д.А..aux" 1776262923.60424 17336 75878235aa5446c3aada1061abf7f427 "xelatex"
+  "build/ВКР_Ляпин Д.А..bbl" 1776261858.94626 48716 0a529e1054d6bbef360b296630b62b15 "biber build/ВКР_Ляпин Д.А."
+  "build/ВКР_Ляпин Д.А..out" 1776262923.60824 11395 6be3169cb3bb4d6d77218d78b69ead04 "xelatex"
+  "build/ВКР_Ляпин Д.А..run.xml" 1776262923.61224 2564 f4d1c0746511551cbd19d5d7a3536920 "xelatex"
+  "build/ВКР_Ляпин Д.А..toc" 1776262923.61224 5560 13b6f202f528533804e22b8708d4df8b "xelatex"
+  "build/ВКР_Ляпин Д.А..aux" 1776262923.60424 17336 75878235aa5446c3aada1061abf7f427 "xelatex"
+  "main.tex" 1776262115.17683 639 2c35af63757ecdb4302b2ac5af906fa4 ""
   "parts/1 titlepage.tex" 1775965439.40656 399 54e3ee70e0fc224afe1ac4b4dd66f66a ""
   "parts/2 introduction.tex" 1775925390 14847 c5b7c245c3c32291b2285cc377b7fa68 ""
-  "parts/3 main.tex" 1775984733.02717 63858 32039e83945274780c91a7cf1c67b2b7 ""
-  "parts/4 conclusion.tex" 1775925390 1769 1b516654d3dfc99e92814997c9118e35 ""
-  "parts/5 appendix.tex" 1775925390 959 77cb5befafbd800e9e2231b6e35e971f ""
+  "parts/2a terms.tex" 1776262736.02594 6681 9df7dddc76590832765db468a3a003c3 ""
+  "parts/3 main.tex" 1776262340.97428 63858 32039e83945274780c91a7cf1c67b2b7 ""
+  "parts/4 conclusion.tex" 1776262919.24634 1079 aaf370fa3bb253d9e09ba3234fc2ea04 ""
+  "parts/5 appendix.tex" 1776261857.78322 1937 fe59742c50610439ff56c4f85d46979a ""
   "pictures/logo.pdf" 1775925392 47205 a1ce3ce49d7713d6009564987fd1bec1 ""
-  "style/style.sty" 1775965808.08944 5561 3235cdce51c468de832751d58167fa01 ""
+  "style/style.sty" 1776261448.02207 7083 97aec24637bd986037ed71f9a7bce01f ""
   "style/titlepage.sty" 1775965480.40666 5451 df12655780e01291c28de550703b449e ""
   (generated)
   "build/ВКР_Ляпин Д.А..aux"

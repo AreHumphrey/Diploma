@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.4.12)  12 APR 2026 19:05
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.4.12)  16 APR 2026 00:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -79,6 +79,17 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen148
 \Gm@layoutvoffset=\dimen149
 \Gm@dimlist=\toks19
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
 ) (/usr/share/texlive/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
  (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
@@ -87,8 +98,8 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \ar@mcellbox=\box52
 \extrarowheight=\dimen151
 \NC@list=\toks20
-\extratabsurround=\skip51
-\backup@length=\skip52
+\extratabsurround=\skip60
+\backup@length=\skip61
 \ar@cellbox=\box53
 )
 \rotheadsize=\dimen152
@@ -97,8 +108,8 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 ) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \ttl@box=\box54
-\beforetitleunit=\skip53
-\aftertitleunit=\skip54
+\beforetitleunit=\skip62
+\aftertitleunit=\skip63
 \ttl@plus=\dimen153
 \ttl@minus=\dimen154
 \ttl@toksa=\toks22
@@ -107,7 +118,7 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \titlewidthfirst=\dimen157
 ) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
-\@mathmargin=\skip55
+\@mathmargin=\skip64
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -164,8 +175,8 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \totwidth@=\dimen165
 \lineht@=\dimen166
 \@envbody=\toks26
-\multlinegap=\skip56
-\multlinetaggap=\skip57
+\multlinegap=\skip65
+\multlinetaggap=\skip66
 \mathdisplay@stack=\toks27
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
@@ -306,7 +317,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip58
+\Hy@SectionHShift=\skip67
 ) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count293
 \lst@gtempboxa=\box60
@@ -550,14 +561,14 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \blx@sectionciteorderinternal@0=\count356
 \blx@entrysetcounter=\count357
 \blx@biblioinstance=\count358
-\labelnumberwidth=\skip59
-\labelalphawidth=\skip60
-\biblabelsep=\skip61
-\bibitemsep=\skip62
-\bibnamesep=\skip63
-\bibinitsep=\skip64
-\bibparsep=\skip65
-\bibhang=\skip66
+\labelnumberwidth=\skip68
+\labelalphawidth=\skip69
+\biblabelsep=\skip70
+\bibitemsep=\skip71
+\bibnamesep=\skip72
+\bibinitsep=\skip73
+\bibparsep=\skip74
+\bibhang=\skip75
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language89
@@ -639,20 +650,20 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedoriglanguage=\count427
 \c@pageref=\count428
 \c@savedpageref=\count429
-\shorthandwidth=\skip67
-\shortjournalwidth=\skip68
-\shortserieswidth=\skip69
-\shorttitlewidth=\skip70
-\shortauthorwidth=\skip71
-\shorteditorwidth=\skip72
-\locallabelnumberwidth=\skip73
-\locallabelalphawidth=\skip74
-\localshorthandwidth=\skip75
-\localshortjournalwidth=\skip76
-\localshortserieswidth=\skip77
-\localshorttitlewidth=\skip78
-\localshortauthorwidth=\skip79
-\localshorteditorwidth=\skip80
+\shorthandwidth=\skip76
+\shortjournalwidth=\skip77
+\shortserieswidth=\skip78
+\shorttitlewidth=\skip79
+\shortauthorwidth=\skip80
+\shorteditorwidth=\skip81
+\locallabelnumberwidth=\skip82
+\locallabelalphawidth=\skip83
+\localshorthandwidth=\skip84
+\localshortjournalwidth=\skip85
+\localshortserieswidth=\skip86
+\localshorttitlewidth=\skip87
+\localshortauthorwidth=\skip88
+\localshorteditorwidth=\skip89
 Package biblatex Info: Trying to load enhanced support for Unicode engines...
 Package biblatex Info: ... file 'blx-unicode.def' found.
  (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-unicode.def)
@@ -720,7 +731,11 @@ Package biblatex Info: ... and expl3
 (biblatex)             setting 'casechanger=expl3'.
  (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
-))) (./style/titlepage.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+)) (./style/titlepage.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \c@tracingmulticols=\count441
 \mult@box=\box66
@@ -734,8 +749,8 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \page@free=\dimen191
 \premulticols=\dimen192
 \postmulticols=\dimen193
-\multicolsep=\skip81
-\multicolbaselineskip=\skip82
+\multicolsep=\skip90
+\multicolbaselineskip=\skip91
 \partial@page=\box67
 \last@line=\box68
 \mc@boxedresult=\box69
@@ -834,17 +849,17 @@ LaTeX Font Info:    ... okay on input line 9.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
-* v-part:(T,H,B)=(56.9055pt, 702.78308pt, 85.35826pt)
+* h-part:(L,W,R)=(85.35826pt, 483.69687pt, 28.45274pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=455.24411pt
-* \textheight=702.78308pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
 * \oddsidemargin=13.08827pt
 * \evensidemargin=13.08827pt
-* \topmargin=-57.81723pt
-* \headheight=14.0pt
-* \headsep=28.45274pt
+* \topmargin=-54.36449pt
+* \headheight=14.5pt
+* \headsep=25.0pt
 * \topskip=14.0pt
 * \footskip=28.45274pt
 * \marginparwidth=15.0pt
@@ -972,88 +987,83 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout5 = `"ВКР_Ляпин Д.А..toc"'.
 
  [3] (./parts/2 introduction.tex
-Overfull \hbox (3.32431pt too wide) in paragraph at lines 15--16
-\TU/TimesNewRoman(1)/m/n/14 опасной расшифровки многоязычных диалогов приобретает критическое зна-
- []
-
-[4]
-Overfull \hbox (2.34303pt too wide) in paragraph at lines 23--24
-[]\TU/TimesNewRoman(1)/m/n/14 Указанные обстоятельства обусловливают актуальность разработки мо-
+Overfull \hbox (9.4429pt too wide) in paragraph at lines 21--22
+[]\TU/TimesNewRoman(1)/m/n/14 В-третьих, существующие решения для локального развертывания либо огра-
  []
 
 
-Overfull \hbox (14.2732pt too wide) in paragraph at lines 23--24
-\TU/TimesNewRoman(1)/m/n/14 обработки многоязычных аудиозаписей с использованием pipeline-архитектуры
+Overfull \hbox (0.36586pt too wide) in paragraph at lines 23--24
+[]\TU/TimesNewRoman(1)/m/n/14 Указанные обстоятельства обусловливают актуальность разработки модуль-
+ []
+
+[4] [5]
+Overfull \hbox (7.93361pt too wide) in paragraph at lines 42--43
+\TU/TimesNewRoman(1)/m/n/14 системы оффлайн-транскрибации, построенная на основе pipeline-обработки с под-
  []
 
 
-Overfull \hbox (7.49428pt too wide) in paragraph at lines 25--26
-\TU/TimesNewRoman(1)/m/n/14 развитие методов ASR внесли исследования, связанные с моделью Whisper [[]1[]],
- []
-
-[5]
-Overfull \hbox (18.93842pt too wide) in paragraph at lines 35--36
-[]\TU/TimesNewRoman(1)/m/n/14 реализовать механизмы воспроизводимости результатов обработки, вклю-
- []
-
-
-Overfull \hbox (7.77647pt too wide) in paragraph at lines 37--38
-\TU/TimesNewRoman(1)/m/n/14 гоязычных аудиозаписях с использованием метрик WER [[]17[]] и DER [[]18[]]. 
- []
-
-
-Overfull \hbox (8.18092pt too wide) in paragraph at lines 42--43
-[]\TU/TimesNewRoman(1)/b/n/14 Предметом исследования \TU/TimesNewRoman(1)/m/n/14 выступает программная архитектура модуль-
- []
-
-
-Overfull \hbox (23.94951pt too wide) in paragraph at lines 42--43
-\TU/TimesNewRoman(1)/m/n/14 ной системы оффлайн-транскрибации, построенная на основе pipeline-обработки
- []
-
-
-Overfull \hbox (5.45694pt too wide) in paragraph at lines 44--45
-[]\TU/TimesNewRoman(1)/b/n/14 Методы исследования. \TU/TimesNewRoman(1)/m/n/14 В работе используются методы системного ана-
- []
-
-
-Overfull \hbox (39.54228pt too wide) in paragraph at lines 44--45
-\TU/TimesNewRoman(1)/m/n/14 лиза и сравнительного анализа программных решений, объектно-ориентированного
- []
-
-
-Overfull \hbox (50.34312pt too wide) in paragraph at lines 44--45
+Overfull \hbox (21.89037pt too wide) in paragraph at lines 44--45
 \TU/TimesNewRoman(1)/m/n/14 проектирования [[]12[]], а также паттерны архитектурного проектирования (Pipeline [[]14[]],
  []
 
-[6]) [7] (./parts/3 main.tex
-Overfull \hbox (6.268pt too wide) in paragraph at lines 17--18
-[]\TU/TimesNewRoman(1)/m/it/14 Определение языка \TU/TimesNewRoman(1)/m/n/14 (Language Identification, LID) — классификация каж-
+[6]) [7] (./parts/2a terms.tex
+Overfull \hbox (1.4198pt too wide) in paragraph at lines 14--15
+[]\TU/TimesNewRoman(1)/b/n/14 Конвейер обработки \TU/TimesNewRoman(1)/m/n/14 (pipeline) — архитектурный паттерн, при котором дан-
  []
 
 
-Overfull \hbox (29.09435pt too wide) in paragraph at lines 21--22
-[]\TU/TimesNewRoman(1)/m/n/14 Последовательный характер указанных подзадач определяет выбор pipeline-
+Overfull \hbox (8.32976pt too wide) in paragraph at lines 22--23
+[]\TU/TimesNewRoman(1)/b/n/14 Сегментация аудио \TU/TimesNewRoman(1)/m/n/14 — разделение исходного аудиофайла на отдельные фраг-
+ []
+
+
+Overfull \hbox (5.64244pt too wide) in paragraph at lines 24--25
+\TU/TimesNewRoman(1)/m/n/14 паттерн «Наблюдатель»; обеспечивает слабосвязанное взаимодействие между ком-
  []
 
 [8]
-Overfull \hbox (20.5426pt too wide) in paragraph at lines 28--29
-\TU/TimesNewRoman(1)/m/n/14 писи, включая языки с ограниченными ресурсами (low-resource languages). 
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\TU/TimesNewRoman(1)/m/n/14 Emphasized Channel Attention, Propagation and
  []
 
 
-Overfull \hbox (10.19217pt too wide) in paragraph at lines 42--43
-\TU/TimesNewRoman(1)/m/n/14 сквозной моделью типа encoder-decoder на основе архитектуры Transformer [[]5[]].
+Underfull \hbox (badness 2913) in paragraph at lines 44--44
+[]|\TU/TimesNewRoman(1)/m/n/14 Language Identification — определение языка по
  []
 
-[9]
-Overfull \hbox (19.11427pt too wide) in paragraph at lines 52--53
-\TU/TimesNewRoman(1)/m/n/14 supervised learning): энкодер предварительно обучается на неразмеченных аудио-
+) [9] [10] (./parts/3 main.tex
+Overfull \hbox (10.24037pt too wide) in paragraph at lines 16--17
+[]\TU/TimesNewRoman(1)/m/it/14 Сегментация аудио \TU/TimesNewRoman(1)/m/n/14 — разделение исходного аудиофайла на отдельные аудио-
  []
 
 
-Overfull \hbox (3.09386pt too wide) in paragraph at lines 57--58
-[]\TU/TimesNewRoman(1)/m/n/14 В таблице []1[] приведено сравнение рассмотренных ASR-моделей по клю-
+Overfull \hbox (1.81622pt too wide) in paragraph at lines 18--19
+[]\TU/TimesNewRoman(1)/m/it/14 Транскрибация \TU/TimesNewRoman(1)/m/n/14 (Automatic Speech Recognition, ASR) — преобразование каж-
+ []
+
+
+Overfull \hbox (0.64159pt too wide) in paragraph at lines 21--22
+[]\TU/TimesNewRoman(1)/m/n/14 Последовательный характер указанных подзадач определяет выбор pipeline-
+ []
+
+[11]
+Overfull \hbox (6.76132pt too wide) in paragraph at lines 42--43
+[] []\TU/TimesNewRoman(1)/b/n/14 Whisper.[] \TU/TimesNewRoman(1)/m/n/14 Модель Whisper, представленная компанией OpenAI [[]1[]], является сквоз-
+ []
+
+
+Overfull \hbox (5.88141pt too wide) in paragraph at lines 44--45
+[]\TU/TimesNewRoman(1)/m/n/14 Ключевой особенностью Whisper является мультизадачная архитектура: еди-
+ []
+
+[12]
+Overfull \hbox (15.13872pt too wide) in paragraph at lines 49--50
+[] []\TU/TimesNewRoman(1)/b/n/14 Conformer.[] \TU/TimesNewRoman(1)/m/n/14 Архитектура Conformer [[]2[]], предложенная исследователями из Google,
+ []
+
+
+Overfull \hbox (22.61148pt too wide) in paragraph at lines 52--53
+[] []\TU/TimesNewRoman(1)/b/n/14 wav2vec 2.0.[] \TU/TimesNewRoman(1)/m/n/14 Модель wav2vec 2.0 [[]6[]] реализует подход самообучения (self-supervised
  []
 
 LaTeX Font Info:    Calculating math sizes for size <12.77509> on input line 64.
@@ -1070,261 +1080,284 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <12.77509> not available
 (Font)              size <12> substituted on input line 64.
 
 
-Overfull \hbox (13.98045pt too wide) in paragraph at lines 64--77
- [][] 
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[10]
-Overfull \hbox (3.3655pt too wide) in paragraph at lines 88--89
-\TU/TimesNewRoman(1)/m/n/14 крытый инструментарий на Python для задач диаризации спикеров. Версия 3.1
- []
-
-[11]
-Overfull \hbox (20.25777pt too wide) in paragraph at lines 106--107
-[]\TU/TimesNewRoman(1)/m/n/14 Задача определения языка по аудиоданным (Spoken Language Identification,
+[13]
+Overfull \hbox (7.06863pt too wide) in paragraph at lines 91--92
+\TU/TimesNewRoman(1)/m/n/14 кальном уровне. Модель обучена с использованием Powerset multi-class cross-
  []
 
 
-Overfull \hbox (40.5209pt too wide) in paragraph at lines 109--110
+Overfull \hbox (7.83987pt too wide) in paragraph at lines 93--94
+[]\TU/TimesNewRoman(1)/m/it/14 Агломеративная кластеризация\TU/TimesNewRoman(1)/m/n/14 : локальные эмбеддинги объединяются в гло-
+ []
+
+
+Overfull \hbox (22.94841pt too wide) in paragraph at lines 96--97
+[]\TU/TimesNewRoman(1)/m/n/14 Pipeline pyannote 3.1 демонстрирует DER порядка 18,8% на датасете AMI (IHM),
+ []
+
+
+Overfull \hbox (16.60947pt too wide) in paragraph at lines 99--100
+[] []\TU/TimesNewRoman(1)/b/n/14 NVIDIA NeMo.[] \TU/TimesNewRoman(1)/m/n/14 Фреймворк NVIDIA NeMo предоставляет альтернативный pipeline
+ []
+
+
+Overfull \hbox (8.23453pt too wide) in paragraph at lines 99--100
+\TU/TimesNewRoman(1)/m/n/14 кластеризации. NeMo ориентирован преимущественно на GPU-инференс, что огра-
+ []
+
+[14]
+Overfull \hbox (6.222pt too wide) in paragraph at lines 101--102
+[]\TU/TimesNewRoman(1)/m/n/14 Обоснованием выбора pyannote.audio в качестве основного инструмента диа-
+ []
+
+
+Overfull \hbox (12.06815pt too wide) in paragraph at lines 109--110
 [] []\TU/TimesNewRoman(1)/b/n/14 SpeechBrain / ECAPA-TDNN.[] \TU/TimesNewRoman(1)/m/n/14 Модель speechbrain/lang-id-voxlingua107-ecapa [[]21[]]
  []
 
 
-Overfull \hbox (76.64095pt too wide) in paragraph at lines 109--110
+Overfull \hbox (48.18819pt too wide) in paragraph at lines 109--110
 \TU/TimesNewRoman(1)/m/n/14 представляет собой классификатор языка, обученный на наборе данных VoxLingua107 [[]11[]]
  []
 
 
-Overfull \hbox (17.33812pt too wide) in paragraph at lines 109--110
-\TU/TimesNewRoman(1)/m/n/14 с использованием архитектуры ECAPA-TDNN [[]10[]]. Архитектура ECAPA-TDNN
+Overfull \hbox (2.6961pt too wide) in paragraph at lines 109--110
+\TU/TimesNewRoman(1)/m/n/14 демонстрирует уровень ошибок 6,7% на валидационном множестве VoxLingua107. 
  []
 
 
-Overfull \hbox (27.39607pt too wide) in paragraph at lines 109--110
-\TU/TimesNewRoman(1)/m/n/14 признаков и улучшенным статистическим пулингом. Набор данных VoxLingua107
- []
-
-
-Overfull \hbox (5.90495pt too wide) in paragraph at lines 109--110
-\TU/TimesNewRoman(1)/m/n/14 содержит 6628 часов речи на 107 языках, собранных из видеозаписей YouTube.
- []
-
-[12] [13] [14]
-Overfull \hbox (7.1225pt too wide) in paragraph at lines 181--182
-[]\TU/TimesNewRoman(1)/m/n/14 Современные модели ASR (Whisper [[]1[]]), диаризации (pyannote.audio [[]7[]])
- []
-
-
-Overfull \hbox (19.0284pt too wide) in paragraph at lines 189--190
-[]\TU/TimesNewRoman(1)/m/n/14 автоматическая диаризация спикеров с использованием pyannote.audio [[]7[]]; 
+Overfull \hbox (0.8011pt too wide) in paragraph at lines 119--120
+[]\TU/TimesNewRoman(1)/m/n/14 Существующие решения для транскрибации многоязычной речи можно раз-
  []
 
 [15]
-Overfull \hbox (21.30031pt too wide) in paragraph at lines 204--205
-[]\TU/TimesNewRoman(1)/m/n/14 кроссплатформенность: поддержка операционных систем Windows, Linux,
+Overfull \hbox (0.55853pt too wide) in paragraph at lines 137--138
+\TU/TimesNewRoman(1)/m/n/14 без диаризации и мультиязычной маршрутизации моделей. Интерфейс огра-
  []
 
 
-Overfull \hbox (1.85652pt too wide) in paragraph at lines 205--206
-\TU/TimesNewRoman(1)/m/n/14 межуточных результатов и возможность возобновления прерванной об-
+Overfull \hbox (9.08055pt too wide) in paragraph at lines 138--139
+[]\TU/TimesNewRoman(1)/m/it/14 Vosk Server \TU/TimesNewRoman(1)/m/n/14 [[]25[]] — серверная реализация офлайн-распознавания на базе Kaldi.
  []
 
 
-Overfull \hbox (5.27713pt too wide) in paragraph at lines 219--220
-\TU/TimesNewRoman(1)/m/n/14 ления ответственности и включает четыре основных архитектурных слоя [[]13[]]: 
+Overfull \hbox (4.56317pt too wide) in paragraph at lines 138--139
+\TU/TimesNewRoman(1)/m/n/14 Поддерживает около 20 языков, однако не предоставляет диаризацию и опре-
  []
 
 [16]
-Overfull \hbox (30.62718pt too wide) in paragraph at lines 230--231
-\TU/TimesNewRoman(1)/m/n/14 программный интерфейс. Основной интерфейс представлен объектом \TU/DejaVuSansMono(0)/m/n/14 Pipeline\TU/TimesNewRoman(1)/m/n/14 ,
- []
-
-
-Overfull \hbox (38.34158pt too wide) in paragraph at lines 230--231
-\TU/TimesNewRoman(1)/m/n/14 остановкой, возобновлением и получением текущего состояния. Объект \TU/DejaVuSansMono(0)/m/n/14 Pipeline
+Overfull \hbox (38.10365pt too wide) in paragraph at lines 139--140
+[]\TU/TimesNewRoman(1)/m/it/14 faster-whisper \TU/TimesNewRoman(1)/m/n/14 [[]22[]] — оптимизированная реализация Whisper на основе CTranslate2
  []
 
 [17]
-Overfull \hbox (2.71585pt too wide) in paragraph at lines 248--248
-[]\TU/DejaVuSansMono(0)/m/n/14 │   ├── pipeline/        # Движок pipeline и этапы обработки[] 
+Overfull \hbox (9.32324pt too wide) in paragraph at lines 188--189
+[]\TU/TimesNewRoman(1)/m/n/14 загрузка аудиофайлов распространённых форматов (WAV, MP3, FLAC, OGG); 
  []
 
 
-Overfull \hbox (50.47855pt too wide) in paragraph at lines 248--248
+Overfull \hbox (21.58119pt too wide) in paragraph at lines 191--192
+[]\TU/TimesNewRoman(1)/m/n/14 определение языка каждого аудиофрагмента с использованием модели LID [[]11[]]; 
+ []
+
+[18]
+Overfull \hbox (22.40846pt too wide) in paragraph at lines 222--223
+[]\TU/TimesNewRoman(1)/m/it/14 core \TU/TimesNewRoman(1)/m/n/14 — ядро системы, содержащее всю логику обработки аудиоданных: pipeline-
+ []
+
+
+Overfull \hbox (1.51895pt too wide) in paragraph at lines 222--223
+\TU/TimesNewRoman(1)/m/n/14 движок, абстрактные интерфейсы моделей, реестр моделей, хранилище дан-
+ []
+
+
+Overfull \hbox (26.63496pt too wide) in paragraph at lines 230--231
+\TU/DejaVuSansMono(0)/m/n/14 transcribe(audio_path, config)\TU/TimesNewRoman(1)/m/n/14 , реализованный как обёртка над \TU/DejaVuSansMono(0)/m/n/14 Pipeline
+ []
+
+[19]
+Overfull \hbox (22.02579pt too wide) in paragraph at lines 248--248
 []\TU/DejaVuSansMono(0)/m/n/14 │   ├── storage/         # Хранилище данных и управление запусками[] 
  []
 
 
-Overfull \hbox (53.28812pt too wide) in paragraph at lines 248--248
+Overfull \hbox (24.83536pt too wide) in paragraph at lines 248--248
 []\TU/DejaVuSansMono(0)/m/n/14 ├── infrastructure/      # SQLite, файловая система, логирование[] 
  []
 
-[18]
-Overfull \hbox (0.5011pt too wide) in paragraph at lines 269--270
-\TU/TimesNewRoman(1)/m/n/14 терфейс не содержит зависимостей от конкретных моделей или внешних биб-
+[20]
+Overfull \hbox (1.99547pt too wide) in paragraph at lines 273--274
+\TU/TimesNewRoman(1)/m/n/14 редачу контекста между ними, сохранение промежуточных результатов после каж-
  []
 
-[19]
-Overfull \hbox (29.71526pt too wide) in paragraph at lines 292--293
-\TU/TimesNewRoman(1)/m/n/14 список сегментов с заполненными полями временных меток (\TU/DejaVuSansMono(0)/m/n/14 start_time\TU/TimesNewRoman(1)/m/n/14 ,
- []
-
-
-Overfull \hbox (11.25822pt too wide) in paragraph at lines 293--294
-[]\TU/TimesNewRoman(1)/m/it/14 SegmentationStage \TU/TimesNewRoman(1)/m/n/14 — разделяет исходный аудиофайл на отдельные аудио-
+[21]
+Overfull \hbox (13.98535pt too wide) in paragraph at lines 292--293
+\TU/TimesNewRoman(1)/m/n/14 ментов с заполненными полями временных меток (\TU/DejaVuSansMono(0)/m/n/14 start_time\TU/TimesNewRoman(1)/m/n/14 , \TU/DejaVuSansMono(0)/m/n/14 end_time\TU/TimesNewRoman(1)/m/n/14 )
  []
 
 
-Overfull \hbox (75.76468pt too wide) in paragraph at lines 303--303
+Overfull \hbox (47.31192pt too wide) in paragraph at lines 303--303
 []\TU/DejaVuSansMono(0)/m/n/14 model = registry.get(”asr”, config.asr_models[segment.language])[] 
  []
 
-[20] [21]
-Overfull \hbox (2.38634pt too wide) in paragraph at lines 351--352
-[]\TU/TimesNewRoman(1)/m/n/14 Конфигурация системы реализована с использованием гибридного под-
+[22] [23]
+Overfull \hbox (16.40665pt too wide) in paragraph at lines 361--361
+[]    \TU/DejaVuSansMono(0)/m/n/14 asr_models: Dict[str, str]  # Маппинг: язык -> ID модели ASR[] 
  []
 
-[22]
-Overfull \hbox (22.38284pt too wide) in paragraph at lines 399--399
-[]    \TU/DejaVuSansMono(0)/m/n/14 def diarize(self, audio_path: str) -> List[Segment]: ...[] 
- []
-
-[23]
-Overfull \hbox (50.1422pt too wide) in paragraph at lines 426--427
+[24] [25]
+Overfull \hbox (21.68944pt too wide) in paragraph at lines 426--427
 []\TU/TimesNewRoman(1)/m/n/14 Основным механизмом подключения модулей является директория \TU/DejaVuSansMono(0)/m/n/14 plugins/\TU/TimesNewRoman(1)/m/n/14 ,
  []
 
-
-Overfull \hbox (11.52289pt too wide) in paragraph at lines 426--427
-\TU/TimesNewRoman(1)/m/n/14 ривает возможность расширения через механизм Python entrypoints (pip-пакеты
- []
-
-[24]
-Overfull \hbox (2.71585pt too wide) in paragraph at lines 457--457
-[]    \TU/DejaVuSansMono(0)/m/n/14 ├── stage_3_lid/            # Результат определения языка[] 
+[26]
+Overfull \hbox (27.22655pt too wide) in paragraph at lines 445--446
+[]\TU/TimesNewRoman(1)/m/n/14 Каждому запуску обработки присваивается уникальный идентификатор (run_id),
  []
 
 
-Overfull \hbox (1.3271pt too wide) in paragraph at lines 463--464
-\TU/TimesNewRoman(1)/m/n/14 обеспечивающей структурированность данных, возможность выполнения за-
+Overfull \hbox (2.21274pt too wide) in paragraph at lines 459--460
+[]\TU/TimesNewRoman(1)/m/n/14 Управление запусками осуществляется классом \TU/DejaVuSansMono(0)/m/n/14 RunManager\TU/TimesNewRoman(1)/m/n/14 , отвечающим
  []
 
-[25]
-Overfull \hbox (78.9425pt too wide) in paragraph at lines 469--470
-\TU/TimesNewRoman(1)/m/n/14 этапа, информацию об ошибках. Состояние сохраняется в файл \TU/DejaVuSansMono(0)/m/n/14 pipeline_state.json
- []
-
-[26] [27]
-Overfull \hbox (0.20114pt too wide) in paragraph at lines 514--515
-[]\TU/TimesNewRoman(1)/m/n/14 В слое интерфейса реализуется адаптер, подписывающийся на события
+[27]
+Overfull \hbox (1.51205pt too wide) in paragraph at lines 475--476
+[]\TU/TimesNewRoman(1)/m/n/14 В системе применяется комбинированная стратегия обработки ошибок, учи-
  []
 
 
-Overfull \hbox (8.71983pt too wide) in paragraph at lines 535--536
-[]\TU/TimesNewRoman(1)/m/n/14 В качестве фреймворка для графического интерфейса выбран PyQt6 [[]16[]].
+Overfull \hbox (9.64342pt too wide) in paragraph at lines 480--481
+[]\TU/TimesNewRoman(1)/m/it/14 критические ошибки \TU/TimesNewRoman(1)/m/n/14 (некорректная конфигурация, отсутствие модели, невоз-
  []
 
-[28]
-Overfull \hbox (16.66324pt too wide) in paragraph at lines 546--547
-[]\TU/TimesNewRoman(1)/m/n/14 Графический интерфейс первой версии реализует минимальный, но функ-
+[28] [29]
+Overfull \hbox (1.58044pt too wide) in paragraph at lines 540--541
+[]\TU/TimesNewRoman(1)/m/n/14 поддержка многопоточности: встроенный механизм сигналов и слотов обес-
  []
 
-
-Overfull \hbox (8.94768pt too wide) in paragraph at lines 560--561
-[]\TU/TimesNewRoman(1)/m/n/14 пользователь запускает приложение и выбирает аудиофайл записи встре-
- []
-
-[29]
-Overfull \hbox (9.45808pt too wide) in paragraph at lines 561--562
-[]\TU/TimesNewRoman(1)/m/n/14 при необходимости пользователь настраивает параметры обработки (вы-
- []
-
-
-Overfull \hbox (29.56715pt too wide) in paragraph at lines 573--574
+[30] [31]
+Overfull \hbox (1.1144pt too wide) in paragraph at lines 573--574
 []\TU/TimesNewRoman(1)/m/n/14 В настоящей главе описано проектирование архитектуры системы оффлайн-
  []
 
-
-Overfull \hbox (4.91908pt too wide) in paragraph at lines 576--577
-\TU/TimesNewRoman(1)/m/n/14 модули, инфраструктуру и интерфейс, обеспечивающую независимость
- []
-
-[30])
-Overfull \hbox (6.72032pt too wide) in paragraph at lines 584--22
-[]\TU/TimesNewRoman(1)/m/n/14 Описанная архитектура удовлетворяет всем функциональным и нефунк-
- []
-
-[31] (./parts/4 conclusion.tex) [32]
-Overfull \hbox (16.54083pt too wide) in paragraph at lines 30--30
-\TU/TimesNewRoman(1)/m/n/14 Supervision”. В: \TU/TimesNewRoman(1)/m/it/14 Proceedings of the 40th International Conference on Machine
+) [32] [33] (./parts/4 conclusion.tex)
+Overfull \hbox (22.13435pt too wide) in paragraph at lines 33--33
+[]\TU/TimesNewRoman(1)/m/n/14 Alec Radford и др. “Robust Speech Recognition via Large-Scale Weak Supervision”.
  []
 
 
-Overfull \hbox (12.29018pt too wide) in paragraph at lines 30--30
-\TU/TimesNewRoman(1)/m/it/14 Learning (ICML)\TU/TimesNewRoman(1)/m/n/14 . Т. 202. Proceedings of Machine Learning Research. PMLR,
+Overfull \hbox (11.42128pt too wide) in paragraph at lines 33--33
+\TU/TimesNewRoman(1)/m/n/14 В: \TU/TimesNewRoman(1)/m/it/14 Proceedings of the 40th International Conference on Machine Learning (ICML)\TU/TimesNewRoman(1)/m/n/14 .
  []
 
 
-Overfull \hbox (42.07077pt too wide) in paragraph at lines 30--30
+Overfull \hbox (5.5516pt too wide) in paragraph at lines 33--33
+[]\TU/TimesNewRoman(1)/m/n/14 Anmol Gulati и др. “Conformer: Convolution-augmented Transformer for Speech
+ []
+
+
+Overfull \hbox (12.79153pt too wide) in paragraph at lines 33--33
+\TU/TimesNewRoman(1)/m/n/14 Recognition”. В: \TU/TimesNewRoman(1)/m/it/14 Proc. Interspeech 2020\TU/TimesNewRoman(1)/m/n/14 . 2020, с. 5036—5040. DOI: []$[][] [] [][][][][] []
+ []
+
+
+Overfull \hbox (13.61801pt too wide) in paragraph at lines 33--33
 []\TU/TimesNewRoman(1)/m/n/14 Alex Graves и др. “Connectionist Temporal Classification: Labelling Unsegmented
  []
 
 
-Overfull \hbox (2.44182pt too wide) in paragraph at lines 30--30
-[]\TU/TimesNewRoman(1)/m/n/14 William Chan и др. “Listen, Attend and Spell: A Neural Network that Learns
+Overfull \hbox (28.42256pt too wide) in paragraph at lines 33--33
+[]\TU/TimesNewRoman(1)/m/n/14 Ashish Vaswani и др. “Attention Is All You Need”. В: \TU/TimesNewRoman(1)/m/it/14 Advances in Neural Information
  []
 
 
-Overfull \hbox (21.64957pt too wide) in paragraph at lines 30--30
-[]\TU/TimesNewRoman(1)/m/n/14 Alexei Baevski и др. “wav2vec 2.0: A Framework for Self-Supervised Learning
+Overfull \hbox (15.82147pt too wide) in paragraph at lines 33--33
+\TU/TimesNewRoman(1)/m/n/14 of Speech Representations”. В: \TU/TimesNewRoman(1)/m/it/14 Advances in Neural Information Processing Systems
  []
 
 
-Overfull \hbox (6.28003pt too wide) in paragraph at lines 30--30
-[]\TU/TimesNewRoman(1)/m/n/14 Brecht Desplanques, Jenthe Thienpondt и Kris Demuynck. “ECAPA-TDNN:
+Overfull \hbox (28.70158pt too wide) in paragraph at lines 33--33
+[]\TU/TimesNewRoman(1)/m/n/14 Hervé Bredin. “pyannote.audio 2.1 speaker diarization pipeline: principle, benchmark,
  []
 
 
-Overfull \hbox (9.53629pt too wide) in paragraph at lines 30--30
-[]\TU/TimesNewRoman(1)/m/n/14 Jörgen Valk и Tanel Alumäe. “VoxLingua107: a Dataset for Spoken Language
- []
-
-[33]
-Overfull \hbox (0.27814pt too wide) in paragraph at lines 30--30
-[]\TU/TimesNewRoman(1)/m/n/14 Erich Gamma и др. \TU/TimesNewRoman(1)/m/it/14 Design Patterns: Elements of Reusable Object-Oriented
+Overfull \hbox (1.09753pt too wide) in paragraph at lines 33--33
+\TU/TimesNewRoman(1)/m/n/14 and recipe”. В: \TU/TimesNewRoman(1)/m/it/14 Proc. Interspeech 2023\TU/TimesNewRoman(1)/m/n/14 . 2023, с. 1983—1987. DOI: []$[][] [] [][][][][] []
  []
 
 
-Overfull \hbox (6.54443pt too wide) in paragraph at lines 30--30
-[]\TU/TimesNewRoman(1)/m/n/14 Vassil Panayotov и др. “Librispeech: An ASR corpus based on public domain
+Overfull \hbox (17.66946pt too wide) in paragraph at lines 33--33
+[]\TU/TimesNewRoman(1)/m/n/14 Hervé Bredin и др. “pyannote.audio: neural building blocks for speaker diarization”.
  []
 
 
-Overfull \hbox (0.19974pt too wide) in paragraph at lines 30--30
-\TU/TimesNewRoman(1)/m/n/14 audio books”. В: \TU/TimesNewRoman(1)/m/it/14 Proc. IEEE International Conference on Acoustics, Speech
- []
-
-
-Overfull \hbox (6.53302pt too wide) in paragraph at lines 30--30
-[]\TU/TimesNewRoman(1)/m/n/14 Alexis Conneau и др. “FLEURS: Few-shot Learning Evaluation of Universal
- []
-
-
-Overfull \hbox (2.24686pt too wide) in paragraph at lines 30--30
-[]\TU/TimesNewRoman(1)/m/n/14 SYSTRAN. \TU/TimesNewRoman(1)/m/it/14 faster-whisper: Faster Whisper transcription with CTranslate2\TU/TimesNewRoman(1)/m/n/14 .
+Overfull \hbox (6.49622pt too wide) in paragraph at lines 33--33
+\TU/TimesNewRoman(1)/m/n/14 В: \TU/TimesNewRoman(1)/m/it/14 ICASSP 2020, IEEE International Conference on Acoustics, Speech, and Signal
  []
 
 [34]
-Overfull \hbox (46.53932pt too wide) in paragraph at lines 30--30
+Overfull \hbox (22.70876pt too wide) in paragraph at lines 33--33
+[]\TU/TimesNewRoman(1)/m/n/14 Gregor Hohpe и Bobby Woolf. “Enterprise Integration Patterns: Designing, Building,
+ []
+
+
+Overfull \hbox (1.61981pt too wide) in paragraph at lines 33--33
+[]\TU/TimesNewRoman(1)/m/n/14 Martin Fowler. \TU/TimesNewRoman(1)/m/it/14 Patterns of Enterprise Application Architecture\TU/TimesNewRoman(1)/m/n/14 . Addison-Wesley,
+ []
+
+
+Overfull \hbox (40.4513pt too wide) in paragraph at lines 33--33
+[][][][][][][][][][][][][][][][][][] [] [][][] [] [][][][][][][][] [] [][][][][]$[]\TU/TimesNewRoman(1)/m/n/14 . Дата обращения: 07.04.2026.
+ []
+
+
+Overfull \hbox (26.70668pt too wide) in paragraph at lines 33--33
+[]\TU/TimesNewRoman(1)/m/n/14 SYSTRAN. \TU/TimesNewRoman(1)/m/it/14 faster-whisper: Faster Whisper transcription with CTranslate2\TU/TimesNewRoman(1)/m/n/14 . []$[][][][][] []
+ []
+
+
+Overfull \hbox (24.09387pt too wide) in paragraph at lines 33--33
+[] [] [][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][] [][] [][][][][][][]$[]\TU/TimesNewRoman(1)/m/n/14 . Дата обращения: 15.02.2026.
+ []
+
+
+Overfull \hbox (20.18175pt too wide) in paragraph at lines 33--33
+[]\TU/TimesNewRoman(1)/m/n/14 Adam Paszke и др. \TU/TimesNewRoman(1)/m/it/14 PyTorch: An Imperative Style, High-Performance Deep Learning
+ []
+
+
+Overfull \hbox (19.62468pt too wide) in paragraph at lines 33--33
+[]\TU/TimesNewRoman(1)/m/n/14 Georgi Gerganov. \TU/TimesNewRoman(1)/m/it/14 whisper.cpp: Port of OpenAI’s Whisper model in C/C++\TU/TimesNewRoman(1)/m/n/14 . []$[][][][][] []
+ []
+
+
+Overfull \hbox (15.16516pt too wide) in paragraph at lines 33--33
+[] [] [][][][][][] [] [][][] [] [][][][][][][][][] [] [][][][][][][] [] [][][]$[]\TU/TimesNewRoman(1)/m/n/14 . Дата обращения: 03.03.2026.
+ []
+
+
+Overfull \hbox (18.08656pt too wide) in paragraph at lines 33--33
 []\TU/TimesNewRoman(1)/m/n/14 Alpha Cephei. \TU/TimesNewRoman(1)/m/it/14 Vosk: Offline Speech Recognition API\TU/TimesNewRoman(1)/m/n/14 . []$[][][][][] [] [] [] [][][][][][][][][][][] []
  []
 
-
-Overfull \hbox (1.7492pt too wide) in paragraph at lines 30--30
-\TU/TimesNewRoman(1)/m/n/14 Recognition”. В: \TU/TimesNewRoman(1)/m/it/14 Proc. IEEE International Conference on Acoustics, Speech
+[35]
+Overfull \hbox (22.78958pt too wide) in paragraph at lines 33--33
+[]\TU/TimesNewRoman(1)/m/n/14 David Snyder и др. “X-Vectors: Robust DNN Embeddings for Speaker Recognition”.
  []
 
-[35] (./parts/5 appendix.tex) [36] (build/ВКР_Ляпин Д.А..aux)
+
+Overfull \hbox (18.28136pt too wide) in paragraph at lines 33--33
+\TU/TimesNewRoman(1)/m/n/14 В: \TU/TimesNewRoman(1)/m/it/14 Proc. IEEE International Conference on Acoustics, Speech and Signal Processing
+ []
+
+
+Overfull \hbox (8.23598pt too wide) in paragraph at lines 33--33
+[]\TU/TimesNewRoman(1)/m/n/14 PyInstaller Development Team. \TU/TimesNewRoman(1)/m/it/14 PyInstaller: Freeze Python applications\TU/TimesNewRoman(1)/m/n/14 . []$[][][][][] []
+ []
+
+[36] (./parts/5 appendix.tex) (build/ВКР_Ляпин Д.А..aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -1334,27 +1367,19 @@ L3 programming layer <2024-01-22>
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.77509pt have occurred.
 
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `"ВКР_Ляпин Д.А.".out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                "ВКР_Ляпин Д.А."
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to '"ВКР_Ляпин Д.А.".run.xml'.
 \openout1 = `"ВКР_Ляпин Д.А..run.xml"'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31071 strings out of 474878
- 611036 string characters out of 5762516
- 1930627 words of memory out of 5000000
- 52720 multiletter control sequences out of 15000+600000
- 566267 words of font info for 113 fonts, out of 8000000 for 9000
+ 31279 strings out of 474878
+ 614278 string characters out of 5762516
+ 1931627 words of memory out of 5000000
+ 52918 multiletter control sequences out of 15000+600000
+ 566259 words of font info for 112 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 94i,11n,131p,1294b,4968s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,12n,131p,1294b,4969s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on build/ВКР_Ляпин Д.А..xdv (36 pages, 569500 bytes).
+Output written on build/ВКР_Ляпин Д.А..xdv (36 pages, 601656 bytes).

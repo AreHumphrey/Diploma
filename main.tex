@@ -4,7 +4,7 @@
 \usepackage{style/titlepage}
 
 \everymath{\displaystyle}
-\renewcommand*\contentsname{\centering СОДЕРЖАНИЕ}
+\renewcommand*\contentsname{СОДЕРЖАНИЕ}
 
 \begin{document}
 
@@ -18,6 +18,10 @@
 
     \pagebreak
 
+    \input{parts/2a terms}
+
+    \pagebreak
+
     \input{parts/3 main}
 
     \pagebreak
@@ -26,7 +30,7 @@
 
     \pagebreak
 
-    \printbibliography
+    \printbibliography[heading=bibintoc, title={Список литературы}]
 
     \pagebreak
 

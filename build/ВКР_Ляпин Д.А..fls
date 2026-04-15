@@ -37,6 +37,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/makecell/makecell.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/makecell/makecell.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
@@ -234,6 +236,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
 INPUT ./style/titlepage.sty
 INPUT style/titlepage.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
@@ -306,6 +310,11 @@ INPUT ./parts/2 introduction.tex
 INPUT ./parts/2 introduction.tex
 INPUT ./parts/2 introduction.tex
 INPUT parts/2 introduction.tex
+INPUT ./parts/2a terms.tex
+INPUT ./parts/2a terms.tex
+INPUT ./parts/2a terms.tex
+INPUT ./parts/2a terms.tex
+INPUT parts/2a terms.tex
 INPUT ./parts/3 main.tex
 INPUT ./parts/3 main.tex
 INPUT ./parts/3 main.tex

@@ -1,5 +1,7 @@
 {
     "latex-workshop.latex.outDir": "%DIR%/build",
+    "latex-workshop.latex.jobname": "ВКР_Ляпин Д.А.",
+    "latex-workshop.latex.recipe.default": "latexmk",
     "latex-workshop.latex.recipes": [
         {
             "name": "latexmk",
