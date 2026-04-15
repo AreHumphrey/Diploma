@@ -1,20 +1,20 @@
 # Fdb version 4
-["biber build/ВКР_Ляпин Д.А."] 1776261857.92039 "build/ВКР_Ляпин Д.А..bcf" "build/ВКР_Ляпин Д.А..bbl" "build/ВКР_Ляпин Д.А." 1776262923.9548 0
-  "./build/ВКР_Ляпин Д.А..bcf" 1776262923.61124 113055 602a743a9df44362676bb9137654d620 ""
-  "build/ВКР_Ляпин Д.А..bcf" 1776262923.61124 113055 602a743a9df44362676bb9137654d620 "xelatex"
+["biber build/ВКР_Ляпин Д.А."] 1776261857.92039 "build/ВКР_Ляпин Д.А..bcf" "build/ВКР_Ляпин Д.А..bbl" "build/ВКР_Ляпин Д.А." 1776263007.38522 0
+  "./build/ВКР_Ляпин Д.А..bcf" 1776263007.04047 113055 602a743a9df44362676bb9137654d620 ""
+  "build/ВКР_Ляпин Д.А..bcf" 1776263007.04047 113055 602a743a9df44362676bb9137654d620 "xelatex"
   "refs/bibliography.bib" 1776261842.67769 15789 818c810756f6eb291e8b4af77c21783e ""
   (generated)
   "build/ВКР_Ляпин Д.А..bbl"
   "build/ВКР_Ляпин Д.А..blg"
   (rewritten before read)
-["xdvipdfmx"] 1776262923.70831 "build/ВКР_Ляпин Д.А..xdv" "build/ВКР_Ляпин Д.А..pdf" "build/ВКР_Ляпин Д.А." 1776262923.95676 0
-  "build/ВКР_Ляпин Д.А..xdv" 1776262923.61224 601656 efe9fc477f9cec23f74c11296fafe28c "xelatex"
-  "build/ВКР_Ляпин Д.А..xdv" 1776262923.61224 601656 efe9fc477f9cec23f74c11296fafe28c "xelatex"
+["xdvipdfmx"] 1776263007.13779 "build/ВКР_Ляпин Д.А..xdv" "build/ВКР_Ляпин Д.А..pdf" "build/ВКР_Ляпин Д.А." 1776263007.38712 0
+  "build/ВКР_Ляпин Д.А..xdv" 1776263007.04147 601744 390bc52364efc41011f0de52b373ae68 "xelatex"
+  "build/ВКР_Ляпин Д.А..xdv" 1776263007.04147 601744 390bc52364efc41011f0de52b373ae68 "xelatex"
   (generated)
   "build/ВКР_Ляпин Д.А..pdf"
   "build/ВКР_Ляпин Д.А..pdf"
   (rewritten before read)
-["xelatex"] 1776262921.57164 "/home/dmitry/report_diplom_baka_tex/main.tex" "build/ВКР_Ляпин Д.А..xdv" "ВКР_Ляпин Д.А." 1776262923.95495 0
+["xelatex"] 1776263004.86815 "/home/dmitry/report_diplom_baka_tex/main.tex" "build/ВКР_Ляпин Д.А..xdv" "ВКР_Ляпин Д.А." 1776263007.38534 0
   "/etc/texmf/web2c/texmf.cnf" 1775956210.3131 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/dmitry/report_diplom_baka_tex/main.tex" 1776262115.17683 639 2c35af63757ecdb4302b2ac5af906fa4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -152,14 +152,14 @@
   "/usr/share/texmf/tex/latex/tipa/t3enc.def" 1615504778 26483 c461a68c34040cb0d96c43e86c012a6d ""
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1775956256 10844826 f4bc4539ed5a016235c3f92df43ce285 ""
-  "build/ВКР_Ляпин Д.А..aux" 1776262923.60424 17336 75878235aa5446c3aada1061abf7f427 "xelatex"
+  "build/ВКР_Ляпин Д.А..aux" 1776263007.03347 17336 75878235aa5446c3aada1061abf7f427 "xelatex"
   "build/ВКР_Ляпин Д.А..bbl" 1776261858.94626 48716 0a529e1054d6bbef360b296630b62b15 "biber build/ВКР_Ляпин Д.А."
-  "build/ВКР_Ляпин Д.А..out" 1776262923.60824 11395 6be3169cb3bb4d6d77218d78b69ead04 "xelatex"
-  "build/ВКР_Ляпин Д.А..run.xml" 1776262923.61224 2564 f4d1c0746511551cbd19d5d7a3536920 "xelatex"
-  "build/ВКР_Ляпин Д.А..toc" 1776262923.61224 5560 13b6f202f528533804e22b8708d4df8b "xelatex"
-  "build/ВКР_Ляпин Д.А..aux" 1776262923.60424 17336 75878235aa5446c3aada1061abf7f427 "xelatex"
+  "build/ВКР_Ляпин Д.А..out" 1776263007.03647 11395 6be3169cb3bb4d6d77218d78b69ead04 "xelatex"
+  "build/ВКР_Ляпин Д.А..run.xml" 1776263007.04147 2564 f4d1c0746511551cbd19d5d7a3536920 "xelatex"
+  "build/ВКР_Ляпин Д.А..toc" 1776263007.04147 5560 13b6f202f528533804e22b8708d4df8b "xelatex"
+  "build/ВКР_Ляпин Д.А..aux" 1776263007.03347 17336 75878235aa5446c3aada1061abf7f427 "xelatex"
   "main.tex" 1776262115.17683 639 2c35af63757ecdb4302b2ac5af906fa4 ""
-  "parts/1 titlepage.tex" 1775965439.40656 399 54e3ee70e0fc224afe1ac4b4dd66f66a ""
+  "parts/1 titlepage.tex" 1776263004.73151 416 3a62f591435d789e3a0c8c6d67c46df1 ""
   "parts/2 introduction.tex" 1775925390 14847 c5b7c245c3c32291b2285cc377b7fa68 ""
   "parts/2a terms.tex" 1776262736.02594 6681 9df7dddc76590832765db468a3a003c3 ""
   "parts/3 main.tex" 1776262340.97428 63858 32039e83945274780c91a7cf1c67b2b7 ""
