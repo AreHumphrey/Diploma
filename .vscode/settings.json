@@ -1,18 +1,27 @@
 {
     "latex-workshop.latex.outDir": "%DIR%/build",
-    "latex-workshop.latex.jobname": "ВКР_Ляпин Д.А.",
-    "latex-workshop.latex.recipe.default": "latexmk",
+    "latex-workshop.latex.jobname": "VKR_Vinnitskaya_DS",
+    "latex-workshop.latex.recipe.default": "xelatex_latexmk",
     "latex-workshop.latex.recipes": [
         {
-            "name": "latexmk",
-            "tools": ["latexmk"]
+            "name": "xelatex_latexmk",
+            "tools": ["xelatex_latexmk"]
         }
     ],
     "latex-workshop.latex.tools": [
         {
-            "name": "latexmk",
-            "command": "latexmk",
-            "args": ["%DOC%"]
+            "name": "xelatex_latexmk",
+            "command": "C:/Program Files/MiKTeX/miktex/bin/x64/latexmk.exe",
+            "args": [
+                "-xelatex",
+                "-synctex=1",
+                "-interaction=nonstopmode",
+                "-file-line-error",
+                "-outdir=%OUTDIR%",
+                "%DOC%"
+            ]
         }
-    ]
+    ],
+    "latex-workshop.view.pdf.viewer": "tab",
+    "latex-workshop.latex.autoBuild.run": "onFileChange"
 }

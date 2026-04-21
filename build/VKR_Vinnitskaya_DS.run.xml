@@ -44,10 +44,10 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>"ВКР_Ляпин Д.А.".bcf</file>
+      <file>VKR_Vinnitskaya_DS.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>"ВКР_Ляпин Д.А.".bbl</file>
+      <file>VKR_Vinnitskaya_DS.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -67,19 +67,19 @@
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>"ВКР_Ляпин Д.А."</infile>
+      <infile>VKR_Vinnitskaya_DS</infile>
     </cmdline>
     <input>
-      <file>"ВКР_Ляпин Д.А.".bcf</file>
+      <file>VKR_Vinnitskaya_DS.bcf</file>
     </input>
     <output>
-      <file>"ВКР_Ляпин Д.А.".bbl</file>
+      <file>VKR_Vinnitskaya_DS.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>"ВКР_Ляпин Д.А.".bbl</file>
+      <file>VKR_Vinnitskaya_DS.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>"ВКР_Ляпин Д.А.".bcf</file>
+      <file>VKR_Vinnitskaya_DS.bcf</file>
     </requires>
     <requires type="editable">
       <file>refs/bibliography.bib</file>
