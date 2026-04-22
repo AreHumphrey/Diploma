@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  22 APR 2026 02:28
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  23 APR 2026 01:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1172,8 +1172,42 @@ Overfull \hbox (4.28777pt too wide) in paragraph at lines 8--18
  которое повысит точность
  []
 
-[3] (parts/2 introduction.tex) [4] (parts/2a terms.tex) [5] (parts/3 main.tex)
-(parts/4 conclusion.tex)
+[3] (parts/2 introduction.tex
+Overfull \hbox (0.36292pt too wide) in paragraph at lines 20--21
+\TU/TimesNewRoman(1)/m/n/14 ской адаптации, а именно тарифы: пересматриваются р
+едко и носят сугубо статич-
+ []
+
+[4]
+Overfull \hbox (1.69203pt too wide) in paragraph at lines 22--23
+[]\TU/TimesNewRoman(1)/m/n/14 Указанные обстоятельства обуславливают актуальнос
+ть реализации модуль-
+ []
+
+
+Overfull \hbox (15.92447pt too wide) in paragraph at lines 33--34
+[]\TU/TimesNewRoman(1)/m/n/14 реализовать алгоритм генерации производных призна
+ков, учитывающий нели-
+ []
+
+[5]
+Overfull \hbox (3.37723pt too wide) in paragraph at lines 44--45
+[]\TU/TimesNewRoman(1)/b/n/14 Методы исследования. \TU/TimesNewRoman(1)/m/n/14 
+В работе используются методы математической ста-
+ []
+
+[6]
+
+LaTeX Warning: Citation 'prokhorenkova2018catboost' on page 7 undefined on inpu
+t line 51.
+
+
+Overfull \hbox (3.11427pt too wide) in paragraph at lines 51--52
+\TU/TimesNewRoman(1)/m/n/14 формализуется задача прогнозирования страховых риск
+ов, выполняется обзор тра-
+ []
+
+) [7] (parts/2a terms.tex) [8] (parts/3 main.tex) (parts/4 conclusion.tex)
 
 LaTeX Warning: Empty bibliography on input line 37.
 
@@ -1183,20 +1217,29 @@ LaTeX Warning: Empty bibliography on input line 37.
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `VKR_Vinnitskaya_DS.out' has not changed.
-(rerunfilecheck)             Checksum: C63A0AE2AC7FC88C933C1675A0FAED9C;526.
+(rerunfilecheck)             Checksum: 4AD63DAC0CADAE78212648B7004881B3;523.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                VKR_Vinnitskaya_DS
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'VKR_Vinnitskaya_DS.run.xml'.
 \openout1 = `VKR_Vinnitskaya_DS.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30526 strings out of 402987
- 581353 string characters out of 5452871
- 1498650 words of memory out of 5000000
- 58896 multiletter control sequences out of 15000+600000
+ 30715 strings out of 402987
+ 585163 string characters out of 5452871
+ 1498703 words of memory out of 5000000
+ 59085 multiletter control sequences out of 15000+600000
  631176 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 89i,11n,131p,1235b,3997s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,12n,131p,1147b,4934s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.xd
-v (5 pages, 25728 bytes).
+v (8 pages, 106716 bytes).

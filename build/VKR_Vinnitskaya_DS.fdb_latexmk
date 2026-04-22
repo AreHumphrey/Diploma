@@ -1,16 +1,17 @@
 # Fdb version 4
-["biber build/VKR_Vinnitskaya_DS"] 1776788889.68576 "build/VKR_Vinnitskaya_DS.bcf" "build/VKR_Vinnitskaya_DS.bbl" "build/VKR_Vinnitskaya_DS" 1776788906.36691 0
-  "build/VKR_Vinnitskaya_DS.bcf" 1776788905 107754 afcb9e3d245ee04e69356b61f0dc7deb "xelatex"
+["biber build/VKR_Vinnitskaya_DS"] 1776871578.83096 "build/VKR_Vinnitskaya_DS.bcf" "build/VKR_Vinnitskaya_DS.bbl" "build/VKR_Vinnitskaya_DS" 1776871583.44146 0
+  "build/VKR_Vinnitskaya_DS.bcf" 1776871582 107834 f2b745f66c6b5140b8504dc376311e9b "xelatex"
+  "refs/bibliography.bib" 1776302731 15789 818c810756f6eb291e8b4af77c21783e ""
   (generated)
   "build/VKR_Vinnitskaya_DS.bbl"
   "build/VKR_Vinnitskaya_DS.blg"
   (rewritten before read)
-["xdvipdfmx"] 1776788906.00762 "build/VKR_Vinnitskaya_DS.xdv" "build/VKR_Vinnitskaya_DS.pdf" "build/VKR_Vinnitskaya_DS" 1776788906.37625 0
-  "build/VKR_Vinnitskaya_DS.xdv" 1776788905 25728 96333133186c8a80f2c40f5b2a782517 "xelatex"
+["xdvipdfmx"] 1776871583.13184 "build/VKR_Vinnitskaya_DS.xdv" "build/VKR_Vinnitskaya_DS.pdf" "build/VKR_Vinnitskaya_DS" 1776871583.44906 0
+  "build/VKR_Vinnitskaya_DS.xdv" 1776871582 106716 c56b8ec11a50be1794e4cbe26e9db113 "xelatex"
   (generated)
   "build/VKR_Vinnitskaya_DS.pdf"
   (rewritten before read)
-["xelatex"] 1776788903.04367 "c:/Users/lutdi/diplom_bakalavriat/main.tex" "build/VKR_Vinnitskaya_DS.xdv" "VKR_Vinnitskaya_DS" 1776788906.36717 0
+["xelatex"] 1776871580.86552 "c:/Users/lutdi/diplom_bakalavriat/main.tex" "build/VKR_Vinnitskaya_DS.xdv" "VKR_Vinnitskaya_DS" 1776871583.44179 0
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136736254 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -132,16 +133,16 @@
   "C:/Program Files/MiKTeX/tex/xelatex/xunicode/xunicode.sty" 1315551046 205722 8027ed7ab2230086d647802c25f3ee42 ""
   "C:/Users/lutdi/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1776274304 27167978 607dca3b21fd61676801dd7c6421a101 ""
   "C:/Users/lutdi/AppData/Roaming/MiKTeX/tex/latex/fancyhdr/fancyhdr.sty" 1740138435 31715 19e60610b63819fe670dfa1cd84a4e94 ""
-  "build/VKR_Vinnitskaya_DS.aux" 1776788905 686 2c41aad7e39852612489fbd0d40efa9d "xelatex"
-  "build/VKR_Vinnitskaya_DS.bbl" 1776788899 486 76d65a242ec496c9b4361af646ff12cb "biber build/VKR_Vinnitskaya_DS"
-  "build/VKR_Vinnitskaya_DS.out" 1776788905 526 c63a0ae2ac7fc88c933c1675a0faed9c "xelatex"
-  "build/VKR_Vinnitskaya_DS.run.xml" 1776788905 2508 4a0eb31b4f8b07d9d3d9fad82b233119 "xelatex"
-  "build/VKR_Vinnitskaya_DS.toc" 1776788905 240 c6825f2a19eb9456c4d37ac46e505605 "xelatex"
+  "build/VKR_Vinnitskaya_DS.aux" 1776871582 797 96185a1fde90cd3651ee950f46b64205 "xelatex"
+  "build/VKR_Vinnitskaya_DS.bbl" 1776871580 486 76d65a242ec496c9b4361af646ff12cb "biber build/VKR_Vinnitskaya_DS"
+  "build/VKR_Vinnitskaya_DS.out" 1776871582 523 4ad63dac0cadae78212648b7004881b3 "xelatex"
+  "build/VKR_Vinnitskaya_DS.run.xml" 1776871582 2508 df73330c0e54cf9ab99750f413ba916f "xelatex"
+  "build/VKR_Vinnitskaya_DS.toc" 1776871582 237 bcbcd216d68781edf4839e5cf20c7986 "xelatex"
   "c:/Users/lutdi/diplom_bakalavriat/main.tex" 1776786694 693 da567dd124058c68ac7b29660a1ee9c7 ""
   "main.tex" 1776786694 693 da567dd124058c68ac7b29660a1ee9c7 ""
   "parts/1 titlepage.tex" 1776306799 549 8306eb957091dc6507cef3d025806b66 ""
   "parts/1_1 annotation.tex" 1776788810 2263 fe0e1ae5711a86692b79729a3df2f833 ""
-  "parts/2 introduction.tex" 1776788887 14897 d4338a16f09771109640e8400bb03b33 ""
+  "parts/2 introduction.tex" 1776871575 15286 7ccaa27078835c92938c78ea301d7b75 ""
   "parts/2a terms.tex" 1776788883 6745 7265dc06cbe1424df9fe26d65af099b4 ""
   "parts/3 main.tex" 1776306551 530 444c127d5912615c6cc7fc635b9d41dd ""
   "parts/4 conclusion.tex" 1776302731 1079 aaf370fa3bb253d9e09ba3234fc2ea04 ""

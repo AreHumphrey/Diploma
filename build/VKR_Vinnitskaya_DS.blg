@@ -1,9 +1,17 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
 [0] Config.pm:331> INFO - Logfile is 'build/VKR_Vinnitskaya_DS.blg'
-[274] biber-MSWIN64:342> INFO - === 
-[393] Biber.pm:421> INFO - Reading 'build/VKR_Vinnitskaya_DS.bcf'
-[507] Biber.pm:1002> INFO - Found 0 citekeys in bib section 0
-[522] bbl.pm:676> INFO - Writing 'build/VKR_Vinnitskaya_DS.bbl' with encoding 'UTF-8'
-[522] bbl.pm:779> INFO - Output to build/VKR_Vinnitskaya_DS.bbl
-[523] Biber.pm:132> WARN - The file 'build/VKR_Vinnitskaya_DS.bcf' does not contain any citations!
-[523] Biber.pm:134> INFO - WARNINGS: 1
+[100] biber-MSWIN64:342> INFO - === 
+[136] Biber.pm:421> INFO - Reading 'build/VKR_Vinnitskaya_DS.bcf'
+[238] Biber.pm:1002> INFO - Found 1 citekeys in bib section 0
+[251] Biber.pm:4487> INFO - Processing section 0
+[262] Biber.pm:4678> INFO - Looking for bibtex file 'refs/bibliography.bib' for section 0
+[322] bibtex.pm:1713> INFO - LaTeX decoding ...
+[362] bibtex.pm:1519> INFO - Found BibTeX data source 'refs/bibliography.bib'
+[377] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[377] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[377] Biber.pm:4307> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'ru-RU'
+[377] Biber.pm:4313> INFO - No sort tailoring available for locale 'ru-RU'
+[377] bbl.pm:676> INFO - Writing 'build/VKR_Vinnitskaya_DS.bbl' with encoding 'UTF-8'
+[377] bbl.pm:779> INFO - Output to build/VKR_Vinnitskaya_DS.bbl
+[378] Biber.pm:132> WARN - I didn't find a database entry for 'prokhorenkova2018catboost' (section 0)
+[378] Biber.pm:134> INFO - WARNINGS: 1

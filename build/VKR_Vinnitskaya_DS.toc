@@ -1,4 +1,4 @@
 \xpg@aux {}{russian}
 \contentsline {section}{Аннотация}{3}{Doc-Start}%
 \contentsline {section}{Введение}{4}{Doc-Start}%
-\contentsline {section}{Термины, определения и сокращения}{5}{Doc-Start}%
+\contentsline {section}{Термины, определения и сокращения}{8}{Item.8}%
