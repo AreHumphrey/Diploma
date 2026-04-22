@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  23 APR 2026 01:48
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  23 APR 2026 02:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1257,7 +1257,19 @@ Underfull \hbox (badness 2368) in paragraph at lines 42--42
 улятор
  []
 
-) [9] [10] (parts/3 main.tex) (parts/4 conclusion.tex)
+) [9] [10] (parts/3 main.tex
+Overfull \hbox (2.03076pt too wide) in paragraph at lines 14--16
+\TU/TimesNewRoman(1)/m/n/14 где итоговая стоимость определяется произведением б
+азовой ставки на набор фик-
+ []
+
+[11]
+Overfull \hbox (0.59077pt too wide) in paragraph at lines 39--40
+\TU/TimesNewRoman(1)/m/n/14 собностью выявлять нелинейные закономерности в данн
+ых. Математическая фор-
+ []
+
+[12] [13]) [14] (parts/4 conclusion.tex)
 
 LaTeX Warning: Empty bibliography on input line 37.
 
@@ -1272,7 +1284,7 @@ L3 programming layer <2025-12-24>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `VKR_Vinnitskaya_DS.out' has not changed.
-(rerunfilecheck)             Checksum: 4AD63DAC0CADAE78212648B7004881B3;523.
+(rerunfilecheck)             Checksum: DD3A13CAE0D10A994841B8754F129BEF;1909.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                VKR_Vinnitskaya_DS
@@ -1283,13 +1295,13 @@ Package logreq Info: Writing requests to 'VKR_Vinnitskaya_DS.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30761 strings out of 402987
- 586050 string characters out of 5452871
- 1499705 words of memory out of 5000000
- 59119 multiletter control sequences out of 15000+600000
+ 30770 strings out of 402987
+ 586218 string characters out of 5452871
+ 1501140 words of memory out of 5000000
+ 59128 multiletter control sequences out of 15000+600000
  635844 words of font info for 108 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,12n,131p,1147b,4934s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.xd
-v (10 pages, 158868 bytes).
+v (14 pages, 224208 bytes).
