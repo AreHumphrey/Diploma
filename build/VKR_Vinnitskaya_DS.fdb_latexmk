@@ -1,27 +1,36 @@
 # Fdb version 4
-["biber build/VKR_Vinnitskaya_DS"] 1776871578.83096 "build/VKR_Vinnitskaya_DS.bcf" "build/VKR_Vinnitskaya_DS.bbl" "build/VKR_Vinnitskaya_DS" 1776871583.44146 0
-  "build/VKR_Vinnitskaya_DS.bcf" 1776871582 107834 f2b745f66c6b5140b8504dc376311e9b "xelatex"
+["biber build/VKR_Vinnitskaya_DS"] 1776871578.83096 "build/VKR_Vinnitskaya_DS.bcf" "build/VKR_Vinnitskaya_DS.bbl" "build/VKR_Vinnitskaya_DS" 1776872905.77969 0
+  "build/VKR_Vinnitskaya_DS.bcf" 1776872905 107834 f2b745f66c6b5140b8504dc376311e9b "xelatex"
   "refs/bibliography.bib" 1776302731 15789 818c810756f6eb291e8b4af77c21783e ""
   (generated)
   "build/VKR_Vinnitskaya_DS.bbl"
   "build/VKR_Vinnitskaya_DS.blg"
   (rewritten before read)
-["xdvipdfmx"] 1776871583.13184 "build/VKR_Vinnitskaya_DS.xdv" "build/VKR_Vinnitskaya_DS.pdf" "build/VKR_Vinnitskaya_DS" 1776871583.44906 0
-  "build/VKR_Vinnitskaya_DS.xdv" 1776871582 106716 c56b8ec11a50be1794e4cbe26e9db113 "xelatex"
+["xdvipdfmx"] 1776872905.4839 "build/VKR_Vinnitskaya_DS.xdv" "build/VKR_Vinnitskaya_DS.pdf" "build/VKR_Vinnitskaya_DS" 1776872905.78795 0
+  "build/VKR_Vinnitskaya_DS.xdv" 1776872905 158868 29f329a6da4c50b13906ad2e63f1530c "xelatex"
   (generated)
   "build/VKR_Vinnitskaya_DS.pdf"
   (rewritten before read)
-["xelatex"] 1776871580.86552 "c:/Users/lutdi/diplom_bakalavriat/main.tex" "build/VKR_Vinnitskaya_DS.xdv" "VKR_Vinnitskaya_DS" 1776871583.44179 0
+["xelatex"] 1776872903.05857 "c:/Users/lutdi/diplom_bakalavriat/main.tex" "build/VKR_Vinnitskaya_DS.xdv" "VKR_Vinnitskaya_DS" 1776872905.77996 0
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136736254 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1233951854 924 9904cf1d39e9767e7a3622f2a125a565 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1233951854 928 2dc8d444221b7a635bb58038579b861a ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1233951854 908 2921f8a10601f252058503cc6570e581 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1233951854 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1233951854 940 228d6584342e91276bf566bcf9716b83 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmex10.tfm" 1136765053 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmmi8.tfm" 1136765053 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmr6.tfm" 1136765053 1300 b62933e007d01cfd073f79b963c01526 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmr8.tfm" 1136765053 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
   "C:/Program Files/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty" 1576433602 40635 c40361e206be584d448876bba8a64a3b ""
   "C:/Program Files/MiKTeX/tex/generic/bitset/bitset.sty" 1575926576 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
   "C:/Program Files/MiKTeX/tex/generic/gettitlestring/gettitlestring.sty" 1576433666 8371 9d55b8bd010bc717624922fb3477d92e ""
@@ -133,17 +142,17 @@
   "C:/Program Files/MiKTeX/tex/xelatex/xunicode/xunicode.sty" 1315551046 205722 8027ed7ab2230086d647802c25f3ee42 ""
   "C:/Users/lutdi/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1776274304 27167978 607dca3b21fd61676801dd7c6421a101 ""
   "C:/Users/lutdi/AppData/Roaming/MiKTeX/tex/latex/fancyhdr/fancyhdr.sty" 1740138435 31715 19e60610b63819fe670dfa1cd84a4e94 ""
-  "build/VKR_Vinnitskaya_DS.aux" 1776871582 797 96185a1fde90cd3651ee950f46b64205 "xelatex"
+  "build/VKR_Vinnitskaya_DS.aux" 1776872905 798 898ae5e91f9da93cacdbde313177ba13 "xelatex"
   "build/VKR_Vinnitskaya_DS.bbl" 1776871580 486 76d65a242ec496c9b4361af646ff12cb "biber build/VKR_Vinnitskaya_DS"
-  "build/VKR_Vinnitskaya_DS.out" 1776871582 523 4ad63dac0cadae78212648b7004881b3 "xelatex"
-  "build/VKR_Vinnitskaya_DS.run.xml" 1776871582 2508 df73330c0e54cf9ab99750f413ba916f "xelatex"
-  "build/VKR_Vinnitskaya_DS.toc" 1776871582 237 bcbcd216d68781edf4839e5cf20c7986 "xelatex"
+  "build/VKR_Vinnitskaya_DS.out" 1776872905 523 4ad63dac0cadae78212648b7004881b3 "xelatex"
+  "build/VKR_Vinnitskaya_DS.run.xml" 1776872905 2508 df73330c0e54cf9ab99750f413ba916f "xelatex"
+  "build/VKR_Vinnitskaya_DS.toc" 1776872905 237 bcbcd216d68781edf4839e5cf20c7986 "xelatex"
   "c:/Users/lutdi/diplom_bakalavriat/main.tex" 1776786694 693 da567dd124058c68ac7b29660a1ee9c7 ""
   "main.tex" 1776786694 693 da567dd124058c68ac7b29660a1ee9c7 ""
   "parts/1 titlepage.tex" 1776306799 549 8306eb957091dc6507cef3d025806b66 ""
   "parts/1_1 annotation.tex" 1776788810 2263 fe0e1ae5711a86692b79729a3df2f833 ""
   "parts/2 introduction.tex" 1776871575 15286 7ccaa27078835c92938c78ea301d7b75 ""
-  "parts/2a terms.tex" 1776788883 6745 7265dc06cbe1424df9fe26d65af099b4 ""
+  "parts/2a terms.tex" 1776872902 9498 a58bf38a80e93ca693ac40259c2be791 ""
   "parts/3 main.tex" 1776306551 530 444c127d5912615c6cc7fc635b9d41dd ""
   "parts/4 conclusion.tex" 1776302731 1079 aaf370fa3bb253d9e09ba3234fc2ea04 ""
   "parts/5 appendix.tex" 1776302731 1937 fe59742c50610439ff56c4f85d46979a ""
