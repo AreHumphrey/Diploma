@@ -5,3 +5,7 @@
 \contentsline {section}{\numberline {1}Анализ предметной области и существующих решений}{11}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Модели, используемые для расчета страховых тарифов}{11}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}Методы машинного обучения в мировой практике страхования}{12}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Особенности российской практики страхования и система бонус-малус}{14}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Математическое обоснование необходимости применения методов машинного обучения}{16}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Методы машинного обучения в данной работе}{18}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Выводы по главе}{20}{subsection.1.6}%

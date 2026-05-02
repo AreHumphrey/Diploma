@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  23 APR 2026 02:55
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  3 MAY 2026 03:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1149,12 +1149,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )) [1
 
 ]
-(c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.toc)
+(c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.toc
+Overfull \hbox (0.23386pt too wide) in paragraph at lines 9--9
+ [][] [][]\TU/TimesNewRoman(1)/m/n/14 Математическое обоснование необходимости 
+применения методов 
+ []
+
+)
 \tf@toc=\write5
 \openout5 = `VKR_Vinnitskaya_DS.toc'.
 
- [2]
-(parts/1_1 annotation.tex
+ [2] (parts/1_1 annotation.tex
 Overfull \hbox (4.37672pt too wide) in paragraph at lines 6--7
 \TU/TimesNewRoman(1)/m/n/14 прогнозирования. В качестве основополагающего алгор
 итма был выбран CatBoost,
@@ -1269,7 +1274,50 @@ Overfull \hbox (0.59077pt too wide) in paragraph at lines 39--40
 ых. Математическая фор-
  []
 
-[12] [13]) [14] (parts/4 conclusion.tex)
+[12] [13] [14]
+Overfull \hbox (1.73763pt too wide) in paragraph at lines 128--129
+[]\TU/TimesNewRoman(1)/m/n/14 Описанные ограничения формируют предпосылки для в
+недрения более гиб-
+ []
+
+[15]
+Overfull \hbox (17.03992pt too wide) in paragraph at lines 132--133
+[]\TU/TimesNewRoman(1)/m/n/14 Традиционные подходы к расчету страховых тарифов,
+ рассмотренные в преды-
+ []
+
+
+Overfull \hbox (1.24019pt too wide) in paragraph at lines 135--137
+\TU/TimesNewRoman(1)/m/n/14 предполагает отсутствие корреляции между коэффициен
+тами. Для реальной прак-
+ []
+
+[16]
+Overfull \hbox (0.8205pt too wide) in paragraph at lines 152--153
+[]\TU/TimesNewRoman(1)/m/n/14 Система бонус-малус, представляющая собой дискрет
+ную марковскую цепь
+ []
+
+
+Overfull \hbox (30.9411pt too wide) in paragraph at lines 164--165
+[]\TU/TimesNewRoman(1)/m/n/14 Математическая постановка задачи заключается в на
+хождении функции $\OML/cmm/m/it/14.4 f [] [] \U/msb/m/n/14 R[] \OMS/cmsy/m/n/14
+.4 !
+ []
+
+[17] [18]
+Overfull \hbox (0.2581pt too wide) in paragraph at lines 191--193
+\TU/TimesNewRoman(1)/m/n/14 же количества безаварийных случаев. Алгоритм CatBoo
+st реализует метод Ordered
+ []
+
+[19]
+Overfull \hbox (5.09781pt too wide) in paragraph at lines 220--221
+\TU/TimesNewRoman(1)/m/n/14 кретных систем бонус-малус и обеспечить непрерывную
+ оценку вероятности ДТП. 
+ []
+
+[20]) [21] (parts/4 conclusion.tex)
 
 LaTeX Warning: Empty bibliography on input line 37.
 
@@ -1284,7 +1332,7 @@ L3 programming layer <2025-12-24>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `VKR_Vinnitskaya_DS.out' has not changed.
-(rerunfilecheck)             Checksum: DD3A13CAE0D10A994841B8754F129BEF;1909.
+(rerunfilecheck)             Checksum: 98EDA68A240D9DC1D9B9B106B30DF4CB;3727.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                VKR_Vinnitskaya_DS
@@ -1295,13 +1343,13 @@ Package logreq Info: Writing requests to 'VKR_Vinnitskaya_DS.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30770 strings out of 402987
- 586218 string characters out of 5452871
- 1501140 words of memory out of 5000000
- 59128 multiletter control sequences out of 15000+600000
- 635844 words of font info for 108 fonts, out of 8000000 for 9000
+ 30777 strings out of 402987
+ 586496 string characters out of 5452871
+ 1503004 words of memory out of 5000000
+ 59133 multiletter control sequences out of 15000+600000
+ 635860 words of font info for 110 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,12n,131p,1147b,4934s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.xd
-v (14 pages, 224208 bytes).
+v (21 pages, 363756 bytes).
