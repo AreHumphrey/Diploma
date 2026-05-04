@@ -1,11 +1,32 @@
 \xpg@aux {}{russian}
-\contentsline {section}{Аннотация}{3}{Doc-Start}%
-\contentsline {section}{Введение}{4}{Doc-Start}%
-\contentsline {section}{Термины, определения и сокращения}{8}{Item.8}%
-\contentsline {section}{\numberline {1}Анализ предметной области и существующих решений}{11}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Модели, используемые для расчета страховых тарифов}{11}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Методы машинного обучения в мировой практике страхования}{12}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Особенности российской практики страхования и система бонус-малус}{14}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}Математическое обоснование необходимости применения методов машинного обучения}{16}{subsection.1.4}%
-\contentsline {subsection}{\numberline {1.5}Методы машинного обучения в данной работе}{18}{subsection.1.5}%
-\contentsline {subsection}{\numberline {1.6}Выводы по главе}{20}{subsection.1.6}%
+\contentsline {section}{Аннотация}{4}{Doc-Start}%
+\contentsline {section}{Введение}{5}{Doc-Start}%
+\contentsline {section}{Термины, определения и сокращения}{9}{Item.8}%
+\contentsline {section}{\numberline {1}Анализ предметной области и существующих решений}{12}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Модели, используемые для расчета страховых тарифов}{12}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Методы машинного обучения в мировой практике страхования}{13}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Особенности российской практики страхования и система бонус-малус}{15}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Математическое обоснование необходимости применения методов машинного обучения}{17}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Методы машинного обучения в данной работе}{19}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Выводы по главе}{21}{subsection.1.6}%
+\contentsline {section}{\numberline {2}Разработка прогнозной модели страховых рисков на основе машинного обучения}{23}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Описание данных и их подготовка}{23}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Источники данных}{23}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Структура признаков}{24}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Методы очистки и нормализации данных}{27}{subsubsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.2}Определение факторов, влияющих на вероятность дорожно-транспортного происшествия}{28}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Генерация производных признаков}{28}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Анализ важности признаков}{29}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}Разработка модели прогнозирования аварийности}{30}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Архитектурная структура модели}{30}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Этапы построения модели}{30}{subsubsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.4}Тестирование модели и анализ результатов}{34}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Метрики оценки качества}{34}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Результаты тестирования}{35}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Анализ зависимости тарифов от признаков}{35}{subsubsection.2.4.3}%
+\contentsline {subsubsection}{\numberline {2.4.4}Интерпретация результатов}{36}{subsubsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.5}Реализация веб-интерфейса}{36}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Архитектура веб-приложения}{36}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Функциональные возможности}{37}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}Пример расчета тарифа}{37}{subsubsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.6}Выводы по главе}{37}{subsection.2.6}%
