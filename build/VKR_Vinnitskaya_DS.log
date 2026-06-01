@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  14 MAY 2026 22:49
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  1 JUN 2026 22:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1298,13 +1298,6 @@ Overfull \hbox (0.8205pt too wide) in paragraph at lines 152--153
 ную марковскую цепь
  []
 
-
-Overfull \hbox (30.9411pt too wide) in paragraph at lines 164--165
-[]\TU/TimesNewRoman(1)/m/n/14 Математическая постановка задачи заключается в на
-хождении функции $\OML/cmm/m/it/14.4 f [] [] \U/msb/m/n/14 R[] \OMS/cmsy/m/n/14
-.4 !
- []
-
 [18] [19]
 Overfull \hbox (0.2581pt too wide) in paragraph at lines 191--193
 \TU/TimesNewRoman(1)/m/n/14 же количества безаварийных случаев. Алгоритм CatBoo
@@ -1330,33 +1323,20 @@ Overfull \hbox (1.9325pt too wide) in paragraph at lines 245--246
  []
 
 [23] [24]
-Overfull \hbox (9.34258pt too wide) in paragraph at lines 270--271
+Overfull \hbox (2.34258pt too wide) in paragraph at lines 270--271
 []\TU/DejaVuSansMono(0)/m/n/14 days_since_last_claim \TU/TimesNewRoman(1)/m/n/1
-4 — количество дней с момента последнего стра-
+4 – количество дней с момента последнего стра-
  []
 
-
-Overfull \hbox (4.05415pt too wide) in paragraph at lines 270--271
-\TU/TimesNewRoman(1)/m/n/14 хового случая (числовой, интервал [30; 1095]). \TU/
-TimesNewRoman(1)/m/it/14 Обоснование: \TU/TimesNewRoman(1)/m/n/14 временной про
--
+[25]
+Overfull \hbox (8.4449pt too wide) in paragraph at lines 278--279
+[]\TU/DejaVuSansMono(0)/m/n/14 vehicle_type \TU/TimesNewRoman(1)/m/n/14 – тип т
+ранспортного средства (категориальный: седан, хэтч-
  []
 
-
-Overfull \hbox (2.15346pt too wide) in paragraph at lines 270--271
-\TU/TimesNewRoman(1)/m/n/14 межуток с последнего страхового случая отражает дин
-амику изменения рис-
- []
-
-[25] [26]
-Overfull \hbox (4.72266pt too wide) in paragraph at lines 294--295
-[]\TU/DejaVuSansMono(0)/m/n/14 base_kbm \TU/TimesNewRoman(1)/m/n/14 — базовый к
-оэффициент бонус-малус (числовой, интервал [0.46;
- []
-
-
-Overfull \hbox (8.85948pt too wide) in paragraph at lines 295--296
-[]\TU/DejaVuSansMono(0)/m/n/14 ko_multiplier \TU/TimesNewRoman(1)/m/n/14 — коэф
+[26]
+Overfull \hbox (1.85948pt too wide) in paragraph at lines 295--296
+[]\TU/DejaVuSansMono(0)/m/n/14 ko_multiplier \TU/TimesNewRoman(1)/m/n/14 – коэф
 фициент ограниченного использования транспорт-
  []
 
@@ -1366,35 +1346,28 @@ Overfull \hbox (9.5968pt too wide) in paragraph at lines 324--325
 n(1)/m/n/14 Для повышения предсказательной спо-
  []
 
-[28]
+
 Overfull \hbox (1.70116pt too wide) in paragraph at lines 336--337
 []\TU/TimesNewRoman(1)/m/n/14 Для улучшения предсказательной способности модели
  реализован алгоритм
  []
 
-
-Overfull \hbox (6.29146pt too wide) in paragraph at lines 342--343
-[]\TU/DejaVuSansMono(0)/m/n/14 violations_per_year \TU/TimesNewRoman(1)/m/n/14 
-— количество нарушений правил дорожного дви-
+[28]
+Overfull \hbox (0.31348pt too wide) in paragraph at lines 340--341
+\TU/TimesNewRoman(1)/m/n/14 теризующее долю жизни, проведённую за управлением т
+ранспортным сред-
  []
 
 
-Overfull \hbox (1.5291pt too wide) in paragraph at lines 345--346
-[]\TU/DejaVuSansMono(0)/m/n/14 young_risky \TU/TimesNewRoman(1)/m/n/14 — бинарн
-ый признак молодого рискованного водителя (воз-
- []
-
-
-Overfull \hbox (0.43535pt too wide) in paragraph at lines 348--349
-[]\TU/DejaVuSansMono(0)/m/n/14 power_x_age \TU/TimesNewRoman(1)/m/n/14 — произв
-едение мощности двигателя на возраст транспорт-
+Overfull \hbox (5.18066pt too wide) in paragraph at lines 345--346
+[]\TU/DejaVuSansMono(0)/m/n/14 young_risky \TU/TimesNewRoman(1)/m/n/14 – бинарн
+ый признак молодого рискованного водителя, вклю-
  []
 
 [29]
-Overfull \hbox (74.00487pt too wide) in paragraph at lines 360--361
-[]\TU/TimesNewRoman(1)/m/n/14 Разработанная модель инкапсулирована в программны
-й класс \TU/DejaVuSansMono(0)/m/n/14 InsuranceRiskModel\TU/TimesNewRoman(1)/m/n
-/14 ,
+Overfull \hbox (1.56477pt too wide) in paragraph at lines 360--361
+\TU/TimesNewRoman(1)/m/n/14 ориентированный программный класс \TU/DejaVuSansMon
+o(0)/m/n/14 InsuranceRiskModel\TU/TimesNewRoman(1)/m/n/14 , который объеди-
  []
 
 
@@ -1403,41 +1376,22 @@ Overfull \hbox (7.29184pt too wide) in paragraph at lines 362--363
 ть кода, независимость
  []
 
-
-Overfull \hbox (5.6899pt too wide) in paragraph at lines 369--370
-[]\TU/TimesNewRoman(0)/b/n/14 Веб-интерфейс \TU/TimesNewRoman(1)/m/n/14 — взаим
-одействие с пользователем через Flask-приложение. 
- []
-
 [30]
-Overfull \hbox (22.36009pt too wide) in paragraph at lines 394--395
-\TU/TimesNewRoman(1)/m/n/14 разделён на три непересекающихся подмножества: обуч
-ающую выборку ($\OML/cmm/m/it/14.4 X[]; Y[]$\TU/TimesNewRoman(1)/m/n/14 ),
- []
-
-
 Overfull \hbox (0.7282pt too wide) in paragraph at lines 396--397
 []\TU/TimesNewRoman(1)/m/n/14 Для сохранения распределения целевого признака во
  всех подвыборках при-
  []
 
-[31]
-Overfull \hbox (37.40526pt too wide) in paragraph at lines 404--405
-[]\TU/TimesNewRoman(1)/m/n/14 Категориальные признаки не подвергались явному ко
-дированию (OneHotEncoding
- []
-
-
-Overfull \hbox (45.09834pt too wide) in paragraph at lines 404--405
-\TU/TimesNewRoman(1)/m/n/14 или LabelEncoding), а передавались в алгоритм CatBo
-ost через параметр \TU/DejaVuSansMono(0)/m/n/14 cat_features\TU/TimesNewRoman(1
-)/m/n/14 .
- []
-
-[32]
+[31] [32]
 Overfull \hbox (18.89499pt too wide) in paragraph at lines 426--427
 \TU/TimesNewRoman(1)/m/n/14 признаков посредством метода статистического сглажи
 вания (Target-based Encoding).
+ []
+
+
+Overfull \hbox (3.6905pt too wide) in paragraph at lines 434--435
+[]\TU/TimesNewRoman(1)/m/n/14 Дополнительно CatBoost применяет метод Ordered Bo
+osting, который, в свою
  []
 
 
@@ -1448,114 +1402,88 @@ Overfull \hbox (17.86049pt too wide) in paragraph at lines 440--441
  []
 
 [33]
-Overfull \hbox (12.2707pt too wide) in paragraph at lines 456--457
-[]\TU/TimesNewRoman(1)/m/n/14 совместимость с различными языками программирован
-ия (Python, C++, Java); 
- []
-
-
-Overfull \hbox (4.7754pt too wide) in paragraph at lines 460--461
+Overfull \hbox (4.7754pt too wide) in paragraph at lines 454--455
 \TU/TimesNewRoman(1)/m/n/14 класс \TU/DejaVuSansMono(0)/m/n/14 InsuranceRiskMod
 el\TU/TimesNewRoman(1)/m/n/14 , обеспечивая получение прогнозов в реальном вре-
 
  []
 
-
-Overfull \hbox (47.41763pt too wide) in paragraph at lines 468--469
-[]\TU/TimesNewRoman(1)/m/n/14 История страховых обращений и нарушений (\TU/Deja
-VuSansMono(0)/m/n/14 num_claims\TU/TimesNewRoman(1)/m/n/14 , \TU/DejaVuSansMono
-(0)/m/n/14 violation_count\TU/TimesNewRoman(1)/m/n/14 ); 
- []
-
-
-Overfull \hbox (65.43488pt too wide) in paragraph at lines 470--471
-[]\TU/TimesNewRoman(1)/m/n/14 Производные признаки, отражающие взаимодействие ф
-акторов (\TU/DejaVuSansMono(0)/m/n/14 claims_per_year\TU/TimesNewRoman(1)/m/n/1
-4 ,
- []
-
-
-Overfull \hbox (7.77829pt too wide) in paragraph at lines 472--473
-[]\TU/TimesNewRoman(1)/m/n/14 Характеристики транспортного средства (\TU/DejaVu
-SansMono(0)/m/n/14 vehicle_age\TU/TimesNewRoman(1)/m/n/14 , \TU/DejaVuSansMono(
-0)/m/n/14 engine_power\TU/TimesNewRoman(1)/m/n/14 ). 
- []
-
 [34]
-Overfull \hbox (6.01692pt too wide) in paragraph at lines 479--480
-[]\TU/TimesNewRoman(1)/m/n/14 Для оценки качества разработанной модели прогнози
-рования страховых рис-
+Overfull \hbox (4.35019pt too wide) in paragraph at lines 467--468
+[]\TU/TimesNewRoman(0)/b/n/14 Значимость технических характеристик. \TU/TimesNe
+wRoman(1)/m/n/14 Признак \TU/DejaVuSansMono(0)/m/n/14 engine_power \TU/TimesNew
+Roman(1)/m/n/14 и про-
+ []
+
+[35]
+Overfull \hbox (12.86798pt too wide) in paragraph at lines 478--480
+\TU/TimesNewRoman(1)/m/n/14 корректное ранжирование страхователей согласно уров
+ню их индивидуальной опас-
  []
 
 
-Overfull \hbox (0.70914pt too wide) in paragraph at lines 479--480
-\TU/TimesNewRoman(1)/m/n/14 мента являлось не только проверить точность предска
-зания вероятности дорожно-
+Overfull \hbox (3.3991pt too wide) in paragraph at lines 483--484
+\TU/TimesNewRoman(1)/m/n/14 дополненная показателями точности (Precision), гарм
+онического среднего F1-score
  []
 
-
-Overfull \hbox (2.78352pt too wide) in paragraph at lines 483--484
-[]\TU/TimesNewRoman(1)/m/n/14 Для комплексной оценки качества модели использова
-ны общепринятые мет-
- []
-
-[35] [36]
-Overfull \hbox (18.37527pt too wide) in paragraph at lines 538--539
+[36] [37] [38] [39]
+Overfull \hbox (18.37527pt too wide) in paragraph at lines 525--526
 []\TU/TimesNewRoman(0)/b/n/14 Загрузка файлов. \TU/TimesNewRoman(1)/m/n/14 Подд
 ерживается загрузка CSV-файлов с данными о несколь-
  []
 
 
-Overfull \hbox (1.91205pt too wide) in paragraph at lines 539--540
+Overfull \hbox (1.91205pt too wide) in paragraph at lines 526--527
 []\TU/TimesNewRoman(0)/b/n/14 Отображение результатов. \TU/TimesNewRoman(1)/m/n
 /14 После отправки формы пользователь видит рас-
  []
 
-[37]
-Overfull \hbox (4.25967pt too wide) in paragraph at lines 557--558
+[40]
+Overfull \hbox (4.25967pt too wide) in paragraph at lines 544--545
 []\TU/TimesNewRoman(1)/m/n/14 Итоговый коэффициент бонус-малус ограничивается д
 иапазоном $\OT1/cmr/m/n/14.4 [0\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 46; 3\OML/
 cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 92]$
  []
 
 
-Overfull \hbox (13.50682pt too wide) in paragraph at lines 563--564
+Overfull \hbox (13.50682pt too wide) in paragraph at lines 550--551
 []\TU/TimesNewRoman(1)/m/n/14 Проведённое исследование позволило сформировать с
 ледующие научно обос-
  []
 
 
-Overfull \hbox (4.72617pt too wide) in paragraph at lines 566--567
+Overfull \hbox (4.72617pt too wide) in paragraph at lines 553--554
 []\TU/TimesNewRoman(0)/b/n/14 Обоснованность выбора признаков. \TU/TimesNewRoma
 n(1)/m/n/14 Разработана и верифицирована струк-
  []
 
 
-Overfull \hbox (3.6746pt too wide) in paragraph at lines 566--567
+Overfull \hbox (3.6746pt too wide) in paragraph at lines 553--554
 \TU/TimesNewRoman(1)/m/n/14 страховые коэффициенты, целевой признак). Селекция 
 признаков осуществ-
  []
 
-[38]
-Overfull \hbox (18.35806pt too wide) in paragraph at lines 568--569
+
+Overfull \hbox (18.35806pt too wide) in paragraph at lines 555--556
 \TU/TimesNewRoman(1)/m/n/14 явного кодирования, встроенные механизмы регуляриза
 ции (Ordered Boosting),
  []
 
-
-Overfull \hbox (3.2268pt too wide) in paragraph at lines 570--571
+[41]
+Overfull \hbox (3.2268pt too wide) in paragraph at lines 557--558
 []\TU/TimesNewRoman(0)/b/n/14 Корректность процедуры обучения. \TU/TimesNewRoma
 n(1)/m/n/14 Разработан регламентированный про-
  []
 
 
-Overfull \hbox (2.22194pt too wide) in paragraph at lines 570--571
+Overfull \hbox (2.22194pt too wide) in paragraph at lines 557--558
 \TU/TimesNewRoman(1)/m/n/14 нение обученной модели. Применение балансировки кла
 ссов ($\OML/cmm/m/it/14.4 w[] \OT1/cmr/m/n/14.4 = []$\TU/TimesNewRoman(1)/m/n/1
 4 )
  []
 
-[39]) [40] (parts/4 conclusion.tex)
+[42]) [43] (parts/4 conclusion.tex)
 
 LaTeX Warning: Empty bibliography on input line 37.
 
@@ -1570,7 +1498,7 @@ L3 programming layer <2025-12-24>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `VKR_Vinnitskaya_DS.out' has not changed.
-(rerunfilecheck)             Checksum: A064D004DC2AEA78FDFD311152091918;10198.
+(rerunfilecheck)             Checksum: EEE622EE709A1BF79FD1F8373E51D588;10474.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                VKR_Vinnitskaya_DS
@@ -1583,11 +1511,11 @@ Package logreq Info: Writing requests to 'VKR_Vinnitskaya_DS.run.xml'.
 Here is how much of TeX's memory you used:
  30794 strings out of 402987
  586905 string characters out of 5452871
- 1509803 words of memory out of 5000000
+ 1510071 words of memory out of 5000000
  59149 multiletter control sequences out of 15000+600000
  635868 words of font info for 111 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,12n,131p,1147b,4934s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.xd
-v (40 pages, 705532 bytes).
+v (43 pages, 780420 bytes).
