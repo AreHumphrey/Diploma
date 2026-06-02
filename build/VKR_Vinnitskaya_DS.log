@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  2 JUN 2026 11:37
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  3 JUN 2026 05:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1155,7 +1155,13 @@ Overfull \hbox (0.23386pt too wide) in paragraph at lines 9--9
 применения методов 
  []
 
-[2])
+[2]
+Overfull \hbox (0.20374pt too wide) in paragraph at lines 29--29
+ [][] [][]\TU/TimesNewRoman(1)/m/n/14 Архитектура веб-приложения и механизмы ме
+жкомпонент- 
+ []
+
+)
 \tf@toc=\write5
 \openout5 = `VKR_Vinnitskaya_DS.toc'.
 
@@ -1427,63 +1433,37 @@ Overfull \hbox (3.3991pt too wide) in paragraph at lines 473--474
 онического среднего F1-score
  []
 
-[36] [37] [38] [39]
-Overfull \hbox (18.37527pt too wide) in paragraph at lines 515--516
-[]\TU/TimesNewRoman(0)/b/n/14 Загрузка файлов. \TU/TimesNewRoman(1)/m/n/14 Подд
-ерживается загрузка CSV-файлов с данными о несколь-
+[36] [37] [38]
+Overfull \hbox (11.69904pt too wide) in paragraph at lines 499--500
+\TU/TimesNewRoman(1)/m/n/14 здания удобного инструмента взаимодействия с конечн
+ым пользователем осуществ-
  []
 
 
-Overfull \hbox (1.91205pt too wide) in paragraph at lines 516--517
-[]\TU/TimesNewRoman(0)/b/n/14 Отображение результатов. \TU/TimesNewRoman(1)/m/n
-/14 После отправки формы пользователь видит рас-
+Overfull \hbox (1.78693pt too wide) in paragraph at lines 499--500
+\TU/TimesNewRoman(1)/m/n/14 UX/UI-решений до программной реализации клиент-серв
+ерной архитектуры и ин-
  []
 
-[40]
-Overfull \hbox (4.25967pt too wide) in paragraph at lines 534--535
-[]\TU/TimesNewRoman(1)/m/n/14 Итоговый коэффициент бонус-малус ограничивается д
-иапазоном $\OT1/cmr/m/n/14.4 [0\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 46; 3\OML/
-cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 92]$
- []
-
-
-Overfull \hbox (13.50682pt too wide) in paragraph at lines 540--541
-[]\TU/TimesNewRoman(1)/m/n/14 Проведённое исследование позволило сформировать с
-ледующие научно обос-
+[39]
+Overfull \hbox (13.0374pt too wide) in paragraph at lines 503--504
+[]\TU/TimesNewRoman(1)/m/n/14 Непосредственная разработка пользовательского инт
+ерфейса веб-приложения
  []
 
 
-Overfull \hbox (4.72617pt too wide) in paragraph at lines 543--544
-[]\TU/TimesNewRoman(0)/b/n/14 Обоснованность выбора признаков. \TU/TimesNewRoma
-n(1)/m/n/14 Разработана и верифицирована струк-
+Overfull \hbox (0.43126pt too wide) in paragraph at lines 505--506
+\TU/TimesNewRoman(1)/m/n/14 оттенков гарантирует соответствие стандартам доступ
+ности. Дополнительный ак-
  []
 
-
-Overfull \hbox (3.6746pt too wide) in paragraph at lines 543--544
-\TU/TimesNewRoman(1)/m/n/14 страховые коэффициенты, целевой признак). Селекция 
-признаков осуществ-
+[40] [41]
+Overfull \hbox (3.23695pt too wide) in paragraph at lines 529--529
+ |[]\TU/TimesNewRoman(0)/b/n/14 Пользовательские сценарии и функциональное тест
+ирование ин-
  []
 
-
-Overfull \hbox (18.35806pt too wide) in paragraph at lines 545--546
-\TU/TimesNewRoman(1)/m/n/14 явного кодирования, встроенные механизмы регуляриза
-ции (Ordered Boosting),
- []
-
-[41]
-Overfull \hbox (3.2268pt too wide) in paragraph at lines 547--548
-[]\TU/TimesNewRoman(0)/b/n/14 Корректность процедуры обучения. \TU/TimesNewRoma
-n(1)/m/n/14 Разработан регламентированный про-
- []
-
-
-Overfull \hbox (2.22194pt too wide) in paragraph at lines 547--548
-\TU/TimesNewRoman(1)/m/n/14 нение обученной модели. Применение балансировки кла
-ссов ($\OML/cmm/m/it/14.4 w[] \OT1/cmr/m/n/14.4 = []$\TU/TimesNewRoman(1)/m/n/1
-4 )
- []
-
-[42]) [43] (parts/4 conclusion.tex)
+) [42] (parts/4 conclusion.tex)
 
 LaTeX Warning: Empty bibliography on input line 37.
 
@@ -1498,7 +1478,7 @@ L3 programming layer <2025-12-24>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `VKR_Vinnitskaya_DS.out' has not changed.
-(rerunfilecheck)             Checksum: EEE622EE709A1BF79FD1F8373E51D588;10474.
+(rerunfilecheck)             Checksum: 6F46EAC18CA47BDAB5892A34B4EC2503;12456.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                VKR_Vinnitskaya_DS
@@ -1509,13 +1489,13 @@ Package logreq Info: Writing requests to 'VKR_Vinnitskaya_DS.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30794 strings out of 402987
- 586905 string characters out of 5452871
- 1510072 words of memory out of 5000000
- 59149 multiletter control sequences out of 15000+600000
+ 30792 strings out of 402987
+ 586845 string characters out of 5452871
+ 1512053 words of memory out of 5000000
+ 59147 multiletter control sequences out of 15000+600000
  635868 words of font info for 111 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,12n,131p,1147b,4934s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.xd
-v (43 pages, 778244 bytes).
+v (42 pages, 772240 bytes).

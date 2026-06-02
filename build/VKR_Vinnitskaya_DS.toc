@@ -25,7 +25,8 @@
 \contentsline {subsubsection}{\numberline {2.4.2}Анализ зависимости тарифов от ключевых факторов риска}{38}{subsubsection.2.4.2}%
 \contentsline {subsubsection}{\numberline {2.4.3}Интерпретация результатов и практическая значимость}{39}{subsubsection.2.4.3}%
 \contentsline {subsection}{\numberline {2.5}Реализация веб-интерфейса}{39}{subsection.2.5}%
-\contentsline {subsubsection}{\numberline {2.5.1}Архитектура веб-приложения}{40}{subsubsection.2.5.1}%
-\contentsline {subsubsection}{\numberline {2.5.2}Функциональные возможности}{40}{subsubsection.2.5.2}%
-\contentsline {subsubsection}{\numberline {2.5.3}Пример расчета тарифа}{40}{subsubsection.2.5.3}%
-\contentsline {subsection}{\numberline {2.6}Выводы по главе}{41}{subsection.2.6}%
+\contentsline {subsubsection}{\numberline {2.5.1}Проектирование пользовательского интерфейса и прототипирование}{40}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Архитектура веб-приложения и механизмы межкомпонентного взаимодействия}{42}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}Разработка серверной части и интеграция с моделью машинного обучения}{42}{subsubsection.2.5.3}%
+\contentsline {subsubsection}{\numberline {2.5.4}Реализация клиентской части и механизмов визуализации данных}{42}{subsubsection.2.5.4}%
+\contentsline {subsubsection}{\numberline {2.5.5}Пользовательские сценарии и функциональное тестирование интерфейса}{42}{subsubsection.2.5.5}%
