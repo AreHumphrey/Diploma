@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  3 JUN 2026 05:06
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  3 JUN 2026 05:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1458,12 +1458,58 @@ Overfull \hbox (0.43126pt too wide) in paragraph at lines 505--506
  []
 
 [40] [41]
-Overfull \hbox (3.23695pt too wide) in paragraph at lines 529--529
+Overfull \hbox (6.39178pt too wide) in paragraph at lines 519--520
+[]\TU/TimesNewRoman(1)/m/n/14 Общая структурная схема веб-приложения, отражающа
+я навигационные свя-
+ []
+
+File: pictures/Архитектура веб-приложения и механизмы межкомпонентного взаимоде
+йствия.pdf Graphic file (type pdf)
+<use pictures/Архитектура веб-приложения и механизмы межкомпонентного взаимодей
+ствия.pdf>
+
+Overfull \hbox (2.69724pt too wide) in paragraph at lines 528--529
+\TU/TimesNewRoman(1)/m/n/14 серверной частями осуществляется по протоколу HTTP 
+с использованием RESTful
+ []
+
+[42]
+Overfull \hbox (0.90714pt too wide) in paragraph at lines 530--531
+[]\TU/TimesNewRoman(1)/m/n/14 Презентационный уровень системы включает три осно
+вные страницы: глав-
+ []
+
+
+Overfull \hbox (1.7255pt too wide) in paragraph at lines 532--533
+\TU/TimesNewRoman(1)/m/n/14 транспортного средства, региональных и погодных усл
+овий, а также истории стра-
+ []
+
+
+Overfull \hbox (5.9759pt too wide) in paragraph at lines 534--535
+[]\TU/TimesNewRoman(1)/m/n/14 Серверная часть приложения реализована на основе 
+микрофреймворка Flask,
+ []
+
+[43]
+Overfull \hbox (9.46907pt too wide) in paragraph at lines 540--541
+[]\TU/TimesNewRoman(1)/m/n/14 Этап инференса модели выполняет получение вероятн
+ости наступления стра-
+ []
+
+
+Overfull \hbox (1.763pt too wide) in paragraph at lines 542--543
+\TU/TimesNewRoman(1)/m/n/14 полнительно реализован функционал экспорта результа
+тов в форматах CSV и PDF,
+ []
+
+[44]
+Overfull \hbox (3.23695pt too wide) in paragraph at lines 558--558
  |[]\TU/TimesNewRoman(0)/b/n/14 Пользовательские сценарии и функциональное тест
 ирование ин-
  []
 
-) [42] (parts/4 conclusion.tex)
+) [45] (parts/4 conclusion.tex)
 
 LaTeX Warning: Empty bibliography on input line 37.
 
@@ -1489,13 +1535,13 @@ Package logreq Info: Writing requests to 'VKR_Vinnitskaya_DS.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30792 strings out of 402987
- 586845 string characters out of 5452871
- 1512053 words of memory out of 5000000
- 59147 multiletter control sequences out of 15000+600000
+ 30811 strings out of 402987
+ 587852 string characters out of 5452871
+ 1512182 words of memory out of 5000000
+ 59165 multiletter control sequences out of 15000+600000
  635868 words of font info for 111 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,12n,131p,1147b,4934s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.xd
-v (42 pages, 772240 bytes).
+v (45 pages, 831648 bytes).
