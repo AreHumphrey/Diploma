@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  3 JUN 2026 06:46
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  3 JUN 2026 23:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1513,12 +1513,60 @@ Overfull \hbox (1.763pt too wide) in paragraph at lines 557--558
  []
 
 [46]
-Overfull \hbox (3.23695pt too wide) in paragraph at lines 573--573
+Overfull \hbox (2.39532pt too wide) in paragraph at lines 569--570
+\TU/TimesNewRoman(1)/m/n/14 лью – класс \TU/DejaVuSansMono(0)/m/n/14 HybridKBMC
+alculator \TU/TimesNewRoman(1)/m/n/14 с загруженным классификатором CatBoost,
+ []
+
+[47]
+File: pictures/Схема архитектуры сервера.pdf Graphic file (type pdf)
+<use pictures/Схема архитектуры сервера.pdf>
+
+Overfull \hbox (0.76393pt too wide) in paragraph at lines 580--581
+\TU/TimesNewRoman(1)/m/n/14 связывающих URL-адреса с соответствующими функциями
+-обработчиками. При-
+ []
+
+[48]
+File: pictures/Блок-схема серверного конвейера.pdf Graphic file (type pdf)
+<use pictures/Блок-схема серверного конвейера.pdf>
+ [49] [50]
+Overfull \hbox (3.28484pt too wide) in paragraph at lines 603--604
+[]\TU/TimesNewRoman(1)/m/n/14 После успешной валидации и обработки данные транс
+формируются в струк-
+ []
+
+[51]
+Overfull \hbox (0.9461pt too wide) in paragraph at lines 611--612
+\TU/TimesNewRoman(1)/m/n/14 торое осуществляет сериализацию результатов расчета
+ в структурированный фор-
+ []
+
+
+Overfull \hbox (15.42772pt too wide) in paragraph at lines 613--614
+[]\TU/TimesNewRoman(1)/m/n/14 Конфигурация серверного приложения включает механ
+измы управления поль-
+ []
+
+[52]
+Overfull \hbox (4.67973pt too wide) in paragraph at lines 615--616
+\TU/TimesNewRoman(1)/m/n/14 штабируемости: модульная структура позволяет незави
+симо модифицировать ком-
+ []
+
+
+Overfull \hbox (7.28986pt too wide) in paragraph at lines 615--616
+\TU/TimesNewRoman(1)/m/n/14 суляция всех вычислительных процессов в рамках клас
+са \TU/DejaVuSansMono(0)/m/n/14 InsuranceRiskModel
+ []
+
+
+Overfull \hbox (3.23695pt too wide) in paragraph at lines 621--621
  |[]\TU/TimesNewRoman(0)/b/n/14 Пользовательские сценарии и функциональное тест
 ирование ин-
  []
 
-) [47] (parts/4 conclusion.tex)
+) [53] (parts/4 conclusion.tex)
 
 LaTeX Warning: Empty bibliography on input line 37.
 
@@ -1544,13 +1592,13 @@ Package logreq Info: Writing requests to 'VKR_Vinnitskaya_DS.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30821 strings out of 402987
- 588292 string characters out of 5452871
- 1512425 words of memory out of 5000000
- 59174 multiletter control sequences out of 15000+600000
+ 30841 strings out of 402987
+ 589186 string characters out of 5452871
+ 1512904 words of memory out of 5000000
+ 59192 multiletter control sequences out of 15000+600000
  635868 words of font info for 111 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,12n,131p,1147b,4934s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.xd
-v (47 pages, 855568 bytes).
+v (53 pages, 982432 bytes).
