@@ -1,36 +1,400 @@
 % ============================================================
-% ПРИЛОЖЕНИЯ — оформление по ДВФУ п. 5.1.6–5.1.7
-% Каждое приложение начинается с новой страницы.
-% Заголовок: «Приложение А» (по центру, полужирный),
-% ниже — название приложения (по центру, полужирный).
+% ПРИЛОЖЕНИЯ
 % ============================================================
-% \appendix
 
-% Настройка нумерации: «Приложение А», «Приложение Б», ...
-% \thesection содержит полный текст метки — он же идёт в оглавление
-% \renewcommand{\thesection}{Приложение~\Asbuk{section}}
+\appendix
+\renewcommand{\thesection}{Приложение~\Asbuk{section}}
 
-% Формат заголовка приложения по ДВФУ п. 5.1.6–5.1.7:
-%   — первая строка: «Приложение А» (по центру, полужирный)
-%   — вторая строка: название (по центру, полужирный)
-%\titleformat{\section}[display]
-%    {\filcenter\normalfont\normalsize\bfseries}
-%    {\thesection}
-%    {0pt}
-%    {}
-%\titlespacing*{\section}{0pt}{\baselineskip}{\baselineskip}
+% ============================================================
+\newpage
+\section*{Приложение А}
+\addcontentsline{toc}{section}{Приложение А~--- Перечень признаков модели}
+\begin{center}
+\textbf{ПЕРЕЧЕНЬ ПРИЗНАКОВ МОДЕЛИ}
+\end{center}
 
-%\newpage\section{Исходный код ключевых модулей}
-% Листинги: Stage, PipelineEngine, ModelRegistry, EventBus
+\vspace{1cm}
 
-%\newpage\section{Конфигурационные файлы}
-% Пример config.yaml с маппингом язык → модель
+\begin{table}[h]
+\centering
+\caption{Структура признаков, используемых в модели прогнозирования}
+\label{tab:features}
+\begin{tabular}{|l|l|l|p{6cm}|}
+\hline
+\textbf{Признак} & \textbf{Тип} & \textbf{Диапазон} & \textbf{Описание} \\
+\hline
+driver\_age & Числовой & [18; 80] & Возраст водителя в годах \\
+\hline
+driver\_experience & Числовой & [0; 60] & Водительский стаж в годах \\
+\hline
+vehicle\_age & Числовой & [0; 30] & Возраст транспортного средства \\
+\hline
+engine\_power & Числовой & [60; 300] & Мощность двигателя (л.с.) \\
+\hline
+num\_claims & Числовой & [0; 10] & Количество страховых обращений \\
+\hline
+violation\_count & Числовой & [0; 20] & Количество нарушений ПДД \\
+\hline
+pct\_days\_with\_rain & Числовой & [0; 1] & Доля дней с осадками \\
+\hline
+night\_driving\_ratio & Числовой & [0; 1] & Доля ночных поездок \\
+\hline
+vehicle\_type & Категориальный & --- & Тип транспортного средства \\
+\hline
+region & Категориальный & --- & Регион эксплуатации \\
+\hline
+occupation\_type & Категориальный & --- & Тип занятости водителя \\
+\hline
+target & Бинарный & \{0, 1\} & Факт страхового случая \\
+\hline
+\end{tabular}
+\end{table}
 
-%\newpage\section{Скриншоты интерфейса}
-% Полноразмерные скриншоты всех экранов GUI
+% ============================================================
+\newpage
+\section*{Приложение Б}
+\addcontentsline{toc}{section}{Приложение Б~--- Генерация признаков и обучение модели}
+\begin{center}
+\textbf{ГЕНЕРАЦИЯ ПРИЗНАКОВ И ОБУЧЕНИЕ МОДЕЛИ}
+\end{center}
 
-%\newpage\section{Результаты экспериментов}
-% Полные таблицы WER/DER по всем конфигурациям
+\vspace{1cm}
 
-%\newpage\section{Акт внедрения / справка об использовании}
-% (при наличии)
+\begin{lstlisting}[caption={Код генерации производных признаков}, label={lst:feature_eng}]
+# Код генерации признаков будет вставлен здесь
+# include: feature_engineering.py
+\end{lstlisting}
+
+% ============================================================
+\newpage
+\section*{Приложение В}
+\addcontentsline{toc}{section}{Приложение В~--- Обработка признаков и обучение CatBoost}
+\begin{center}
+\textbf{ОБРАБОТКА ПРИЗНАКОВ И ОБУЧЕНИЕ CATBOOST}
+\end{center}
+
+\vspace{1cm}
+
+\begin{lstlisting}[caption={Обучение модели CatBoostClassifier}, label={lst:training}]
+# Код обучения модели будет вставлен здесь
+# include: model_training.py
+\end{lstlisting}
+
+% ============================================================
+\newpage
+\section*{Приложение Г}
+\addcontentsline{toc}{section}{Приложение Г~--- Подбор оптимального порога классификации}
+\begin{center}
+\textbf{ПОДБОР ОПТИМАЛЬНОГО ПОРОГА КЛАССИФИКАЦИИ}
+\end{center}
+
+\vspace{1cm}
+
+\begin{figure}[h]
+\centering
+\fbox{\parbox[c][6cm][c]{10cm}{\centering \textit{Здесь будет размещен график зависимости Precision, Recall и F1-score от порога классификации $\theta$}}}
+\caption{Зависимость метрик качества от порога классификации}
+\label{fig:threshold}
+\end{figure}
+
+% ============================================================
+\newpage
+\section*{Приложение Д}
+\addcontentsline{toc}{section}{Приложение Д~--- Сериализация модели}
+\begin{center}
+\textbf{СЕРИАЛИЗАЦИЯ МОДЕЛИ}
+\end{center}
+
+\vspace{1cm}
+
+\begin{lstlisting}[caption={Метод сохранения модели в формат .cbm}, label={lst:save}]
+# Код метода save_model() будет вставлен здесь
+\end{lstlisting}
+
+% ============================================================
+\newpage
+\section*{Приложение Е}
+\addcontentsline{toc}{section}{Приложение Е~--- Важность признаков}
+\begin{center}
+\textbf{ВАЖНОСТЬ ПРИЗНАКОВ МОДЕЛИ}
+\end{center}
+
+\vspace{1cm}
+
+\begin{figure}[h]
+\centering
+\fbox{\parbox[c][8cm][c]{12cm}{\centering \textit{Здесь будет размещена горизонтальная столбчатая диаграмма важности признаков (feature importance)}}}
+\caption{Ранжирование признаков по степени влияния на прогноз}
+\label{fig:importance}
+\end{figure}
+
+% ============================================================
+\newpage
+\section*{Приложение Ж}
+\addcontentsline{toc}{section}{Приложение Ж~--- Матрица ошибок}
+\begin{center}
+\textbf{МАТРИЦА ОШИБОК (CONFUSION MATRIX)}
+\end{center}
+
+\vspace{1cm}
+
+\begin{figure}[h]
+\centering
+\fbox{\parbox[c][6cm][c]{8cm}{\centering \textit{Здесь будет размещена матрица ошибок (heatmap) с значениями TP, TN, FP, FN}}}
+\caption{Распределение прогнозов модели}
+\label{fig:confusion}
+\end{figure}
+
+% ============================================================
+\newpage
+\section*{Приложение З}
+\addcontentsline{toc}{section}{Приложение З~--- ROC-кривая}
+\begin{center}
+\textbf{ROC-КРИВАЯ МОДЕЛИ}
+\end{center}
+
+\vspace{1cm}
+
+\begin{figure}[h]
+\centering
+\fbox{\parbox[c][7cm][c]{10cm}{\centering \textit{Здесь будет размещена ROC-кривая с указанием AUC = 0.9919}}}
+\caption{ROC-кривая классификатора}
+\label{fig:roc}
+\end{figure}
+
+% ============================================================
+\newpage
+\section*{Приложение И}
+\addcontentsline{toc}{section}{Приложение И~--- Детальный анализ важности признаков}
+\begin{center}
+\textbf{ДЕТАЛЬНЫЙ АНАЛИЗ ВАЖНОСТИ ПРИЗНАКОВ}
+\end{center}
+
+\vspace{1cm}
+
+\begin{figure}[h]
+\centering
+\fbox{\parbox[c][9cm][c]{12cm}{\centering \textit{Здесь будет размещена расширенная диаграмма важности признаков с группировкой по категориям}}}
+\caption{Вклад групп признаков в прогноз модели}
+\label{fig:importance_detailed}
+\end{figure}
+
+% ============================================================
+\newpage
+\section*{Приложение К}
+\addcontentsline{toc}{section}{Приложение К~--- Цветовая палитра приложения}
+\begin{center}
+\textbf{ЦВЕТОВАЯ ПАЛИТРА ВЕБ-ПРИЛОЖЕНИЯ}
+\end{center}
+
+\vspace{1cm}
+
+\begin{figure}[h]
+\centering
+\fbox{\parbox[c][5cm][c]{10cm}{\centering \textit{Здесь будет размещена цветовая палитра с HEX-кодами (темно-зеленый, изумрудный, акцентный зеленый)}}}
+\caption{Фирменная цветовая схема OSAGO Calculator}
+\label{fig:colors}
+\end{figure}
+
+% ============================================================
+\newpage
+\section*{Приложение Л}
+\addcontentsline{toc}{section}{Приложение Л~--- Главная страница}
+\begin{center}
+\textbf{ГЛАВНАЯ СТРАНИЦА ВЕБ-ПРИЛОЖЕНИЯ}
+\end{center}
+
+\vspace{1cm}
+
+\begin{figure}[h]
+\centering
+\fbox{\parbox[c][10cm][c]{14cm}{\centering \textit{Здесь будет размещен скриншот главной страницы (index.html)}}}
+\caption{Интерфейс главной страницы OSAGO Calculator}
+\label{fig:main_page}
+\end{figure}
+
+% ============================================================
+\newpage
+\section*{Приложение М}
+\addcontentsline{toc}{section}{Приложение М~--- Страница документации}
+\begin{center}
+\textbf{СТРАНИЦА ДОКУМЕНТАЦИИ}
+\end{center}
+
+\vspace{1cm}
+
+\begin{figure}[h]
+\centering
+\fbox{\parbox[c][10cm][c]{14cm}{\centering \textit{Здесь будет размещен скриншот страницы документации (docs.html)}}}
+\caption{Страница с описанием методологии расчета}
+\label{fig:docs_page}
+\end{figure}
+
+% ============================================================
+\newpage
+\section*{Приложение Н}
+\addcontentsline{toc}{section}{Приложение Н~--- Форма ввода данных}
+\begin{center}
+\textbf{ФОРМА ВВОДА ПЕРСОНАЛЬНЫХ ДАННЫХ}
+\end{center}
+
+\vspace{1cm}
+
+\begin{figure}[h]
+\centering
+\fbox{\parbox[c][12cm][c]{14cm}{\centering \textit{Здесь будет размещен скриншот формы ввода данных (calculate.html)}}}
+\caption{Интерфейс ввода параметров водителя и транспортного средства}
+\label{fig:form_page}
+\end{figure}
+
+% ============================================================
+\newpage
+\section*{Приложение О}
+\addcontentsline{toc}{section}{Приложение О~--- Страница результатов}
+\begin{center}
+\textbf{СТРАНИЦА РЕЗУЛЬТАТОВ РАСЧЕТА}
+\end{center}
+
+\vspace{1cm}
+
+\begin{figure}[h]
+\centering
+\fbox{\parbox[c][8cm][c]{14cm}{\centering \textit{Здесь будет размещен скриншот страницы результатов (result.html)}}}
+\caption{Отображение финального тарифа и коэффициентов КБМ}
+\label{fig:result_page}
+\end{figure}
+
+% ============================================================
+\newpage
+\section*{Приложение П}
+\addcontentsline{toc}{section}{Приложение П~--- Инициализация Flask-приложения}
+\begin{center}
+\textbf{ИНИЦИАЛИЗАЦИЯ FLASK-ПРИЛОЖЕНИЯ}
+\end{center}
+
+\vspace{1cm}
+
+\begin{lstlisting}[caption={Основной модуль приложения (app.py)}, label={lst:flask_init}]
+# Код инициализации Flask будет вставлен здесь
+# include: app.py (начало файла)
+\end{lstlisting}
+
+% ============================================================
+\newpage
+\section*{Приложение Р}
+\addcontentsline{toc}{section}{Приложение Р~--- Маршруты сервера}
+\begin{center}
+\textbf{МАРШРУТЫ СЕРВЕРНОГО ПРИЛОЖЕНИЯ}
+\end{center}
+
+\vspace{1cm}
+
+\begin{lstlisting}[caption={Реализация эндпоинтов Flask}, label={lst:routes}]
+# Код маршрутов (@app.route) будет вставлен здесь
+\end{lstlisting}
+
+% ============================================================
+\newpage
+\section*{Приложение С}
+\addcontentsline{toc}{section}{Приложение С~--- Обработка POST-запросов}
+\begin{center}
+\textbf{ОБРАБОТКА POST-ЗАПРОСОВ}
+\end{center}
+
+\vspace{1cm}
+
+\begin{lstlisting}[caption={Обработка данных формы калькулятора}, label={lst:post}]
+# Код обработки POST-запросов будет вставлен здесь
+# include: calculate() route implementation
+\end{lstlisting}
+
+% ============================================================
+\newpage
+\section*{Приложение Т}
+\addcontentsline{toc}{section}{Приложение Т~--- Функции экспорта}
+\begin{center}
+\textbf{ФУНКЦИИ ЭКСПОРТА РЕЗУЛЬТАТОВ}
+\end{center}
+
+\vspace{1cm}
+
+\begin{lstlisting}[caption={Экспорт в PDF, CSV и PNG}, label={lst:export}]
+# Код функций экспорта будет вставлен здесь
+# include: download_pdf(), download_csv(), download_graph()
+\end{lstlisting}
+
+% ============================================================
+\newpage
+\section*{Приложение У}
+\addcontentsline{toc}{section}{Приложение У~--- CSS-стили интерфейса}
+\begin{center}
+\textbf{CSS-СТИЛИ ИНТЕРФЕЙСА}
+\end{center}
+
+\vspace{1cm}
+
+\begin{lstlisting}[caption={Основные стили оформления}, label={lst:css}]
+/* CSS код будет вставлен здесь */
+/* include: style section from HTML */
+\end{lstlisting}
+
+% ============================================================
+\newpage
+\section*{Приложение Ф}
+\addcontentsline{toc}{section}{Приложение Ф~--- HTML-структура формы}
+\begin{center}
+\textbf{HTML-СТРУКТУРА ФОРМЫ ВВОДА}
+\end{center}
+
+\vspace{1cm}
+
+\begin{lstlisting}[caption={Разметка формы калькулятора}, label={lst:html}]
+<!-- HTML код формы будет вставлен здесь -->
+<!-- include: form structure from calculate.html -->
+\end{lstlisting}
+
+% ============================================================
+\newpage
+\section*{Приложение Х}
+\addcontentsline{toc}{section}{Приложение Х~--- График сравнения КБМ}
+\begin{center}
+\textbf{ГРАФИК СРАВНЕНИЯ КОЭФФИЦИЕНТОВ КБМ}
+\end{center}
+
+\vspace{1cm}
+
+\begin{figure}[h]
+\centering
+\fbox{\parbox[c][7cm][c]{10cm}{\centering \textit{Здесь будет размещена столбчатая диаграмма сравнения Base KBM, Final KBM и Average KBM}}}
+\caption{Сравнение индивидуального КБМ со среднерыночным значением}
+\label{fig:kbm_comparison}
+\end{figure}
+
+% ============================================================
+\newpage
+\section*{Приложение Ц}
+\addcontentsline{toc}{section}{Приложение Ц~--- Пример CSV-файла}
+\begin{center}
+\textbf{ПРИМЕР CSV-ФАЙЛА С РЕЗУЛЬТАТАМИ}
+\end{center}
+
+\vspace{1cm}
+
+\begin{lstlisting}[caption={Структура экспортируемого CSV-файла}, label={lst:csv}]
+OSAGOCalculator Results
+Generated,2026-04-21 01:23:58
+
+Parameter,Value
+Final CTP Tariff (₽),11100
+Final KBM,0.55
+Base KBM,0.46
+Region,Moscow
+
+Driver Details
+Age (years),40
+Experience (years),20
+Vehicle Age (years),6
+Engine Power (hp),150
+Number of Claims,0
+DTC Errors,No
+\end{lstlisting}

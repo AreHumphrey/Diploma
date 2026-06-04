@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber build/VKR_Vinnitskaya_DS"] 1778762912.42322 "build/VKR_Vinnitskaya_DS.bcf" "build/VKR_Vinnitskaya_DS.bbl" "build/VKR_Vinnitskaya_DS" 1780598336.23685 0
-  "build/VKR_Vinnitskaya_DS.bcf" 1780598335 107834 f2b745f66c6b5140b8504dc376311e9b "xelatex"
+["biber build/VKR_Vinnitskaya_DS"] 1778762912.42322 "build/VKR_Vinnitskaya_DS.bcf" "build/VKR_Vinnitskaya_DS.bbl" "build/VKR_Vinnitskaya_DS" 1780599896.21873 0
+  "build/VKR_Vinnitskaya_DS.bcf" 1780599895 107834 f2b745f66c6b5140b8504dc376311e9b "xelatex"
   "refs/bibliography.bib" 1776302731 15789 818c810756f6eb291e8b4af77c21783e ""
   (generated)
   "build/VKR_Vinnitskaya_DS.bbl"
   "build/VKR_Vinnitskaya_DS.blg"
   (rewritten before read)
-["xdvipdfmx"] 1780598335.67469 "build/VKR_Vinnitskaya_DS.xdv" "build/VKR_Vinnitskaya_DS.pdf" "build/VKR_Vinnitskaya_DS" 1780598336.24549 0
-  "build/VKR_Vinnitskaya_DS.xdv" 1780598335 1111840 b05d276231f275c77f0dab66b3233159 "xelatex"
+["xdvipdfmx"] 1780599895.46863 "build/VKR_Vinnitskaya_DS.xdv" "build/VKR_Vinnitskaya_DS.pdf" "build/VKR_Vinnitskaya_DS" 1780599896.22788 0
+  "build/VKR_Vinnitskaya_DS.xdv" 1780599895 1199780 8a34c566cf2b2b18b6238b88bf5b47b3 "xelatex"
   (generated)
   "build/VKR_Vinnitskaya_DS.pdf"
   (rewritten before read)
-["xelatex"] 1780598332.06105 "c:/Users/lutdi/diplom_bakalavriat/main.tex" "build/VKR_Vinnitskaya_DS.xdv" "VKR_Vinnitskaya_DS" 1780598336.23713 0
+["xelatex"] 1780599891.52069 "c:/Users/lutdi/diplom_bakalavriat/main.tex" "build/VKR_Vinnitskaya_DS.xdv" "VKR_Vinnitskaya_DS" 1780599896.21901 0
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136736254 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -142,11 +142,11 @@
   "C:/Program Files/MiKTeX/tex/xelatex/xunicode/xunicode.sty" 1315551046 205722 8027ed7ab2230086d647802c25f3ee42 ""
   "C:/Users/lutdi/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1776274304 27167978 607dca3b21fd61676801dd7c6421a101 ""
   "C:/Users/lutdi/AppData/Roaming/MiKTeX/tex/latex/fancyhdr/fancyhdr.sty" 1740138435 31715 19e60610b63819fe670dfa1cd84a4e94 ""
-  "build/VKR_Vinnitskaya_DS.aux" 1780598335 9852 721b952ad00c3c62e3073f9cb3b1c02a "xelatex"
+  "build/VKR_Vinnitskaya_DS.aux" 1780599895 22143 056882271b3834e3ddb52af325b68a5f "xelatex"
   "build/VKR_Vinnitskaya_DS.bbl" 1778762915 486 76d65a242ec496c9b4361af646ff12cb "biber build/VKR_Vinnitskaya_DS"
-  "build/VKR_Vinnitskaya_DS.out" 1780598335 12634 053acc94a2e909a0f6ded975a4a81870 "xelatex"
-  "build/VKR_Vinnitskaya_DS.run.xml" 1780598335 2508 df73330c0e54cf9ab99750f413ba916f "xelatex"
-  "build/VKR_Vinnitskaya_DS.toc" 1780598335 4768 41b6206338ecc6c71257aadd3d971699 "xelatex"
+  "build/VKR_Vinnitskaya_DS.out" 1780599895 20267 fe9479a2a0aa1e9fae20d88626be4b11 "xelatex"
+  "build/VKR_Vinnitskaya_DS.run.xml" 1780599895 2508 df73330c0e54cf9ab99750f413ba916f "xelatex"
+  "build/VKR_Vinnitskaya_DS.toc" 1780599895 7371 469da99ab52cd57b51175b855e80318a "xelatex"
   "c:/Users/lutdi/diplom_bakalavriat/main.tex" 1776786694 693 da567dd124058c68ac7b29660a1ee9c7 ""
   "main.tex" 1776786694 693 da567dd124058c68ac7b29660a1ee9c7 ""
   "parts/1 titlepage.tex" 1776306799 549 8306eb957091dc6507cef3d025806b66 ""
@@ -155,7 +155,7 @@
   "parts/2a terms.tex" 1776872902 9498 a58bf38a80e93ca693ac40259c2be791 ""
   "parts/3 main.tex" 1780598327 168215 2a1d2d0dd52dbe4ef8246815d137e7e3 ""
   "parts/4 conclusion.tex" 1776302731 1079 aaf370fa3bb253d9e09ba3234fc2ea04 ""
-  "parts/5 appendix.tex" 1776302731 1937 fe59742c50610439ff56c4f85d46979a ""
+  "parts/5 appendix.tex" 1780599881 15056 51fdbae60d5d4574944a3c8357080864 ""
   "pictures/logo.pdf" 1776302731 47205 bc4d11aad9b42687e32cd120af9cb884 ""
   "pictures/Архитектура веб-приложения и механизмы межкомпонентного взаимодействия.pdf" 1780428528 254012 16dab53c64ba74df5fae4115f7d0479d ""
   "pictures/Архитектурная схема системы.pdf" 1780431765 290052 63ace8ff250133638d66af5749bf886c ""

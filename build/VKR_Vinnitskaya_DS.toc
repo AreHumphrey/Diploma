@@ -1,33 +1,55 @@
 \xpg@aux {}{russian}
-\contentsline {section}{Аннотация}{4}{Doc-Start}%
-\contentsline {section}{Введение}{5}{Doc-Start}%
-\contentsline {section}{Термины, определения и сокращения}{9}{Item.8}%
-\contentsline {section}{\numberline {1}Анализ предметной области и существующих решений}{12}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Модели, используемые для расчета страховых тарифов}{12}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Методы машинного обучения в мировой практике страхования}{13}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Особенности российской практики страхования и система бонус-малус}{15}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}Математическое обоснование необходимости применения методов машинного обучения}{17}{subsection.1.4}%
-\contentsline {subsection}{\numberline {1.5}Методы машинного обучения в данной работе}{19}{subsection.1.5}%
-\contentsline {subsection}{\numberline {1.6}Выводы по главе}{21}{subsection.1.6}%
-\contentsline {section}{\numberline {2}Разработка прогнозной модели страховых рисков на основе машинного обучения}{23}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Описание данных и их подготовка}{23}{subsection.2.1}%
-\contentsline {subsubsection}{\numberline {2.1.1}Источники данных}{23}{subsubsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.2}Структура признаков}{24}{subsubsection.2.1.2}%
-\contentsline {subsubsection}{\numberline {2.1.3}Методы очистки и нормализации данных}{27}{subsubsection.2.1.3}%
-\contentsline {subsection}{\numberline {2.2}Определение факторов, влияющих на вероятность ДТП}{28}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Генерация производных признаков}{29}{subsubsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.3}Разработка модели прогнозирования аварийности}{30}{subsection.2.3}%
-\contentsline {subsubsection}{\numberline {2.3.1}Архитектурная структура модели}{30}{subsubsection.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.3.2}Этапы построения модели}{32}{subsubsection.2.3.2}%
-\contentsline {subsubsection}{\numberline {2.3.3}Анализ важности признаков}{36}{subsubsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.4}Тестирование модели и анализ результатов}{37}{subsection.2.4}%
-\contentsline {subsubsection}{\numberline {2.4.1}Метрики оценки качества и результаты тестирования}{38}{subsubsection.2.4.1}%
-\contentsline {subsubsection}{\numberline {2.4.2}Анализ зависимости тарифов от ключевых факторов риска}{39}{subsubsection.2.4.2}%
-\contentsline {subsubsection}{\numberline {2.4.3}Интерпретация результатов и практическая значимость}{40}{subsubsection.2.4.3}%
-\contentsline {subsection}{\numberline {2.5}Реализация веб-интерфейса}{41}{subsection.2.5}%
-\contentsline {subsubsection}{\numberline {2.5.1}Проектирование пользовательского интерфейса и прототипирование}{41}{subsubsection.2.5.1}%
-\contentsline {subsubsection}{\numberline {2.5.2}Архитектура веб-приложения и механизмы межкомпонентного взаимодействия}{43}{subsubsection.2.5.2}%
-\contentsline {subsubsection}{\numberline {2.5.3}Разработка серверной части и интеграция с моделью машинного обучения}{47}{subsubsection.2.5.3}%
-\contentsline {subsubsection}{\numberline {2.5.4}Реализация клиентской части и механизмов визуализации данных}{53}{subsubsection.2.5.4}%
-\contentsline {subsubsection}{\numberline {2.5.5}Пользовательские сценарии и функциональное тестирование интерфейса}{56}{subsubsection.2.5.5}%
-\contentsline {subsection}{\numberline {2.6}Выводы по главе}{59}{subsection.2.6}%
+\contentsline {section}{Аннотация}{5}{Doc-Start}%
+\contentsline {section}{Введение}{6}{Doc-Start}%
+\contentsline {section}{Термины, определения и сокращения}{10}{Item.8}%
+\contentsline {section}{\numberline {1}Анализ предметной области и существующих решений}{13}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Модели, используемые для расчета страховых тарифов}{13}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Методы машинного обучения в мировой практике страхования}{14}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Особенности российской практики страхования и система бонус-малус}{16}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Математическое обоснование необходимости применения методов машинного обучения}{18}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Методы машинного обучения в данной работе}{20}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Выводы по главе}{22}{subsection.1.6}%
+\contentsline {section}{\numberline {2}Разработка прогнозной модели страховых рисков на основе машинного обучения}{24}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Описание данных и их подготовка}{24}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Источники данных}{24}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Структура признаков}{25}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Методы очистки и нормализации данных}{28}{subsubsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.2}Определение факторов, влияющих на вероятность ДТП}{29}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Генерация производных признаков}{30}{subsubsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.3}Разработка модели прогнозирования аварийности}{31}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Архитектурная структура модели}{31}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Этапы построения модели}{33}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Анализ важности признаков}{37}{subsubsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.4}Тестирование модели и анализ результатов}{38}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Метрики оценки качества и результаты тестирования}{39}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Анализ зависимости тарифов от ключевых факторов риска}{40}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Интерпретация результатов и практическая значимость}{41}{subsubsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.5}Реализация веб-интерфейса}{42}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Проектирование пользовательского интерфейса и прототипирование}{42}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Архитектура веб-приложения и механизмы межкомпонентного взаимодействия}{44}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}Разработка серверной части и интеграция с моделью машинного обучения}{48}{subsubsection.2.5.3}%
+\contentsline {subsubsection}{\numberline {2.5.4}Реализация клиентской части и механизмов визуализации данных}{54}{subsubsection.2.5.4}%
+\contentsline {subsubsection}{\numberline {2.5.5}Пользовательские сценарии и функциональное тестирование интерфейса}{57}{subsubsection.2.5.5}%
+\contentsline {subsection}{\numberline {2.6}Выводы по главе}{60}{subsection.2.6}%
+\contentsline {section}{Приложение А~--- Перечень признаков модели}{62}{subsection.2.6}%
+\contentsline {section}{Приложение Б~--- Генерация признаков и обучение модели}{63}{table.caption.7}%
+\contentsline {section}{Приложение В~--- Обработка признаков и обучение CatBoost}{64}{lstnumber.1.2}%
+\contentsline {section}{Приложение Г~--- Подбор оптимального порога классификации}{65}{lstnumber.2.2}%
+\contentsline {section}{Приложение Д~--- Сериализация модели}{66}{figure.caption.8}%
+\contentsline {section}{Приложение Е~--- Важность признаков}{67}{lstnumber.3.1}%
+\contentsline {section}{Приложение Ж~--- Матрица ошибок}{68}{figure.caption.9}%
+\contentsline {section}{Приложение З~--- ROC-кривая}{69}{figure.caption.10}%
+\contentsline {section}{Приложение И~--- Детальный анализ важности признаков}{70}{figure.caption.11}%
+\contentsline {section}{Приложение К~--- Цветовая палитра приложения}{71}{figure.caption.12}%
+\contentsline {section}{Приложение Л~--- Главная страница}{72}{figure.caption.13}%
+\contentsline {section}{Приложение М~--- Страница документации}{73}{figure.caption.14}%
+\contentsline {section}{Приложение Н~--- Форма ввода данных}{74}{figure.caption.15}%
+\contentsline {section}{Приложение О~--- Страница результатов}{75}{figure.caption.16}%
+\contentsline {section}{Приложение П~--- Инициализация Flask-приложения}{76}{figure.caption.17}%
+\contentsline {section}{Приложение Р~--- Маршруты сервера}{77}{lstnumber.4.2}%
+\contentsline {section}{Приложение С~--- Обработка POST-запросов}{78}{lstnumber.5.1}%
+\contentsline {section}{Приложение Т~--- Функции экспорта}{79}{lstnumber.6.2}%
+\contentsline {section}{Приложение У~--- CSS-стили интерфейса}{80}{lstnumber.7.2}%
+\contentsline {section}{Приложение Ф~--- HTML-структура формы}{81}{lstnumber.8.2}%
+\contentsline {section}{Приложение Х~--- График сравнения КБМ}{82}{lstnumber.9.2}%
+\contentsline {section}{Приложение Ц~--- Пример CSV-файла}{83}{figure.caption.18}%
