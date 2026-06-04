@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  5 JUN 2026 05:42
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  5 JUN 2026 05:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1219,22 +1219,11 @@ Overfull \hbox (8.0088pt too wide) in paragraph at lines 6--7
 совых последствий неопре-
  []
 
-
-Overfull \hbox (2.77364pt too wide) in paragraph at lines 16--17
-\TU/TimesNewRoman(1)/m/n/14 предсказанными вероятностями и истинными метками кл
-ассов; минимизация дан-
- []
-
 [10]
-Overfull \hbox (2.00002pt too wide) in paragraph at lines 26--27
-\TU/TimesNewRoman(1)/m/n/14 шинного обучения, основанный на последовательном по
-строении композиции мо-
- []
-
-
-Overfull \hbox (7.07118pt too wide) in paragraph at lines 34--35
-\TU/TimesNewRoman(1)/m/n/14 числительная логика); в работе реализована через вз
-аимодействие браузера и Flask-
+Overfull \hbox (93.2473pt too wide) in paragraph at lines 38--39
+\TU/TimesNewRoman(1)/m/n/14 и получение прогноза; в работе реализован в виде пр
+ограммного класса \TU/DejaVuSansMono(0)/m/n/14 InsuranceRiskModel\TU/TimesNewRo
+man(1)/m/n/14 . 
  []
 
 
@@ -1255,16 +1244,16 @@ Overfull \hbox (0.31386pt too wide) in paragraph at lines 48--49
 о состояния, но не от преды-
  []
 
-[12]
-Overfull \hbox (2.2712pt too wide) in paragraph at lines 78--79
-\TU/TimesNewRoman(1)/m/n/14 обучение модели прекращается, если качество на вали
-дационной выборке не улуч-
+
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 62--63
+[]\TU/TimesNewRoman(1)/b/n/14 Обучение с подкреплением \TU/TimesNewRoman(1)/m/n
+/14 — раздел машинного обучения, в котором агент
  []
 
-
-Overfull \hbox (87.0038pt too wide) in paragraph at lines 78--79
-\TU/TimesNewRoman(1)/m/n/14 шается в течение заданного числа итераций; в работе
- используется \TU/DejaVuSansMono(0)/m/n/14 early_stopping_rounds
+[12]
+Overfull \hbox (1.3469pt too wide) in paragraph at lines 68--69
+[]\TU/TimesNewRoman(1)/b/n/14 Переобучение \TU/TimesNewRoman(1)/m/n/14 — ситуац
+ия в машинном обучении, при которой модель чрез-
  []
 
 [13]
@@ -1274,18 +1263,12 @@ Overfull \hbox (5.46129pt too wide) in paragraph at lines 90--91
  []
 
 
-Overfull \hbox (1.45894pt too wide) in paragraph at lines 96--97
-\TU/TimesNewRoman(1)/m/n/14 ускорение, резкость торможения, геолокация); в рабо
-те используется датасет \TU/TimesNewRoman(1)/m/it/14 Levin
+Overfull \hbox (8.12694pt too wide) in paragraph at lines 106--107
+[]\TU/TimesNewRoman(1)/b/n/14 Целевая переменная \TU/TimesNewRoman(1)/m/n/14 — 
+бинарный индикатор факта дорожно-транспортного
  []
 
 [14]
-Overfull \hbox (55.08528pt too wide) in paragraph at lines 106--107
-[]\TU/TimesNewRoman(1)/b/n/14 Целевая переменная \TU/TimesNewRoman(1)/m/n/14 (T
-arget) — бинарный индикатор факта дорожно-транспортного
- []
-
-
 Overfull \hbox (6.25964pt too wide) in paragraph at lines 110--111
 []\TU/TimesNewRoman(1)/b/n/14 Базовая ставка тарифа \TU/TimesNewRoman(1)/m/n/14
  — минимальная стоимость страхового полиса, уста-
@@ -1297,13 +1280,12 @@ Overfull \hbox (1.31726pt too wide) in paragraph at lines 112--113
 Roman(1)/m/n/14 — параметр, отвечающий за сте-
  []
 
-
-Overfull \hbox (45.30989pt too wide) in paragraph at lines 116--117
-[]\TU/TimesNewRoman(1)/b/n/14 Маршрутизация \TU/TimesNewRoman(1)/m/n/14 (Routin
-g) — механизм сопоставления URL-адресов с функциями-
+[15]
+Overfull \hbox (5.29376pt too wide) in paragraph at lines 136--137
+\TU/TimesNewRoman(1)/m/n/14 котором значения признаков ограничиваются физиологи
+чески и практически обос-
  []
 
-[15]
 LaTeX Font Info:    Calculating math sizes for size <11.66681> on input line 14
 5.
 
@@ -1707,4 +1689,4 @@ Here is how much of TeX's memory you used:
  89i,12n,131p,1147b,3997s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.xd
-v (91 pages, 1363896 bytes).
+v (91 pages, 1357604 bytes).
