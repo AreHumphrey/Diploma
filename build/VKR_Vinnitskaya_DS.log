@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  5 JUN 2026 05:58
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  5 JUN 2026 06:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1219,95 +1219,82 @@ Overfull \hbox (8.0088pt too wide) in paragraph at lines 6--7
 совых последствий неопре-
  []
 
-[10]
-Overfull \hbox (93.2473pt too wide) in paragraph at lines 38--39
-\TU/TimesNewRoman(1)/m/n/14 и получение прогноза; в работе реализован в виде пр
-ограммного класса \TU/DejaVuSansMono(0)/m/n/14 InsuranceRiskModel\TU/TimesNewRo
-man(1)/m/n/14 . 
- []
-
-
-Overfull \hbox (51.3369pt too wide) in paragraph at lines 42--43
-[]\TU/TimesNewRoman(1)/b/n/14 Кросс-браузерное тестирование \TU/TimesNewRoman(1
-)/m/n/14 — проверка корректности работы веб-приложения
- []
-
-[11]
-Overfull \hbox (0.74867pt too wide) in paragraph at lines 46--47
+[10] [11]
+Overfull \hbox (0.74867pt too wide) in paragraph at lines 47--48
 []\TU/TimesNewRoman(1)/b/n/14 Маргинальные распределения \TU/TimesNewRoman(1)/m
 /n/14 — распределения вероятностей отдельных
  []
 
 
-Overfull \hbox (0.31386pt too wide) in paragraph at lines 48--49
+Overfull \hbox (0.31386pt too wide) in paragraph at lines 49--50
 \TU/TimesNewRoman(1)/m/n/14 котором будущее состояние зависит только от текущег
 о состояния, но не от преды-
  []
 
 
-Overfull \hbox (3.57541pt too wide) in paragraph at lines 62--63
+Overfull \hbox (3.57541pt too wide) in paragraph at lines 63--64
 []\TU/TimesNewRoman(1)/b/n/14 Обучение с подкреплением \TU/TimesNewRoman(1)/m/n
 /14 — раздел машинного обучения, в котором агент
  []
 
 [12]
-Overfull \hbox (1.3469pt too wide) in paragraph at lines 68--69
+Overfull \hbox (1.3469pt too wide) in paragraph at lines 69--70
 []\TU/TimesNewRoman(1)/b/n/14 Переобучение \TU/TimesNewRoman(1)/m/n/14 — ситуац
 ия в машинном обучении, при которой модель чрез-
  []
 
 [13]
-Overfull \hbox (5.46129pt too wide) in paragraph at lines 90--91
+Overfull \hbox (5.46129pt too wide) in paragraph at lines 91--92
 \TU/TimesNewRoman(1)/m/n/14 роятности и случайности, при наступлении которого в
 озникает обязательство стра-
  []
 
 
-Overfull \hbox (8.12694pt too wide) in paragraph at lines 106--107
+Overfull \hbox (8.12694pt too wide) in paragraph at lines 107--108
 []\TU/TimesNewRoman(1)/b/n/14 Целевая переменная \TU/TimesNewRoman(1)/m/n/14 — 
 бинарный индикатор факта дорожно-транспортного
  []
 
 [14]
-Overfull \hbox (6.25964pt too wide) in paragraph at lines 110--111
+Overfull \hbox (6.25964pt too wide) in paragraph at lines 111--112
 []\TU/TimesNewRoman(1)/b/n/14 Базовая ставка тарифа \TU/TimesNewRoman(1)/m/n/14
  — минимальная стоимость страхового полиса, уста-
  []
 
 
-Overfull \hbox (1.31726pt too wide) in paragraph at lines 112--113
+Overfull \hbox (1.31726pt too wide) in paragraph at lines 113--114
 []\TU/TimesNewRoman(1)/b/n/14 Коэффициент чувствительности к риску \TU/TimesNew
 Roman(1)/m/n/14 — параметр, отвечающий за сте-
  []
 
 [15]
-Overfull \hbox (5.29376pt too wide) in paragraph at lines 136--137
+Overfull \hbox (5.29376pt too wide) in paragraph at lines 137--138
 \TU/TimesNewRoman(1)/m/n/14 котором значения признаков ограничиваются физиологи
 чески и практически обос-
  []
 
 LaTeX Font Info:    Calculating math sizes for size <11.66681> on input line 14
-5.
+6.
 
-Underfull \hbox (badness 2503) in paragraph at lines 147--147
+Underfull \hbox (badness 2503) in paragraph at lines 148--148
 []|\TU/TimesNewRoman(0)/m/n/11.66681 Комплексное автострахование, кроме ответст
 венности
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 147--147
+Underfull \hbox (badness 1005) in paragraph at lines 148--148
 \TU/TimesNewRoman(0)/m/n/11.66681 (добровольное страхование транспортного средс
 тва от
  []
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 150--150
+Underfull \hbox (badness 2368) in paragraph at lines 151--151
 []|\TU/TimesNewRoman(0)/m/n/11.66681 Центральный банк Российской Федерации (рег
 улятор
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 169--169
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
 []|\TU/TimesNewRoman(0)/m/n/11.66681 Model-View-Controller — архитектурный патт
 ерн
  []
@@ -1682,11 +1669,11 @@ Package logreq Info: Writing requests to 'VKR_Vinnitskaya_DS.run.xml'.
 Here is how much of TeX's memory you used:
  30709 strings out of 402987
  586902 string characters out of 5452871
- 1526804 words of memory out of 5000000
+ 1526803 words of memory out of 5000000
  59058 multiletter control sequences out of 15000+600000
  635868 words of font info for 111 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,12n,131p,1147b,3997s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.xd
-v (91 pages, 1357604 bytes).
+v (91 pages, 1356968 bytes).
