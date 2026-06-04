@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  5 JUN 2026 04:37
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  5 JUN 2026 04:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1618,11 +1618,11 @@ Package logreq Info: Writing requests to 'VKR_Vinnitskaya_DS.run.xml'.
 Here is how much of TeX's memory you used:
  30861 strings out of 402987
  590091 string characters out of 5452871
- 1512978 words of memory out of 5000000
+ 1512831 words of memory out of 5000000
  59210 multiletter control sequences out of 15000+600000
  635868 words of font info for 111 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,12n,131p,1147b,4934s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.xd
-v (60 pages, 1113312 bytes).
+v (60 pages, 1111840 bytes).
