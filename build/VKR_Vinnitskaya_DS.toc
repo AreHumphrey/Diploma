@@ -31,25 +31,26 @@
 \contentsline {subsubsection}{\numberline {2.5.4}Реализация клиентской части и механизмов визуализации данных}{54}{subsubsection.2.5.4}%
 \contentsline {subsubsection}{\numberline {2.5.5}Пользовательские сценарии и функциональное тестирование интерфейса}{57}{subsubsection.2.5.5}%
 \contentsline {subsection}{\numberline {2.6}Выводы по главе}{60}{subsection.2.6}%
-\contentsline {section}{Приложение А~--- Перечень признаков модели}{62}{subsection.2.6}%
-\contentsline {section}{Приложение Б~--- Генерация признаков и обучение модели}{63}{table.caption.7}%
-\contentsline {section}{Приложение В~--- Обработка признаков и обучение CatBoost}{64}{lstnumber.1.2}%
-\contentsline {section}{Приложение Г~--- Подбор оптимального порога классификации}{65}{lstnumber.2.2}%
-\contentsline {section}{Приложение Д~--- Сериализация модели}{66}{figure.caption.8}%
-\contentsline {section}{Приложение Е~--- Важность признаков}{67}{lstnumber.3.1}%
-\contentsline {section}{Приложение Ж~--- Матрица ошибок}{68}{figure.caption.9}%
-\contentsline {section}{Приложение З~--- ROC-кривая}{69}{figure.caption.10}%
-\contentsline {section}{Приложение И~--- Детальный анализ важности признаков}{70}{figure.caption.11}%
-\contentsline {section}{Приложение К~--- Цветовая палитра приложения}{71}{figure.caption.12}%
-\contentsline {section}{Приложение Л~--- Главная страница}{72}{figure.caption.13}%
-\contentsline {section}{Приложение М~--- Страница документации}{73}{figure.caption.14}%
-\contentsline {section}{Приложение Н~--- Форма ввода данных}{74}{figure.caption.15}%
-\contentsline {section}{Приложение О~--- Страница результатов}{75}{figure.caption.16}%
-\contentsline {section}{Приложение П~--- Инициализация Flask-приложения}{76}{figure.caption.17}%
-\contentsline {section}{Приложение Р~--- Маршруты сервера}{77}{lstnumber.4.2}%
-\contentsline {section}{Приложение С~--- Обработка POST-запросов}{78}{lstnumber.5.1}%
-\contentsline {section}{Приложение Т~--- Функции экспорта}{79}{lstnumber.6.2}%
-\contentsline {section}{Приложение У~--- CSS-стили интерфейса}{80}{lstnumber.7.2}%
-\contentsline {section}{Приложение Ф~--- HTML-структура формы}{81}{lstnumber.8.2}%
-\contentsline {section}{Приложение Х~--- График сравнения КБМ}{82}{lstnumber.9.2}%
-\contentsline {section}{Приложение Ц~--- Пример CSV-файла}{83}{figure.caption.18}%
+\contentsline {section}{Заключение}{62}{subsection.2.6}%
+\contentsline {section}{Приложение А~--- Перечень признаков модели}{64}{subsection.2.6}%
+\contentsline {section}{Приложение Б~--- Генерация признаков и обучение модели}{65}{table.caption.7}%
+\contentsline {section}{Приложение В~--- Обработка признаков и обучение CatBoost}{66}{lstnumber.1.2}%
+\contentsline {section}{Приложение Г~--- Подбор оптимального порога классификации}{67}{lstnumber.2.2}%
+\contentsline {section}{Приложение Д~--- Сериализация модели}{68}{figure.caption.8}%
+\contentsline {section}{Приложение Е~--- Важность признаков}{69}{lstnumber.3.1}%
+\contentsline {section}{Приложение Ж~--- Матрица ошибок}{70}{figure.caption.9}%
+\contentsline {section}{Приложение З~--- ROC-кривая}{71}{figure.caption.10}%
+\contentsline {section}{Приложение И~--- Детальный анализ важности признаков}{72}{figure.caption.11}%
+\contentsline {section}{Приложение К~--- Цветовая палитра приложения}{73}{figure.caption.12}%
+\contentsline {section}{Приложение Л~--- Главная страница}{74}{figure.caption.13}%
+\contentsline {section}{Приложение М~--- Страница документации}{75}{figure.caption.14}%
+\contentsline {section}{Приложение Н~--- Форма ввода данных}{76}{figure.caption.15}%
+\contentsline {section}{Приложение О~--- Страница результатов}{77}{figure.caption.16}%
+\contentsline {section}{Приложение П~--- Инициализация Flask-приложения}{78}{figure.caption.17}%
+\contentsline {section}{Приложение Р~--- Маршруты сервера}{79}{lstnumber.4.2}%
+\contentsline {section}{Приложение С~--- Обработка POST-запросов}{80}{lstnumber.5.1}%
+\contentsline {section}{Приложение Т~--- Функции экспорта}{81}{lstnumber.6.2}%
+\contentsline {section}{Приложение У~--- CSS-стили интерфейса}{82}{lstnumber.7.2}%
+\contentsline {section}{Приложение Ф~--- HTML-структура формы}{83}{lstnumber.8.2}%
+\contentsline {section}{Приложение Х~--- График сравнения КБМ}{84}{lstnumber.9.2}%
+\contentsline {section}{Приложение Ц~--- Пример CSV-файла}{85}{figure.caption.18}%

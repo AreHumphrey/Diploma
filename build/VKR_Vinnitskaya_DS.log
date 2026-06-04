@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  5 JUN 2026 05:04
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  5 JUN 2026 05:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1590,7 +1590,13 @@ Overfull \hbox (0.44142pt too wide) in paragraph at lines 679--680
 добный ручной ввод пер-
  []
 
-[60]) [61] (parts/4 conclusion.tex)
+[60]) [61] (parts/4 conclusion.tex [62]
+Overfull \hbox (21.54134pt too wide) in paragraph at lines 14--15
+[]\TU/TimesNewRoman(1)/m/n/14 Перспективы дальнейшего развития разработанной си
+стемы связаны с несколь-
+ []
+
+) [63]
 
 LaTeX Warning: Empty bibliography on input line 37.
 
@@ -1599,16 +1605,16 @@ Overfull \hbox (5.95229pt too wide) in paragraph at lines 22--51
  [][] 
  []
 
-[62]
+[64]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 63.
- [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76]
-[77] [78]
+ [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
+[79] [80]
 Overfull \hbox (11.90817pt too wide) in paragraph at lines 323--324
 [][][][][][][][][][][][][][][][][] 
  []
 
-[79] [80] [81] [82]) [83]
+[81] [82] [83] [84]) [85]
 (c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.aux)
  ***********
 LaTeX2e <2025-11-01>
@@ -1619,7 +1625,7 @@ L3 programming layer <2025-12-24>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `VKR_Vinnitskaya_DS.out' has not changed.
-(rerunfilecheck)             Checksum: FE9479A2A0AA1E9FAE20D88626BE4B11;20267.
+(rerunfilecheck)             Checksum: 7F56139488A97F90530E14C98DD69E77;20396.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                VKR_Vinnitskaya_DS
@@ -1632,11 +1638,11 @@ Package logreq Info: Writing requests to 'VKR_Vinnitskaya_DS.run.xml'.
 Here is how much of TeX's memory you used:
  30896 strings out of 402987
  590650 string characters out of 5452871
- 1526710 words of memory out of 5000000
+ 1526860 words of memory out of 5000000
  59245 multiletter control sequences out of 15000+600000
  635868 words of font info for 111 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,12n,131p,1147b,4934s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.xd
-v (83 pages, 1199780 bytes).
+v (85 pages, 1241876 bytes).
