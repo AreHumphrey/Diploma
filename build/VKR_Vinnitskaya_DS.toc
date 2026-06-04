@@ -30,3 +30,4 @@
 \contentsline {subsubsection}{\numberline {2.5.3}Разработка серверной части и интеграция с моделью машинного обучения}{47}{subsubsection.2.5.3}%
 \contentsline {subsubsection}{\numberline {2.5.4}Реализация клиентской части и механизмов визуализации данных}{53}{subsubsection.2.5.4}%
 \contentsline {subsubsection}{\numberline {2.5.5}Пользовательские сценарии и функциональное тестирование интерфейса}{56}{subsubsection.2.5.5}%
+\contentsline {subsection}{\numberline {2.6}Выводы по главе}{59}{subsection.2.6}%
