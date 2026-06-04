@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  5 JUN 2026 03:00
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  5 JUN 2026 04:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1572,7 +1572,25 @@ Overfull \hbox (3.23695pt too wide) in paragraph at lines 643--643
 ирование ин-
  []
 
-) [56] (parts/4 conclusion.tex)
+File: pictures/Диаграмма прецедентов.pdf Graphic file (type pdf)
+<use pictures/Диаграмма прецедентов.pdf>
+[56]
+File: pictures/Диаграмма пользовательского сценария.pdf Graphic file (type pdf)
+
+<use pictures/Диаграмма пользовательского сценария.pdf>
+ [57] [58]
+Overfull \hbox (0.50487pt too wide) in paragraph at lines 671--672
+[]\TU/TimesNewRoman(1)/m/n/14 Кросс-браузерное тестирование интерфейса осуществ
+лялось на четырех ос-
+ []
+
+)
+Overfull \hbox (2.23698pt too wide) in paragraph at lines 675--30
+\TU/TimesNewRoman(1)/m/n/14 ошибочной информации, а кросс-браузерная совместимо
+сть обеспечивает доступ-
+ []
+
+[59] (parts/4 conclusion.tex)
 
 LaTeX Warning: Empty bibliography on input line 37.
 
@@ -1598,13 +1616,13 @@ Package logreq Info: Writing requests to 'VKR_Vinnitskaya_DS.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30841 strings out of 402987
- 589186 string characters out of 5452871
- 1512902 words of memory out of 5000000
- 59192 multiletter control sequences out of 15000+600000
+ 30861 strings out of 402987
+ 590091 string characters out of 5452871
+ 1513067 words of memory out of 5000000
+ 59210 multiletter control sequences out of 15000+600000
  635868 words of font info for 111 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,12n,131p,1147b,4934s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.xd
-v (56 pages, 1051064 bytes).
+v (59 pages, 1096648 bytes).
