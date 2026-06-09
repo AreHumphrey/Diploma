@@ -364,6 +364,39 @@ INPUT .\parts\5 appendix.tex
 INPUT .\parts\5 appendix.tex
 INPUT .\parts\5 appendix.tex
 INPUT parts\5 appendix.tex
+INPUT .\pictures\threshold_analysis.png
+INPUT .\pictures\threshold_analysis.png
+INPUT .\pictures\threshold_analysis.png
+INPUT .\pictures\metric_p.png
+INPUT .\pictures\metric_p.png
+INPUT .\pictures\metric_p.png
+INPUT .\pictures\matrix_err.png
+INPUT .\pictures\matrix_err.png
+INPUT .\pictures\matrix_err.png
+INPUT .\pictures\roc_k.png
+INPUT .\pictures\roc_k.png
+INPUT .\pictures\roc_k.png
+INPUT .\pictures\v_p_p.png
+INPUT .\pictures\v_p_p.png
+INPUT .\pictures\v_p_p.png
+INPUT .\pictures\scr_color.png
+INPUT .\pictures\scr_color.png
+INPUT .\pictures\scr_color.png
+INPUT .\pictures\d_home_page.pdf
+INPUT .\pictures\d_home_page.pdf
+INPUT .\pictures\d_home_page.pdf
+INPUT .\pictures\d_docx_page.pdf
+INPUT .\pictures\d_docx_page.pdf
+INPUT .\pictures\d_docx_page.pdf
+INPUT .\pictures\scr_form.png
+INPUT .\pictures\scr_form.png
+INPUT .\pictures\scr_form.png
+INPUT .\pictures\d_res_page.pdf
+INPUT .\pictures\d_res_page.pdf
+INPUT .\pictures\d_res_page.pdf
+INPUT .\pictures\kbm_graph.png
+INPUT .\pictures\kbm_graph.png
+INPUT .\pictures\kbm_graph.png
 INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.aux
 INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
 INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out

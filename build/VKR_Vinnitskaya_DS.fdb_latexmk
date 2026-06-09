@@ -1,16 +1,16 @@
 # Fdb version 4
-["biber build/VKR_Vinnitskaya_DS"] 1780601907.58279 "build/VKR_Vinnitskaya_DS.bcf" "build/VKR_Vinnitskaya_DS.bbl" "build/VKR_Vinnitskaya_DS" 1780603449.88525 0
-  "build/VKR_Vinnitskaya_DS.bcf" 1780603448 107754 afcb9e3d245ee04e69356b61f0dc7deb "xelatex"
+["biber build/VKR_Vinnitskaya_DS"] 1780601907.58279 "build/VKR_Vinnitskaya_DS.bcf" "build/VKR_Vinnitskaya_DS.bbl" "build/VKR_Vinnitskaya_DS" 1781033862.18446 0
+  "build/VKR_Vinnitskaya_DS.bcf" 1781033858 107754 afcb9e3d245ee04e69356b61f0dc7deb "xelatex"
   (generated)
   "build/VKR_Vinnitskaya_DS.bbl"
   "build/VKR_Vinnitskaya_DS.blg"
   (rewritten before read)
-["xdvipdfmx"] 1780603449.30055 "build/VKR_Vinnitskaya_DS.xdv" "build/VKR_Vinnitskaya_DS.pdf" "build/VKR_Vinnitskaya_DS" 1780603449.89364 0
-  "build/VKR_Vinnitskaya_DS.xdv" 1780603448 1356968 d70de5b8da6cb80687f4173405050f5d "xelatex"
+["xdvipdfmx"] 1781033858.84665 "build/VKR_Vinnitskaya_DS.xdv" "build/VKR_Vinnitskaya_DS.pdf" "build/VKR_Vinnitskaya_DS" 1781033862.19367 0
+  "build/VKR_Vinnitskaya_DS.xdv" 1781033858 1577496 7116e909e1b9a445ebbff9286c6f6f45 "xelatex"
   (generated)
   "build/VKR_Vinnitskaya_DS.pdf"
   (rewritten before read)
-["xelatex"] 1780603445.28214 "c:/Users/lutdi/diplom_bakalavriat/main.tex" "build/VKR_Vinnitskaya_DS.xdv" "VKR_Vinnitskaya_DS" 1780603449.88546 0
+["xelatex"] 1781033854.54902 "c:/Users/lutdi/diplom_bakalavriat/main.tex" "build/VKR_Vinnitskaya_DS.xdv" "VKR_Vinnitskaya_DS" 1781033862.1847 0
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136736254 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -141,21 +141,32 @@
   "C:/Program Files/MiKTeX/tex/xelatex/xunicode/xunicode.sty" 1315551046 205722 8027ed7ab2230086d647802c25f3ee42 ""
   "C:/Users/lutdi/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1776274304 27167978 607dca3b21fd61676801dd7c6421a101 ""
   "C:/Users/lutdi/AppData/Roaming/MiKTeX/tex/latex/fancyhdr/fancyhdr.sty" 1740138435 31715 19e60610b63819fe670dfa1cd84a4e94 ""
-  "build/VKR_Vinnitskaya_DS.aux" 1780603448 22160 a5db2a4361b3600784fcb328d03b69e1 "xelatex"
+  "build/VKR_Vinnitskaya_DS.aux" 1781033858 22392 5cc4167bc89e1cea50a96b3ddff87a65 "xelatex"
   "build/VKR_Vinnitskaya_DS.bbl" 1780601955 486 76d65a242ec496c9b4361af646ff12cb "biber build/VKR_Vinnitskaya_DS"
-  "build/VKR_Vinnitskaya_DS.out" 1780603448 20396 7f56139488a97f90530e14c98dd69e77 "xelatex"
-  "build/VKR_Vinnitskaya_DS.run.xml" 1780603448 2508 df73330c0e54cf9ab99750f413ba916f "xelatex"
-  "build/VKR_Vinnitskaya_DS.toc" 1780603448 7438 d2303732f02daaf60d64620dcae6969c "xelatex"
+  "build/VKR_Vinnitskaya_DS.out" 1781033858 20406 16d87f07ed16da58d5e8efbecf149cb1 "xelatex"
+  "build/VKR_Vinnitskaya_DS.run.xml" 1781033858 2508 4a0eb31b4f8b07d9d3d9fad82b233119 "xelatex"
+  "build/VKR_Vinnitskaya_DS.toc" 1781033858 7451 6c6522c1c133f36c4ea073af682ff6ae "xelatex"
   "c:/Users/lutdi/diplom_bakalavriat/main.tex" 1776786694 693 da567dd124058c68ac7b29660a1ee9c7 ""
   "main.tex" 1776786694 693 da567dd124058c68ac7b29660a1ee9c7 ""
   "parts/1 titlepage.tex" 1776306799 549 8306eb957091dc6507cef3d025806b66 ""
   "parts/1_1 annotation.tex" 1776788810 2263 fe0e1ae5711a86692b79729a3df2f833 ""
   "parts/2 introduction.tex" 1780601903 14533 d5f8a94dcaf7929f66be715e43b9c94b ""
   "parts/2a terms.tex" 1780603444 30897 75c04ee568df5374bbef4e8bd1a8b302 ""
-  "parts/3 main.tex" 1780598327 168215 2a1d2d0dd52dbe4ef8246815d137e7e3 ""
+  "parts/3 main.tex" 1780603525 168217 8636a4695a481e565b0832186a378c26 ""
   "parts/4 conclusion.tex" 1780601454 7592 745addbd7aabb80b393099a2f3227808 ""
-  "parts/5 appendix.tex" 1780599881 15056 51fdbae60d5d4574944a3c8357080864 ""
+  "parts/5 appendix.tex" 1781033853 32555 52f5634831e1c48778d84932c80ba538 ""
+  "pictures/d_docx_page.pdf" 1781030565 13315665 43f7af761fff4de59af89fff4b3ccc8c ""
+  "pictures/d_home_page.pdf" 1780598387 6404875 37738e9dcae0bb7ebe25b620f5a724ef ""
+  "pictures/d_res_page.pdf" 1780598417 14629101 e2a08d317f7c7b492bb6b641207b81fc ""
+  "pictures/kbm_graph.png" 1776698657 40243 dc9596aad46b048efcd181a0c3d35190 ""
   "pictures/logo.pdf" 1776302731 47205 bc4d11aad9b42687e32cd120af9cb884 ""
+  "pictures/matrix_err.png" 1781029855 13966 373b7aeb266b17f6c4bb3107fd425ef6 ""
+  "pictures/metric_p.png" 1781029893 34766 fa2393eaced5cb2e6026e3237370d8fa ""
+  "pictures/roc_k.png" 1781029876 33972 c6c3b241a3a75afce7b44f5a7e4e30b5 ""
+  "pictures/scr_color.png" 1780426134 1400 6b9162aeddd1d77d1a8ac5113ff482e8 ""
+  "pictures/scr_form.png" 1780425969 462721 33da9dd15a4e4ff3ac7ff51ef2d89774 ""
+  "pictures/threshold_analysis.png" 1781028744 121475 248f58f2ca15697f8eba0e79b12e398c ""
+  "pictures/v_p_p.png" 1781031872 82370 38e576cb59bb22a7993d9a2a03ebf728 ""
   "pictures/Архитектура веб-приложения и механизмы межкомпонентного взаимодействия.pdf" 1780428528 254012 16dab53c64ba74df5fae4115f7d0479d ""
   "pictures/Архитектурная схема системы.pdf" 1780431765 290052 63ace8ff250133638d66af5749bf886c ""
   "pictures/Блок-схема серверного конвейера.pdf" 1780490617 83501 eea982f7484e4e9bbb8734fe77242c30 ""
