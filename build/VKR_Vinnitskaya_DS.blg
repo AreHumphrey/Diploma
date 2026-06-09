@@ -1,0 +1,9 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'build/VKR_Vinnitskaya_DS.blg'
+[233] biber-MSWIN64:342> INFO - === 
+[327] Biber.pm:421> INFO - Reading 'build/VKR_Vinnitskaya_DS.bcf'
+[433] Biber.pm:1002> INFO - Found 0 citekeys in bib section 0
+[448] bbl.pm:676> INFO - Writing 'build/VKR_Vinnitskaya_DS.bbl' with encoding 'UTF-8'
+[448] bbl.pm:779> INFO - Output to build/VKR_Vinnitskaya_DS.bbl
+[448] Biber.pm:132> WARN - The file 'build/VKR_Vinnitskaya_DS.bcf' does not contain any citations!
+[448] Biber.pm:134> INFO - WARNINGS: 1
