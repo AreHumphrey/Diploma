@@ -1,7 +1,5 @@
 % ===========================================================
 % Список литературы ВКР
-% Тема: Разработка прогнозной модели страховых рисков 
-%       на основе машинного обучения
 % ===========================================================
 
 % -----------------------------------------------------------
@@ -12,6 +10,7 @@
   title     = {Основы страховой математики: учеб. пособие},
   author    = {Корнилов, И. А.},
   year      = {2004},
+  publisher = {Юнити-Дана},
   address   = {М.},
   pages     = {210},
   language  = {russian},
@@ -59,10 +58,11 @@
 
 @inproceedings{prokhorenkova2018catboost,
   title     = {CatBoost: Unbiased Boosting with Categorical Features},
-  author    = {Людмила Прохоренкова, Глеб Гусев, Александр Воробьев, Анна Вероника Дорогуш, Андрей Гулин},
+  author    = {Prokhorenkova, Liudmila and Gusev, Gleb and Vorobev, Aleksandr and Dorogush, Anna Veronika and Gulin, Andrey},
+  booktitle = {Advances in Neural Information Processing Systems},
   volume    = {31},
+  pages     = {6638--6648},
   year      = {2018},
-  note      = {Режим доступа: \url{https://arxiv.org/pdf/1706.09516} (дата обращения: 22.03.2026)},
 }
 
 @misc{catboost2026docs,
@@ -73,8 +73,9 @@
 }
 
 @article{friedman2001greedy,
-  title   = {Аппроксимация жадной функции: градиентный бустинг},
-  author  = {Джером Х. Фридман},
+  title   = {Greedy Function Approximation: A Gradient Boosting Machine},
+  author  = {Friedman, Jerome H.},
+  journal = {Annals of Statistics},
   volume  = {29},
   number  = {5},
   pages   = {1189--1232},
@@ -92,18 +93,23 @@
 }
 
 @book{hastie2009elements,
-  title     = {Основы статистического обучения: интеллектуальный анализ данных, логический вывод и прогнозирование},
-  author    = {Хасти Тревор, Тибришани Роберт},
+  title     = {The Elements of Statistical Learning: Data Mining, Inference, and Prediction},
+  author    = {Hastie, Trevor and Tibshirani, Robert and Friedman, Jerome},
   edition   = {2nd},
-  year      = {2017},
-  pages     = {764},
+  year      = {2009},
+  publisher = {Springer},
+  address   = {New York},
+  pages     = {745},
 }
 
 @book{kruglov2001neural,
   title     = {Искусственные нейронные сети: теория и практика},
   author    = {Круглов, В. В. and Борисов, В. В.},
   year      = {2001},
+  publisher = {Горячая линия — Телеком},
+  address   = {М.},
   pages     = {384},
+  language  = {russian},
 }
 
 @misc{sklearn2026docs,
@@ -128,8 +134,10 @@
   title     = {Телематические услуги и сети связи},
   author    = {Баулин, Ю. А. and Кучеров, В. И.},
   year      = {2014},
+  publisher = {Горячая линия — Телеком},
+  address   = {М.},
   pages     = {216},
-
+  language  = {russian},
 }
 
 % -----------------------------------------------------------
@@ -165,7 +173,7 @@
 }
 
 @misc{matplotlib2026docs,
-  title     = {Matplotlib [Электронный ресурс]},
+  title     = {Matplotlib: Visualization with Python [Электронный ресурс]},
   year      = {2026},
   howpublished = {Официальная документация Matplotlib},
   note      = {Режим доступа: \url{https://matplotlib.org/stable/contents.html} (дата обращения: 10.05.2026)},
@@ -188,12 +196,14 @@
 @misc{html2026mdn,
   title     = {HTML: HyperText Markup Language [Электронный ресурс]},
   year      = {2026},
+  howpublished = {Mozilla Developer Network},
   note      = {Режим доступа: \url{https://developer.mozilla.org/en-US/docs/Web/HTML} (дата обращения: 12.05.2026)},
 }
 
 @misc{css2026mdn,
   title     = {CSS: Cascading Style Sheets [Электронный ресурс]},
   year      = {2026},
+  howpublished = {Mozilla Developer Network},
   note      = {Режим доступа: \url{https://developer.mozilla.org/en-US/docs/Web/CSS} (дата обращения: 12.05.2026)},
 }
 
@@ -210,16 +220,21 @@
 
 @book{norman2013design,
   title     = {The Design of Everyday Things: Revised and Expanded Edition},
+  author    = {Norman, Donald A.},
   year      = {2013},
+  publisher = {Basic Books},
+  address   = {New York},
   pages     = {368},
 }
 
 @book{krug2014dont,
-  title     = {Не заставляйте меня думать. Веб-юзабилити и здравый смысл},
-  author    = {Круг Стив},
-  edition   = {3-е издание},
-  year      = {2017},
-  pages     = {256},
+  title     = {Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability},
+  author    = {Krug, Steve},
+  edition   = {3rd},
+  year      = {2014},
+  publisher = {New Riders},
+  address   = {Berkeley, CA},
+  pages     = {216},
 }
 
 % -----------------------------------------------------------
@@ -262,17 +277,21 @@
 % -----------------------------------------------------------
 
 @book{muller2016introduction,
-  title     = {Python и машинное обучение},
-  author    = {Рашка Себастьян, Мирджалили Вахид},
-  year      = {2021},
-  pages     = {848},
+  title     = {Introduction to Machine Learning with Python},
+  author    = {Müller, Andreas C. and Guido, Sarah},
+  year      = {2016},
+  publisher = {O'Reilly Media},
+  address   = {Sebastopol, CA},
+  pages     = {392},
 }
 
-@book{russell2016ai,
+@book{russell2020aima,
   title     = {Искусственный интеллект: современный подход},
-  author    = {Стюарт Дж. Рассел, Питер Норвиг},
+  author    = {Рассел, Стюарт and Норвиг, Питер},
   edition   = {2-е изд.},
   year      = {2016},
+  publisher = {Вильямс},
+  address   = {М.},
   pages     = {1408},
   language  = {russian},
 }
@@ -301,10 +320,12 @@
   language  = {russian},
 }
 
-@article{pedregosa2011sklearn,
-  title   = {Прикладное машинное обучение с помощью Scikit-Learn, Keras и TensorFlow: концепции, инструменты и техники для создания интеллектуальных систем},
-  author  = {Орельен Жерон},
-  volume  = {12},
-  pages   = {800--1040},
-  year    = {20020},
+@book{geron2019hands-on,
+  title     = {Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow},
+  author    = {Géron, Aurélien},
+  edition   = {2nd},
+  year      = {2019},
+  publisher = {O'Reilly Media},
+  address   = {Sebastopol, CA},
+  pages     = {848},
 }

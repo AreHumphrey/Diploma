@@ -31,12 +31,210 @@
       \field{title}{Коэффициент бонус-малус ОСАГО [Электронный ресурс]}
       \field{year}{2026}
     \endentry
+    \entry{baulin2014telematics}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=fc680d00e50747e210a8af4caccd8152}{%
+           family={Баулин},
+           familyi={Б\bibinitperiod},
+           given={Ю.\bibnamedelimi А.},
+           giveni={Ю\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+        {{hash=9b9e21b23d3cf1864680a179da568268}{%
+           family={Кучеров},
+           familyi={К\bibinitperiod},
+           given={В.\bibnamedelimi И.},
+           giveni={В\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {Горячая линия — Телеком}%
+      }
+      \strng{namehash}{9f74767590607e3e511d493ce256151d}
+      \strng{fullhash}{9f74767590607e3e511d493ce256151d}
+      \strng{fullhashraw}{9f74767590607e3e511d493ce256151d}
+      \strng{bibnamehash}{9f74767590607e3e511d493ce256151d}
+      \strng{authorbibnamehash}{9f74767590607e3e511d493ce256151d}
+      \strng{authornamehash}{9f74767590607e3e511d493ce256151d}
+      \strng{authorfullhash}{9f74767590607e3e511d493ce256151d}
+      \strng{authorfullhashraw}{9f74767590607e3e511d493ce256151d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Телематические услуги и сети связи}
+      \field{year}{2014}
+      \field{pages}{216}
+      \range{pages}{1}
+    \endentry
+    \entry{kolesnikov2012intel}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=3f1514bd5b471d99c960bcc67a244b63}{%
+           family={Колесников},
+           familyi={К\bibinitperiod},
+           given={А.\bibnamedelimi В.},
+           giveni={А\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{location}{1}{%
+        {СПб.}%
+      }
+      \list{publisher}{1}{%
+        {Питер}%
+      }
+      \strng{namehash}{3f1514bd5b471d99c960bcc67a244b63}
+      \strng{fullhash}{3f1514bd5b471d99c960bcc67a244b63}
+      \strng{fullhashraw}{3f1514bd5b471d99c960bcc67a244b63}
+      \strng{bibnamehash}{3f1514bd5b471d99c960bcc67a244b63}
+      \strng{authorbibnamehash}{3f1514bd5b471d99c960bcc67a244b63}
+      \strng{authornamehash}{3f1514bd5b471d99c960bcc67a244b63}
+      \strng{authorfullhash}{3f1514bd5b471d99c960bcc67a244b63}
+      \strng{authorfullhashraw}{3f1514bd5b471d99c960bcc67a244b63}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Интеллектуальный анализ данных: учебник для вузов}
+      \field{year}{2012}
+      \field{pages}{384}
+      \range{pages}{1}
+    \endentry
+    \entry{xgboost2026docs}{misc}{}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Официальная документация XGBoost}
+      \field{note}{Режим доступа: \url{https://xgboost.readthedocs.io/en/stable/} (дата обращения: 10.05.2026)}
+      \field{title}{XGBoost Documentation [Электронный ресурс]}
+      \field{year}{2026}
+    \endentry
+    \entry{lightgbm2026docs}{misc}{}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Официальная документация LightGBM}
+      \field{note}{Режим доступа: \url{https://lightgbm.readthedocs.io/en/stable/} (дата обращения: 10.05.2026)}
+      \field{title}{LightGBM Documentation [Электронный ресурс]}
+      \field{year}{2026}
+    \endentry
+    \entry{friedman2001greedy}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=ce884cc144616c39e723a8fe2eb3c879}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Jerome\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce884cc144616c39e723a8fe2eb3c879}
+      \strng{fullhash}{ce884cc144616c39e723a8fe2eb3c879}
+      \strng{fullhashraw}{ce884cc144616c39e723a8fe2eb3c879}
+      \strng{bibnamehash}{ce884cc144616c39e723a8fe2eb3c879}
+      \strng{authorbibnamehash}{ce884cc144616c39e723a8fe2eb3c879}
+      \strng{authornamehash}{ce884cc144616c39e723a8fe2eb3c879}
+      \strng{authorfullhash}{ce884cc144616c39e723a8fe2eb3c879}
+      \strng{authorfullhashraw}{ce884cc144616c39e723a8fe2eb3c879}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annals of Statistics}
+      \field{number}{5}
+      \field{title}{Greedy Function Approximation: A Gradient Boosting Machine}
+      \field{volume}{29}
+      \field{year}{2001}
+      \field{pages}{1189\bibrangedash 1232}
+      \range{pages}{44}
+    \endentry
+    \entry{kruglov2001neural}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=a48f99901533fb658209b51f8795c013}{%
+           family={Круглов},
+           familyi={К\bibinitperiod},
+           given={В.\bibnamedelimi В.},
+           giveni={В\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+        {{hash=85dd8089b5d3c0ec916eaa413bd04565}{%
+           family={Борисов},
+           familyi={Б\bibinitperiod},
+           given={В.\bibnamedelimi В.},
+           giveni={В\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {Горячая линия — Телеком}%
+      }
+      \strng{namehash}{1eff6106f5d51f0ea759991e08579c55}
+      \strng{fullhash}{1eff6106f5d51f0ea759991e08579c55}
+      \strng{fullhashraw}{1eff6106f5d51f0ea759991e08579c55}
+      \strng{bibnamehash}{1eff6106f5d51f0ea759991e08579c55}
+      \strng{authorbibnamehash}{1eff6106f5d51f0ea759991e08579c55}
+      \strng{authornamehash}{1eff6106f5d51f0ea759991e08579c55}
+      \strng{authorfullhash}{1eff6106f5d51f0ea759991e08579c55}
+      \strng{authorfullhashraw}{1eff6106f5d51f0ea759991e08579c55}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Искусственные нейронные сети: теория и практика}
+      \field{year}{2001}
+      \field{pages}{384}
+      \range{pages}{1}
+    \endentry
+    \entry{russell2020aima}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=6dd5441dbea0491366c4034db2de71d6}{%
+           family={Рассел},
+           familyi={Р\bibinitperiod},
+           given={Стюарт},
+           giveni={С\bibinitperiod}}}%
+        {{hash=9583cc4f3001c90b14d4abf73901c408}{%
+           family={Норвиг},
+           familyi={Н\bibinitperiod},
+           given={Питер},
+           giveni={П\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {Вильямс}%
+      }
+      \strng{namehash}{560940f0992e9e8d2219fd2357b6500b}
+      \strng{fullhash}{560940f0992e9e8d2219fd2357b6500b}
+      \strng{fullhashraw}{560940f0992e9e8d2219fd2357b6500b}
+      \strng{bibnamehash}{560940f0992e9e8d2219fd2357b6500b}
+      \strng{authorbibnamehash}{560940f0992e9e8d2219fd2357b6500b}
+      \strng{authornamehash}{560940f0992e9e8d2219fd2357b6500b}
+      \strng{authorfullhash}{560940f0992e9e8d2219fd2357b6500b}
+      \strng{authorfullhashraw}{560940f0992e9e8d2219fd2357b6500b}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2-е изд.}
+      \field{title}{Искусственный интеллект: современный подход}
+      \field{year}{2016}
+      \field{pages}{1408}
+      \range{pages}{1}
+    \endentry
     \entry{cbr2026osago}{misc}{}{}
       \list{language}{1}{%
         {russian}%
       }
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
       \field{howpublished}{Официальный сайт Банка России}
       \field{note}{Режим доступа: \url{https://cbr.ru/} (дата обращения: 15.04.2026)}
@@ -44,30 +242,93 @@
       \field{year}{2024}
     \endentry
     \entry{hastie2009elements}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=cf7f8fd81283198164bc878fb0f3fe38}{%
-           family={Хасти\bibnamedelima Тревор},
-           familyi={Х\bibinitperiod\bibinitdelim Т\bibinitperiod},
-           given={Тибришани\bibnamedelima Роберт},
-           giveni={Т\bibinitperiod\bibinitdelim Р\bibinitperiod}}}%
+      \name{author}{3}{}{%
+        {{hash=0cb8fe4210baa81c4b0e67913b4d2768}{%
+           family={Hastie},
+           familyi={H\bibinitperiod},
+           given={Trevor},
+           giveni={T\bibinitperiod}}}%
+        {{hash=88eea600247d798f8b2ce0b2dc614492}{%
+           family={Tibshirani},
+           familyi={T\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=971cf69058b64a94326dea0f2a8bbcce}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Jerome},
+           giveni={J\bibinitperiod}}}%
       }
-      \strng{namehash}{cf7f8fd81283198164bc878fb0f3fe38}
-      \strng{fullhash}{cf7f8fd81283198164bc878fb0f3fe38}
-      \strng{fullhashraw}{cf7f8fd81283198164bc878fb0f3fe38}
-      \strng{bibnamehash}{cf7f8fd81283198164bc878fb0f3fe38}
-      \strng{authorbibnamehash}{cf7f8fd81283198164bc878fb0f3fe38}
-      \strng{authornamehash}{cf7f8fd81283198164bc878fb0f3fe38}
-      \strng{authorfullhash}{cf7f8fd81283198164bc878fb0f3fe38}
-      \strng{authorfullhashraw}{cf7f8fd81283198164bc878fb0f3fe38}
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{7ca1bfe876d5e037b6aed69704221267}
+      \strng{fullhash}{7ca1bfe876d5e037b6aed69704221267}
+      \strng{fullhashraw}{7ca1bfe876d5e037b6aed69704221267}
+      \strng{bibnamehash}{7ca1bfe876d5e037b6aed69704221267}
+      \strng{authorbibnamehash}{7ca1bfe876d5e037b6aed69704221267}
+      \strng{authornamehash}{7ca1bfe876d5e037b6aed69704221267}
+      \strng{authorfullhash}{7ca1bfe876d5e037b6aed69704221267}
+      \strng{authorfullhashraw}{7ca1bfe876d5e037b6aed69704221267}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{2nd}
-      \field{title}{Основы статистического обучения: интеллектуальный анализ данных, логический вывод и прогнозирование}
-      \field{year}{2017}
-      \field{pages}{764}
+      \field{title}{The Elements of Statistical Learning: Data Mining, Inference, and Prediction}
+      \field{year}{2009}
+      \field{pages}{745}
       \range{pages}{1}
+    \endentry
+    \entry{prokhorenkova2018catboost}{inproceedings}{}{}
+      \name{author}{5}{}{%
+        {{hash=75d85fbaf5e44febf90b390cb205c49e}{%
+           family={Prokhorenkova},
+           familyi={P\bibinitperiod},
+           given={Liudmila},
+           giveni={L\bibinitperiod}}}%
+        {{hash=d99ea4ed468e2d3f8bc4082b7d308161}{%
+           family={Gusev},
+           familyi={G\bibinitperiod},
+           given={Gleb},
+           giveni={G\bibinitperiod}}}%
+        {{hash=4eea157d768ad9f7d675c1cb1624b822}{%
+           family={Vorobev},
+           familyi={V\bibinitperiod},
+           given={Aleksandr},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a2bbc57c5fa93135342ee3c846b63db3}{%
+           family={Dorogush},
+           familyi={D\bibinitperiod},
+           given={Anna\bibnamedelima Veronika},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=b0bbfa15913cf76eff37e68538d3927e}{%
+           family={Gulin},
+           familyi={G\bibinitperiod},
+           given={Andrey},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{bf2200e049515471bef98bbe4ddd078a}
+      \strng{fullhash}{be3384044cde3b920a17c00545fb90a0}
+      \strng{fullhashraw}{be3384044cde3b920a17c00545fb90a0}
+      \strng{bibnamehash}{be3384044cde3b920a17c00545fb90a0}
+      \strng{authorbibnamehash}{be3384044cde3b920a17c00545fb90a0}
+      \strng{authornamehash}{bf2200e049515471bef98bbe4ddd078a}
+      \strng{authorfullhash}{be3384044cde3b920a17c00545fb90a0}
+      \strng{authorfullhashraw}{be3384044cde3b920a17c00545fb90a0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Neural Information Processing Systems}
+      \field{title}{CatBoost: Unbiased Boosting with Categorical Features}
+      \field{volume}{31}
+      \field{year}{2018}
+      \field{pages}{6638\bibrangedash 6648}
+      \range{pages}{11}
     \endentry
     \entry{catboost2026docs}{misc}{}{}
       \field{sortinit}{1}
@@ -77,6 +338,40 @@
       \field{note}{Режим доступа: \url{https://catboost.ai/docs/en/} (дата обращения: 10.05.2026)}
       \field{title}{CatBoost Documentation [Электронный ресурс]}
       \field{year}{2026}
+    \endentry
+    \entry{yasenev2012pattern}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=7d4fc3bd499b19c19ac16c512b560f50}{%
+           family={Ясенев},
+           familyi={Я\bibinitperiod},
+           given={В.\bibnamedelimi Г.},
+           giveni={В\bibinitperiod\bibinitdelim Г\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {Машиностроение}%
+      }
+      \strng{namehash}{7d4fc3bd499b19c19ac16c512b560f50}
+      \strng{fullhash}{7d4fc3bd499b19c19ac16c512b560f50}
+      \strng{fullhashraw}{7d4fc3bd499b19c19ac16c512b560f50}
+      \strng{bibnamehash}{7d4fc3bd499b19c19ac16c512b560f50}
+      \strng{authorbibnamehash}{7d4fc3bd499b19c19ac16c512b560f50}
+      \strng{authornamehash}{7d4fc3bd499b19c19ac16c512b560f50}
+      \strng{authorfullhash}{7d4fc3bd499b19c19ac16c512b560f50}
+      \strng{authorfullhashraw}{7d4fc3bd499b19c19ac16c512b560f50}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Методы распознавания образов: учебник для вузов}
+      \field{year}{2012}
+      \field{pages}{288}
+      \range{pages}{1}
     \endentry
     \entry{levin2026telematics}{misc}{}{}
       \field{sortinit}{1}
@@ -100,6 +395,9 @@
       }
       \list{location}{1}{%
         {М.}%
+      }
+      \list{publisher}{1}{%
+        {Юнити-Дана}%
       }
       \strng{namehash}{2d9c7468665f827d2906975eb0d029e5}
       \strng{fullhash}{2d9c7468665f827d2906975eb0d029e5}
@@ -168,8 +466,8 @@
       \range{pages}{1}
     \endentry
     \entry{figma2026learn}{misc}{}{}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{howpublished}{Официальный центр помощи Figma}
       \field{note}{Режим доступа: \url{https://help.figma.com/hc/en-us} (дата обращения: 20.04.2026)}
@@ -178,28 +476,34 @@
     \endentry
     \entry{krug2014dont}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=8da42b3bd5ec6dfc3a99ed9076dc676d}{%
-           family={Стив},
-           familyi={С\bibinitperiod},
-           given={Круг},
-           giveni={К\bibinitperiod}}}%
+        {{hash=5484dccb0532d31791b5359574fe6830}{%
+           family={Krug},
+           familyi={K\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
       }
-      \strng{namehash}{8da42b3bd5ec6dfc3a99ed9076dc676d}
-      \strng{fullhash}{8da42b3bd5ec6dfc3a99ed9076dc676d}
-      \strng{fullhashraw}{8da42b3bd5ec6dfc3a99ed9076dc676d}
-      \strng{bibnamehash}{8da42b3bd5ec6dfc3a99ed9076dc676d}
-      \strng{authorbibnamehash}{8da42b3bd5ec6dfc3a99ed9076dc676d}
-      \strng{authornamehash}{8da42b3bd5ec6dfc3a99ed9076dc676d}
-      \strng{authorfullhash}{8da42b3bd5ec6dfc3a99ed9076dc676d}
-      \strng{authorfullhashraw}{8da42b3bd5ec6dfc3a99ed9076dc676d}
+      \list{location}{1}{%
+        {Berkeley, CA}%
+      }
+      \list{publisher}{1}{%
+        {New Riders}%
+      }
+      \strng{namehash}{5484dccb0532d31791b5359574fe6830}
+      \strng{fullhash}{5484dccb0532d31791b5359574fe6830}
+      \strng{fullhashraw}{5484dccb0532d31791b5359574fe6830}
+      \strng{bibnamehash}{5484dccb0532d31791b5359574fe6830}
+      \strng{authorbibnamehash}{5484dccb0532d31791b5359574fe6830}
+      \strng{authornamehash}{5484dccb0532d31791b5359574fe6830}
+      \strng{authorfullhash}{5484dccb0532d31791b5359574fe6830}
+      \strng{authorfullhashraw}{5484dccb0532d31791b5359574fe6830}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{edition}{3-е издание}
-      \field{title}{Не заставляйте меня думать. Веб-юзабилити и здравый смысл}
-      \field{year}{2017}
-      \field{pages}{256}
+      \field{edition}{3rd}
+      \field{title}{Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability}
+      \field{year}{2014}
+      \field{pages}{216}
       \range{pages}{1}
     \endentry
     \entry{flask2026docs}{misc}{}{}
@@ -224,6 +528,7 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
+      \field{howpublished}{Mozilla Developer Network}
       \field{note}{Режим доступа: \url{https://developer.mozilla.org/en-US/docs/Web/HTML} (дата обращения: 12.05.2026)}
       \field{title}{HTML: HyperText Markup Language [Электронный ресурс]}
       \field{year}{2026}
@@ -232,6 +537,7 @@
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
+      \field{howpublished}{Mozilla Developer Network}
       \field{note}{Режим доступа: \url{https://developer.mozilla.org/en-US/docs/Web/CSS} (дата обращения: 12.05.2026)}
       \field{title}{CSS: Cascading Style Sheets [Электронный ресурс]}
       \field{year}{2026}
@@ -242,7 +548,7 @@
       \field{labeltitlesource}{title}
       \field{howpublished}{Официальная документация Matplotlib}
       \field{note}{Режим доступа: \url{https://matplotlib.org/stable/contents.html} (дата обращения: 10.05.2026)}
-      \field{title}{Matplotlib [Электронный ресурс]}
+      \field{title}{Matplotlib: Visualization with Python [Электронный ресурс]}
       \field{year}{2026}
     \endentry
     \entry{python2026docs}{misc}{}{}
@@ -255,13 +561,6 @@
       \field{year}{2026}
     \endentry
   \enddatalist
-  \missing{bishop2006pattern}
-  \missing{breiman1984cart}
-  \missing{chen2016xgboost}
-  \missing{feng2015telematics}
-  \missing{goodfellow2016deep}
-  \missing{ke2017lightgbm}
-  \missing{russell2020aima}
 \endrefsection
 \endinput
 

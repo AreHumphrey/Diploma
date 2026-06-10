@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber build/VKR_Vinnitskaya_DS"] 1781123308.02623 "build/VKR_Vinnitskaya_DS.bcf" "build/VKR_Vinnitskaya_DS.bbl" "build/VKR_Vinnitskaya_DS" 1781123340.21465 2
-  "build/VKR_Vinnitskaya_DS.bcf" 1781123336 109602 82d4bbed4842963957a4046773837be4 "xelatex"
-  "refs/bibliography.bib" 1781123307 13370 23965b0500007e198e400dd3b65e66c6 ""
+["biber build/VKR_Vinnitskaya_DS"] 1781127167.42042 "build/VKR_Vinnitskaya_DS.bcf" "build/VKR_Vinnitskaya_DS.bbl" "build/VKR_Vinnitskaya_DS" 1781127191.10529 0
+  "build/VKR_Vinnitskaya_DS.bcf" 1781127186 109684 78f4be3ed04d9719162f30ec2ce9fa31 "xelatex"
+  "refs/bibliography.bib" 1781126933 13493 52cadba8edafad2e153c4f570b5497fe ""
   (generated)
   "build/VKR_Vinnitskaya_DS.bbl"
   "build/VKR_Vinnitskaya_DS.blg"
   (rewritten before read)
-["xdvipdfmx"] 1781123336.84624 "build/VKR_Vinnitskaya_DS.xdv" "build/VKR_Vinnitskaya_DS.pdf" "build/VKR_Vinnitskaya_DS" 1781123340.22366 0
-  "build/VKR_Vinnitskaya_DS.xdv" 1781123336 1623656 9bbfcf65a3f118750cc8b9da40352ae1 "xelatex"
+["xdvipdfmx"] 1781127186.943 "build/VKR_Vinnitskaya_DS.xdv" "build/VKR_Vinnitskaya_DS.pdf" "build/VKR_Vinnitskaya_DS" 1781127191.11622 0
+  "build/VKR_Vinnitskaya_DS.xdv" 1781127186 1640556 3ccc8e38586f4c0b2bec374bcbf438ab "xelatex"
   (generated)
   "build/VKR_Vinnitskaya_DS.pdf"
   (rewritten before read)
-["xelatex"] 1781123332.47228 "c:/Users/lutdi/diplom_bakalavriat/main.tex" "build/VKR_Vinnitskaya_DS.xdv" "VKR_Vinnitskaya_DS" 1781123340.21493 0
+["xelatex"] 1781127181.52501 "c:/Users/lutdi/diplom_bakalavriat/main.tex" "build/VKR_Vinnitskaya_DS.xdv" "VKR_Vinnitskaya_DS" 1781127191.10566 0
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136736254 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -142,18 +142,18 @@
   "C:/Program Files/MiKTeX/tex/xelatex/xunicode/xunicode.sty" 1315551046 205722 8027ed7ab2230086d647802c25f3ee42 ""
   "C:/Users/lutdi/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1776274304 27167978 607dca3b21fd61676801dd7c6421a101 ""
   "C:/Users/lutdi/AppData/Roaming/MiKTeX/tex/latex/fancyhdr/fancyhdr.sty" 1740138435 31715 19e60610b63819fe670dfa1cd84a4e94 ""
-  "build/VKR_Vinnitskaya_DS.aux" 1781123336 26700 bc5342481dbc9b9b3487c51bc424eedd "xelatex"
-  "build/VKR_Vinnitskaya_DS.bbl" 1781123310 12592 f1e56f2c624740a24a0321ccfa831280 "biber build/VKR_Vinnitskaya_DS"
-  "build/VKR_Vinnitskaya_DS.out" 1781123336 20490 261bab14d1015a05c2800678d7431426 "xelatex"
-  "build/VKR_Vinnitskaya_DS.run.xml" 1781123336 2508 df73330c0e54cf9ab99750f413ba916f "xelatex"
-  "build/VKR_Vinnitskaya_DS.toc" 1781123336 7431 8fc1f90fdce093362e506c82927ee1f2 "xelatex"
+  "build/VKR_Vinnitskaya_DS.aux" 1781127186 29445 4a2f9d84602c72cd651c9893cf5a9758 "xelatex"
+  "build/VKR_Vinnitskaya_DS.bbl" 1781127169 24832 e255a0a8f6c682b2244f73eb4f9feff3 "biber build/VKR_Vinnitskaya_DS"
+  "build/VKR_Vinnitskaya_DS.out" 1781127186 20490 261bab14d1015a05c2800678d7431426 "xelatex"
+  "build/VKR_Vinnitskaya_DS.run.xml" 1781127186 2508 4a0eb31b4f8b07d9d3d9fad82b233119 "xelatex"
+  "build/VKR_Vinnitskaya_DS.toc" 1781127186 7431 6551547771122ea358861e09f9cd6254 "xelatex"
   "c:/Users/lutdi/diplom_bakalavriat/main.tex" 1781114473 816 180be54368b8cb3fe00ecf924991ec45 ""
   "main.tex" 1781114473 816 180be54368b8cb3fe00ecf924991ec45 ""
   "parts/1 titlepage.tex" 1776306799 549 8306eb957091dc6507cef3d025806b66 ""
   "parts/1_1 annotation.tex" 1776788810 2263 fe0e1ae5711a86692b79729a3df2f833 ""
   "parts/2 introduction.tex" 1781113759 14533 22aa9584af4e59105a22c08bd9b8dd67 ""
   "parts/2a terms.tex" 1780603444 30897 75c04ee568df5374bbef4e8bd1a8b302 ""
-  "parts/3 main.tex" 1781123307 170496 5321934c9439f8762e8ae75ab4b5c54b ""
+  "parts/3 main.tex" 1781127158 170670 11b1cc234c3b3c92e9383884930e8777 ""
   "parts/4 conclusion.tex" 1780601454 7592 745addbd7aabb80b393099a2f3227808 ""
   "parts/5 appendix.tex" 1781119219 33397 2193dbef35b1fe0db7cbf87958a05f3c ""
   "pictures/d_docx_page.pdf" 1781030565 13315665 43f7af761fff4de59af89fff4b3ccc8c ""
