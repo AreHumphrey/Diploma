@@ -85,23 +85,83 @@
 % Глубина оглавления: разделы, подразделы, пункты (без \paragraph)
 \setcounter{tocdepth}{3}
 
-% Настройка библиографии
-\usepackage[backend=biber, sorting=none]{biblatex} % Использование Biber
-\addbibresource{refs/bibliography.bib} % Путь к файлу с библиографией
-%   \usepackage[utf8]{inputenc}
-%   \usepackage[T2A]{fontenc}
-%   \usepackage[russian]{babel}
+% ============================================================
+% НАСТРОЙКА БИБЛИОГРАФИИ (biblatex + Biber)
+% ============================================================
+\usepackage[
+    backend=biber,
+    sorting=none,              % Сортировка по порядку цитирования в тексте
+    language=auto,             % Автоматическое определение языка записи
+    autolang=other,            % Переключение языка для каждой записи
+    doi=false,                 % Не показывать DOI
+    url=true,                  % Показывать URL
+    eprint=false,              % Не показывать eprint
+    isbn=false,                % Не показывать ISBN
+    maxbibnames=99,            % Показывать всех авторов (без "и др.")
+    minbibnames=3,
+    giveninits=true,           % Инициалы вместо полных имён
+    defernumbers=true,         % Нумерация после сортировки
+]{biblatex}
 
+\addbibresource{refs/bibliography.bib} % Путь к файлу с библиографией
+
+% Оформление списка литературы по ГОСТу 7.1-2003
+\DefineBibliographyStrings{russian}{
+    references = {Список литературы},
+    and        = {и},
+    andothers  = {и~др\adddot},
+    editor     = {под~ред\adddot},
+    editors    = {под~ред\adddot},
+    byeditor   = {под~ред\adddot},
+    volume     = {Т\adddot},
+    volumes    = {Т\adddot},
+    number     = {№},
+    pages      = {С\adddot},
+    page       = {С\adddot},
+}
+
+% Формат нумерации записей: "1." "2." "3."
+\DeclareFieldFormat{labelnumberwidth}{#1\addperiod}
+
+% Межстрочный интервал между записями списка литературы
+\setlength{\bibitemsep}{0.5\baselineskip}
+
+% Отступ для второй и последующих строк записи (висячий отступ)
+\setlength{\bibhang}{1.25cm}
+
+% Шрифт записей списка литературы — Times New Roman 14pt
+\renewcommand*{\bibfont}{\normalfont\fontsize{14}{17.5}\selectfont}
+
+% Формат отображения URL
+\DeclareFieldFormat{url}{\mkbibacro{URL}\addcolon\space\url{#1}}
+
+% Формат отображения даты обращения
+\DeclareFieldFormat{urldate}{\mkbibparens{дата обращения\addcolon\space#1}}
+
+% Убираем точку в конце URL
+\renewbibmacro{url+urldate}{%
+  \printfield{url}%
+  \iffieldundef{urlyear}
+    {}
+    {\setunit*{\addspace}%
+     \printtext[urldate]{\printurldate}}%
+}
+
+% ============================================================
+% НАСТРОЙКА ЛИСТИНГОВ КОДА
+% ============================================================
 \renewcommand{\lstlistingname}{Листинг} % Русское название для листингов
 
 % Кастомная команда для преобразования номера месяца в русское название
-\newcommand{\monthname}[1]{
-    \ifcase#1
+\newcommand{\monthname}[1]{%
+    \ifcase#1%
     \or января\or февраля\or марта\or апреля\or мая\or июня\or июля%
-    \or августа\or сентября\or октября\or ноября\or декабря\fi
+    \or августа\or сентября\or октября\or ноября\or декабря\fi%
 }
 
-% Цветовая палитра
+% ============================================================
+% ЦВЕТОВАЯ ПАЛИТРА
+% ============================================================
 \definecolor{darkred}{rgb}{0.6,0.0,0.0}     % Тёмно-красный
 \definecolor{darkgreen}{rgb}{0,0.50,0}       % Тёмно-зелёный
 \definecolor{lightblue}{rgb}{0.0,0.42,0.91} % Голубой
@@ -125,6 +185,9 @@
   tabsize=4                       % Размер табуляции
 }
 
+% ============================================================
+% НУМЕРАЦИЯ РИСУНКОВ, ТАБЛИЦ И УРАВНЕНИЙ
+% ============================================================
 % Нумерация рисунков с указанием раздела: «Рисунок 1.1» (ДВФУ п. 3.1)
 % Таблицы нумеруются сквозно, уравнения — сквозно (ДВФУ п. 3.2.3, 4.1.4)
 \RequirePackage{chngcntr}

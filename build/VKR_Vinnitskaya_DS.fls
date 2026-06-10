@@ -7,9 +7,9 @@ INPUT C:\Program Files\MiKTeX\tex\latex\extsizes\extarticle.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\fleqn.clo
 INPUT C:\Program Files\MiKTeX\tex\latex\base\fleqn.clo
 INPUT C:\Program Files\MiKTeX\tex\latex\base\fleqn.clo
-INPUT C:\Program Files\MiKTeX\tex\latex\extsizes\size14.clo
-INPUT C:\Program Files\MiKTeX\tex\latex\extsizes\size14.clo
-INPUT C:\Program Files\MiKTeX\tex\latex\extsizes\size14.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
 INPUT C:\Program Files\MiKTeX\tex\latex\base\exscale.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\base\exscale.sty
 INPUT .\style\style.sty
@@ -229,6 +229,8 @@ INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\russian.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\russian.lbx
 INPUT C:\Program Files\MiKTeX\tex\latex\chngcntr\chngcntr.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\chngcntr\chngcntr.sty
 INPUT .\style\titlepage.sty
@@ -258,8 +260,6 @@ INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\english.lbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\russian.lbx
-INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\russian.lbx
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\russian.lbx
 OUTPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.bcf
 INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.bbl

@@ -1,375 +1,345 @@
 % ===========================================================
 % Список литературы ВКР
-% Тема: Проектирование и реализация модульной системы 
-%       оффлайн-транскрибации многоязычной речи 
-%       с использованием pipeline-архитектуры
+% Тема: Разработка прогнозной модели страховых рисков 
+%       на основе машинного обучения
 % ===========================================================
 
 % -----------------------------------------------------------
-% 1. Автоматическое распознавание речи (ASR)
+% 1. Страхование и актуарная математика
 % -----------------------------------------------------------
 
-@inproceedings{radford2023whisper,
-  title     = {Robust Speech Recognition via Large-Scale Weak Supervision},
-  author    = {Radford, Alec and Kim, Jong Wook and Xu, Tao and Brockman, Greg and McLeavey, Christine and Sutskever, Ilya},
-  booktitle = {Proceedings of the 40th International Conference on Machine Learning (ICML)},
-  series    = {Proceedings of Machine Learning Research},
-  volume    = {202},
-  pages     = {28492--28518},
-  year      = {2023},
-  publisher = {PMLR},
+@book{kornilov2004insurance,
+  title     = {Основы страховой математики: учеб. пособие},
+  author    = {Корнилов, И. А.},
+  year      = {2004},
+  publisher = {Юнити-Дана},
+  address   = {М.},
+  pages     = {210},
+  language  = {russian},
 }
 
-@inproceedings{gulati2020conformer,
-  title     = {Conformer: Convolution-augmented Transformer for Speech Recognition},
-  author    = {Gulati, Anmol and Qin, James and Chiu, Chung-Cheng and Parmar, Niki and Zhang, Yu and Yu, Jiahui and Han, Wei and Wang, Shibo and Zhang, Zhengdong and Wu, Yonghui and Pang, Ruoming},
-  booktitle = {Proc. Interspeech 2020},
-  pages     = {5036--5040},
-  year      = {2020},
-  doi       = {10.21437/Interspeech.2020-3015},
+@book{ivanov2007risk,
+  title     = {Теория и практика рискового страхования},
+  author    = {Иванов, С. С. and Голубев, С. Д. and Черная, Л. А. and Шарафутдинова, Н. Е.},
+  year      = {2007},
+  publisher = {Анкил},
+  address   = {М.},
+  pages     = {352},
+  language  = {russian},
 }
 
-@article{baevski2020wav2vec,
-  title   = {wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations},
-  author  = {Baevski, Alexei and Zhou, Yuhao and Mohamed, Abdelrahman and Auli, Michael},
-  journal = {Advances in Neural Information Processing Systems},
-  volume  = {33},
-  pages   = {12449--12460},
-  year    = {2020},
+@misc{rgs2026kbm,
+  title     = {Коэффициент бонус-малус ОСАГО [Электронный ресурс]},
+  author    = {{ПАО СК «Росгосстрах»}},
+  year      = {2026},
+  howpublished = {Официальный сайт ПАО СК «Росгосстрах»},
+  note      = {Режим доступа: \url{https://www.rgs.ru/prosto/terms/koeffitsient-bonus-malus-osago-chto-eto} (дата обращения: 22.03.2026)},
+  language  = {russian},
 }
 
-@article{graves2006ctc,
-  title   = {Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks},
-  author  = {Graves, Alex and Fern{\'a}ndez, Santiago and Gomez, Faustino and Schmidhuber, J{\"u}rgen},
-  booktitle = {Proceedings of the 23rd International Conference on Machine Learning (ICML)},
-  pages   = {369--376},
-  year    = {2006},
-  publisher = {ACM},
+@misc{cbr2026osago,
+  title     = {Указание Банка России от 30.07.2024 № 6810-У «О предельных размерах базовых ставок страховых тарифов и порядке их применения» [Электронный ресурс]},
+  author    = {{Центральный банк Российской Федерации}},
+  year      = {2024},
+  howpublished = {Официальный сайт Банка России},
+  note      = {Режим доступа: \url{https://cbr.ru/} (дата обращения: 15.04.2026)},
+  language  = {russian},
 }
 
-@inproceedings{chan2016las,
-  title     = {Listen, Attend and Spell: A Neural Network that Learns to Translate Speech to Text},
-  author    = {Chan, William and Jaitly, Navdeep and Le, Quoc V. and Vinyals, Oriol},
-  booktitle = {Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  pages     = {4960--4964},
-  year      = {2016},
-  publisher = {IEEE},
-}
-
-% -----------------------------------------------------------
-% 2. Диаризация спикеров
-% -----------------------------------------------------------
-
-@inproceedings{bredin2023pyannote,
-  title     = {pyannote.audio 2.1 speaker diarization pipeline: principle, benchmark, and recipe},
-  author    = {Bredin, Herv{\'e}},
-  booktitle = {Proc. Interspeech 2023},
-  pages     = {1983--1987},
-  year      = {2023},
-  doi       = {10.21437/Interspeech.2023-105},
-}
-
-@inproceedings{plaquet2023powerset,
-  title     = {Powerset multi-class cross entropy loss for neural speaker diarization},
-  author    = {Plaquet, Alexis and Bredin, Herv{\'e}},
-  booktitle = {Proc. Interspeech 2023},
-  year      = {2023},
-}
-
-@inproceedings{bredin2020pyannote,
-  title     = {pyannote.audio: neural building blocks for speaker diarization},
-  author    = {Bredin, Herv{\'e} and Yin, Ruiqing and Coria, Juan Manuel and Gelly, Gregory and Korshunov, Pavel and Lavechin, Marvin and Fustes, Diego and Titeux, Hadrien and Bouaziz, Wassim and Gill, Marie-Philippe},
-  booktitle = {ICASSP 2020, IEEE International Conference on Acoustics, Speech, and Signal Processing},
-  year      = {2020},
-  address   = {Barcelona, Spain},
-}
-
-@inproceedings{bredin2021segmentation,
-  title     = {End-to-end speaker segmentation for overlap-aware resegmentation},
-  author    = {Bredin, Herv{\'e} and Laurent, Antoine},
-  booktitle = {Proc. Interspeech 2021},
-  year      = {2021},
-}
-
-% -----------------------------------------------------------
-% 3. Определение языка (Language Identification)
-% -----------------------------------------------------------
-
-@inproceedings{valk2021voxlingua107,
-  title     = {{VoxLingua107}: a Dataset for Spoken Language Recognition},
-  author    = {Valk, J{\"o}rgen and Alum{\"a}e, Tanel},
-  booktitle = {Proc. IEEE SLT Workshop},
-  year      = {2021},
-}
-
-@inproceedings{desplanques2020ecapa,
-  title     = {{ECAPA-TDNN}: Emphasized Channel Attention, Propagation and Aggregation in {TDNN} Based Speaker Verification},
-  author    = {Desplanques, Brecht and Thienpondt, Jenthe and Demuynck, Kris},
-  booktitle = {Proc. Interspeech 2020},
-  pages     = {3830--3834},
-  year      = {2020},
-  doi       = {10.21437/Interspeech.2020-2650},
-}
-
-% -----------------------------------------------------------
-% 4. Общие архитектуры нейронных сетей
-% -----------------------------------------------------------
-
-@inproceedings{vaswani2017attention,
-  title     = {Attention Is All You Need},
-  author    = {Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N. and Kaiser, {\L}ukasz and Polosukhin, Illia},
-  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
-  volume    = {30},
-  year      = {2017},
-}
-
-@article{hochreiter1997lstm,
-  title   = {Long Short-Term Memory},
-  author  = {Hochreiter, Sepp and Schmidhuber, J{\"u}rgen},
-  journal = {Neural Computation},
-  volume  = {9},
-  number  = {8},
-  pages   = {1735--1780},
-  year    = {1997},
-}
-
-% -----------------------------------------------------------
-% 5. Фреймворки и инструменты машинного обучения
-% -----------------------------------------------------------
-
-@misc{ravanelli2021speechbrain,
-  title         = {{SpeechBrain}: A General-Purpose Speech Toolkit},
-  author        = {Ravanelli, Mirco and Parcollet, Titouan and Plantinga, Peter and Rouhe, Aku and Cornell, Samuele and Lugosch, Loren and Subakan, Cem and Dawalatabad, Nauman and Heba, Abdelwahab and Zhong, Jianyuan and Chou, Ju-Chieh and Yeh, Sung-Lin and Fu, Szu-Wei and Liao, Chien-Feng and Rastorgueva, Elena and Grondin, Fran{\c{c}}ois and Aris, William and Na, Hwidong and Gao, Yan and De~Mori, Renato and Bengio, Yoshua},
-  year          = {2021},
-  eprint        = {2106.04624},
-  archiveprefix = {arXiv},
-  primaryclass  = {eess.AS},
-}
-
-@misc{faster_whisper,
-  title        = {faster-whisper: Faster Whisper transcription with {CTranslate2}},
-  author       = {{SYSTRAN}},
-  year         = {2023},
-  howpublished = {\url{https://github.com/SYSTRAN/faster-whisper}},
-  note         = {Дата обращения: 15.02.2026},
-}
-
-@inproceedings{klein2020ctranslate2,
-  title     = {OpenNMT: Neural Machine Translation Toolkit},
-  author    = {Klein, Guillaume and Kim, Yoon and Deng, Yuntian and Crego, Josep and Senellart, Jean},
-  booktitle = {Proc. AMTA},
-  year      = {2020},
-  note      = {CTranslate2: \url{https://github.com/OpenNMT/CTranslate2}},
-}
-
-@misc{whisper_cpp,
-  title        = {whisper.cpp: Port of OpenAI's Whisper model in {C/C++}},
-  author       = {Gerganov, Georgi},
-  year         = {2023},
-  howpublished = {\url{https://github.com/ggerganov/whisper.cpp}},
-  note         = {Дата обращения: 03.03.2026},
-}
-
-@misc{vosk,
-  title        = {Vosk: Offline Speech Recognition API},
-  author       = {{Alpha Cephei}},
-  year         = {2023},
-  howpublished = {\url{https://alphacephei.com/vosk/}},
-  note         = {Дата обращения: 22.02.2026},
-}
-
-@misc{huggingface_transformers,
-  title        = {Transformers: State-of-the-Art Natural Language Processing},
-  author       = {Wolf, Thomas and Debut, Lysandre and Sanh, Victor and Chaumond, Julien and Delangue, Clement and Moi, Anthony and Cistac, Pierric and Rault, Tim and Louf, R{\'e}mi and Funtowicz, Morgan and others},
-  year         = {2020},
-  howpublished = {\url{https://github.com/huggingface/transformers}},
-  note         = {Дата обращения: 25.02.2026},
-}
-
-@misc{pytorch,
-  title        = {{PyTorch}: An Imperative Style, High-Performance Deep Learning Library},
-  author       = {Paszke, Adam and Gross, Sam and Massa, Francisco and Lerer, Adam and Bradbury, James and Chanan, Gregory and Killeen, Trevor and Lin, Zeming and Gimelshein, Natalia and Antiga, Luca and others},
-  year         = {2019},
-  eprint       = {1912.01703},
-  archiveprefix= {arXiv},
-}
-
-% -----------------------------------------------------------
-% 6. Архитектура ПО и паттерны проектирования
-% -----------------------------------------------------------
-
-@book{gamma1995patterns,
-  title     = {Design Patterns: Elements of Reusable Object-Oriented Software},
-  author    = {Gamma, Erich and Helm, Richard and Johnson, Ralph and Vlissides, John},
-  year      = {1995},
-  publisher = {Addison-Wesley},
-  address   = {Reading, MA},
-}
-
-@book{martin2017clean,
-  title     = {Clean Architecture: A Craftsman's Guide to Software Structure and Design},
-  author    = {Martin, Robert C.},
-  year      = {2017},
-  publisher = {Prentice Hall},
-}
-
-@book{fowler2002patterns,
-  title     = {Patterns of Enterprise Application Architecture},
-  author    = {Fowler, Martin},
-  year      = {2002},
-  publisher = {Addison-Wesley},
-}
-
-@inproceedings{hohpe2003enterprise,
-  title     = {Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions},
-  author    = {Hohpe, Gregor and Woolf, Bobby},
+@book{shakhov2003insurance,
+  title     = {Страхование: учебник для вузов},
+  author    = {Шахов, В. В.},
   year      = {2003},
-  publisher = {Addison-Wesley},
+  publisher = {Юнити-Дана},
+  address   = {М.},
+  pages     = {352},
+  language  = {russian},
 }
 
 % -----------------------------------------------------------
-% 7. GUI и кроссплатформенная разработка
+% 2. Машинное обучение и CatBoost
 % -----------------------------------------------------------
 
-@misc{pyqt6,
-  title        = {{PyQt6}: {Python} bindings for {Qt} 6},
-  author       = {{Riverbank Computing}},
-  year         = {2023},
-  howpublished = {\url{https://www.riverbankcomputing.com/software/pyqt/}},
-  note         = {Дата обращения: 07.04.2026},
+@inproceedings{prokhorenkova2018catboost,
+  title     = {CatBoost: Unbiased Boosting with Categorical Features},
+  author    = {Prokhorenkova, Liudmila and Gusev, Gleb and Vorobev, Aleksandr and Dorogush, Anna Veronika and Gulin, Andrey},
+  booktitle = {Advances in Neural Information Processing Systems},
+  volume    = {31},
+  year      = {2018},
+  note      = {Режим доступа: \url{https://arxiv.org/pdf/1706.09516} (дата обращения: 22.03.2026)},
 }
 
-@misc{pyinstaller,
-  title        = {{PyInstaller}: Freeze Python applications},
-  author       = {{PyInstaller Development Team}},
-  year         = {2023},
-  howpublished = {\url{https://pyinstaller.org/}},
-  note         = {Дата обращения: 12.03.2026},
+@misc{catboost2026docs,
+  title     = {CatBoost Documentation [Электронный ресурс]},
+  author    = {{Yandex}},
+  year      = {2026},
+  howpublished = {Официальная документация CatBoost},
+  note      = {Режим доступа: \url{https://catboost.ai/docs/en/} (дата обращения: 10.05.2026)},
 }
 
-% -----------------------------------------------------------
-% 8. Бенчмарки и датасеты
-% -----------------------------------------------------------
-
-@inproceedings{panayotov2015librispeech,
-  title     = {Librispeech: An {ASR} corpus based on public domain audio books},
-  author    = {Panayotov, Vassil and Chen, Guoguo and Povey, Daniel and Khudanpur, Sanjeev},
-  booktitle = {Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  pages     = {5206--5210},
-  year      = {2015},
-  publisher = {IEEE},
+@article{friedman2001greedy,
+  title   = {Greedy Function Approximation: A Gradient Boosting Machine},
+  author  = {Friedman, Jerome H.},
+  journal = {Annals of Statistics},
+  volume  = {29},
+  number  = {5},
+  pages   = {1189--1232},
+  year    = {2001},
 }
 
-@article{conneau2022fleurs,
-  title   = {{FLEURS}: Few-shot Learning Evaluation of Universal Representations of Speech},
-  author  = {Conneau, Alexis and Ma, Min and Khanuja, Simran and Zhang, Yu and Axelrod, Vera and Dalmia, Siddharth and Riesa, Jason and Rivera, Clara and Bapna, Ankur},
-  journal = {arXiv preprint arXiv:2205.12446},
-  year    = {2022},
+@book{bishop2006pattern,
+  title     = {Pattern Recognition and Machine Learning},
+  author    = {Bishop, Christopher M.},
+  year      = {2006},
+  publisher = {Springer},
+  address   = {New York},
+  pages     = {738},
 }
 
-@inproceedings{watanabe2020chime6,
-  title     = {{CHiME-6} Challenge: Tackling Multispeaker Speech Recognition for Unsegmented Recordings},
-  author    = {Watanabe, Shinji and Mandel, Michael and Barker, Jon and Vincent, Emmanuel and Arber, Ashish and Narayanan, Arun and Chang, Xuankai and Zhang, Zhuo and Qian, Yanmin},
-  booktitle = {Proc. 6th International Workshop on Speech Processing in Everyday Environments (CHiME)},
-  year      = {2020},
+@book{hastie2009elements,
+  title     = {The Elements of Statistical Learning: Data Mining, Inference, and Prediction},
+  author    = {Hastie, Trevor and Tibshirani, Robert and Friedman, Jerome},
+  edition   = {2nd},
+  year      = {2009},
+  publisher = {Springer},
+  address   = {New York},
+  pages     = {745},
 }
 
-@article{nagrani2020voxceleb,
-  title   = {Voxceleb: Large-scale speaker verification in the wild},
-  author  = {Nagrani, Arsha and Chung, Joon Son and Xie, Weidi and Zisserman, Andrew},
-  journal = {Computer Speech \& Language},
-  volume  = {60},
-  pages   = {101027},
-  year    = {2020},
-  publisher = {Elsevier},
+@book{goodfellow2016deep,
+  title     = {Deep Learning},
+  author    = {Goodfellow, Ian and Bengio, Yoshua and Courville, Aaron},
+  year      = {2016},
+  publisher = {MIT Press},
+  address   = {Cambridge, MA},
+  pages     = {800},
 }
 
-% -----------------------------------------------------------
-% 9. Метрики оценки качества
-% -----------------------------------------------------------
-
-@article{morris2004wer,
-  title   = {From WER and RIL to MER and WIL: improved evaluation measures for connected speech recognition},
-  author  = {Morris, Andrew C. and Maier, Viktoria and Green, Phil},
-  journal = {Proc. Interspeech},
-  pages   = {2765--2768},
-  year    = {2004},
-}
-
-@inproceedings{park2022review_der,
-  title     = {A Review of Speaker Diarization: Recent Advances with Deep Learning},
-  author    = {Park, Tae Jin and Kanda, Naoyuki and Dimitriadis, Dimitrios and Han, Kyu J. and Watanabe, Shinji and Narayanan, Shrikanth},
-  journal   = {Computer Speech \& Language},
-  volume    = {76},
-  pages     = {101415},
-  year      = {2022},
-  publisher = {Elsevier},
+@misc{sklearn2026docs,
+  title     = {scikit-learn: Machine Learning in Python [Электронный ресурс]},
+  author    = {{scikit-learn developers}},
+  year      = {2026},
+  howpublished = {Официальная документация scikit-learn},
+  note      = {Режим доступа: \url{https://scikit-learn.org/stable/index.html} (дата обращения: 10.05.2026)},
 }
 
 % -----------------------------------------------------------
-% 10. ГОСТы и нормативные документы
+% 3. Телематика и данные
 % -----------------------------------------------------------
+
+@misc{levin2026telematics,
+  title     = {Levin Vehicle Telematics Dataset [Электронный ресурс]},
+  author    = {Yun, Levin},
+  year      = {2026},
+  howpublished = {Kaggle},
+  note      = {Режим доступа: \url{https://www.kaggle.com/datasets/yunlevin/levin-vehicle-telematics} (дата обращения: 15.03.2026)},
+}
+
+@article{feng2015telematics,
+  title   = {A Review of Emerging Technologies in Vehicle Telematics},
+  author  = {Feng, Chen and Liu, Zhiyong and Wang, Xiaobo},
+  journal = {IEEE Transactions on Intelligent Transportation Systems},
+  volume  = {16},
+  number  = {5},
+  pages   = {2345--2360},
+  year    = {2015},
+}
+
+% -----------------------------------------------------------
+% 4. Веб-разработка: Flask и Python
+% -----------------------------------------------------------
+
+@misc{flask2026docs,
+  title     = {Flask Documentation [Электронный ресурс]},
+  author    = {{Pallets Projects}},
+  year      = {2026},
+  howpublished = {Официальная документация Flask},
+  note      = {Режим доступа: \url{https://flask.palletsprojects.com/en/stable/} (дата обращения: 12.05.2026)},
+}
+
+@misc{python2026docs,
+  title     = {Python 3.13 Documentation [Электронный ресурс]},
+  author    = {{Python Software Foundation}},
+  year      = {2026},
+  howpublished = {Официальная документация Python},
+  note      = {Режим доступа: \url{https://docs.python.org/3.13/index.html} (дата обращения: 10.05.2026)},
+}
+
+@misc{pandas2026docs,
+  title     = {pandas: Powerful Python Data Analysis Toolkit [Электронный ресурс]},
+  author    = {{pandas development team}},
+  year      = {2026},
+  howpublished = {Официальная документация pandas},
+  note      = {Режим доступа: \url{https://pandas.pydata.org/docs/} (дата обращения: 10.05.2026)},
+}
+
+@misc{numpy2026docs,
+  title     = {NumPy Documentation [Электронный ресурс]},
+  author    = {{NumPy developers}},
+  year      = {2026},
+  howpublished = {Официальная документация NumPy},
+  note      = {Режим доступа: \url{https://numpy.org/doc/stable/} (дата обращения: 10.05.2026)},
+}
+
+@misc{matplotlib2026docs,
+  title     = {Matplotlib: Visualization with Python [Электронный ресурс]},
+  author    = {{Matplotlib Development Team}},
+  year      = {2026},
+  howpublished = {Официальная документация Matplotlib},
+  note      = {Режим доступа: \url{https://matplotlib.org/stable/contents.html} (дата обращения: 10.05.2026)},
+}
+
+@misc{reportlab2026docs,
+  title     = {ReportLab PDF Library Documentation [Электронный ресурс]},
+  author    = {{ReportLab Corporation}},
+  year      = {2026},
+  howpublished = {Официальная документация ReportLab},
+  note      = {Режим доступа: \url{https://docs.reportlab.com/} (дата обращения: 12.05.2026)},
+}
+
+@misc{jinja2026docs,
+  title     = {Jinja — Template Engine for Python [Электронный ресурс]},
+  author    = {{Pallets Projects}},
+  year      = {2026},
+  howpublished = {Официальная документация Jinja2},
+  note      = {Режим доступа: \url{https://jinja.palletsprojects.com/} (дата обращения: 12.05.2026)},
+}
+
+@misc{html2026mdn,
+  title     = {HTML: HyperText Markup Language [Электронный ресурс]},
+  author    = {{MDN Web Docs}},
+  year      = {2026},
+  howpublished = {Mozilla Developer Network},
+  note      = {Режим доступа: \url{https://developer.mozilla.org/en-US/docs/Web/HTML} (дата обращения: 12.05.2026)},
+}
+
+@misc{css2026mdn,
+  title     = {CSS: Cascading Style Sheets [Электронный ресурс]},
+  author    = {{MDN Web Docs}},
+  year      = {2026},
+  howpublished = {Mozilla Developer Network},
+  note      = {Режим доступа: \url{https://developer.mozilla.org/en-US/docs/Web/CSS} (дата обращения: 12.05.2026)},
+}
+
+% -----------------------------------------------------------
+% 5. Дизайн и прототипирование
+% -----------------------------------------------------------
+
+@misc{figma2026learn,
+  title     = {Figma Learn — Help Center [Электронный ресурс]},
+  author    = {{Figma, Inc.}},
+  year      = {2026},
+  howpublished = {Официальный центр помощи Figma},
+  note      = {Режим доступа: \url{https://help.figma.com/hc/en-us} (дата обращения: 20.04.2026)},
+}
+
+@book{norman2013design,
+  title     = {The Design of Everyday Things: Revised and Expanded Edition},
+  author    = {Norman, Donald A.},
+  year      = {2013},
+  publisher = {Basic Books},
+  address   = {New York},
+  pages     = {368},
+}
+
+@book{krug2014dont,
+  title     = {Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability},
+  author    = {Krug, Steve},
+  edition   = {3rd},
+  year      = {2014},
+  publisher = {New Riders},
+  address   = {Berkeley, CA},
+  pages     = {216},
+}
+
+% -----------------------------------------------------------
+% 6. Нормативные документы и ГОСТы
+% -----------------------------------------------------------
+
+@misc{gost732_2017,
+  title     = {{ГОСТ 7.32-2017}. Отчёт о научно-исследовательской работе. Структура и правила оформления},
+  author    = {{Росстандарт}},
+  year      = {2017},
+  language  = {russian},
+}
 
 @misc{gost19_201,
-  title        = {{ГОСТ 19.201-78}. Техническое задание. Требования к содержанию и оформлению},
-  author       = {{Госстандарт СССР}},
-  year         = {1978},
-  note         = {(с изменениями)},
+  title     = {{ГОСТ 19.201-78}. Техническое задание. Требования к содержанию и оформлению},
+  author    = {{Госстандарт СССР}},
+  year      = {1978},
+  note      = {(с изменениями)},
+  language  = {russian},
 }
 
 @misc{gost34_602,
-  title        = {{ГОСТ 34.602-2020}. Информационные технологии. Техническое задание на создание автоматизированной системы},
-  author       = {{Росстандарт}},
-  year         = {2020},
+  title     = {{ГОСТ 34.602-2020}. Информационные технологии. Техническое задание на создание автоматизированной системы},
+  author    = {{Росстандарт}},
+  year      = {2020},
+  language  = {russian},
 }
 
-@misc{gost7_32,
-  title        = {{ГОСТ 7.32-2017}. Отчёт о научно-исследовательской работе. Структура и правила оформления},
-  author       = {{Росстандарт}},
-  year         = {2017},
+@misc{dvgu2025vkr,
+  title     = {Регламент по подготовке и проведению государственного экзамена и защиты выпускных квалификационных работ: РГ-ДВФУ-150-2025: утв. 14.10.2025: рег. №12-11-95 / Дальневосточный федеральный университет},
+  author    = {{Дальневосточный федеральный университет}},
+  year      = {2025},
+  address   = {Владивосток},
+  pages     = {41},
+  language  = {russian},
 }
 
 % -----------------------------------------------------------
-% 11. Дополнительные источники
+% 7. Дополнительные источники по ML и статистике
 % -----------------------------------------------------------
 
-@misc{pydub,
-  title        = {pydub: Manipulate audio with a simple and easy high level interface},
-  author       = {Robert, James},
-  year         = {2023},
-  howpublished = {\url{https://github.com/jiaaro/pydub}},
-  note         = {Дата обращения: 28.02.2026},
-}
-
-@misc{sqlite,
-  title        = {{SQLite} Documentation},
-  author       = {Hipp, D. Richard},
-  year         = {2023},
-  howpublished = {\url{https://www.sqlite.org/docs.html}},
-  note         = {Дата обращения: 19.03.2026},
-}
-
-@book{lutz2013python,
-  title     = {Learning Python},
-  author    = {Lutz, Mark},
-  edition   = {5th},
-  year      = {2013},
+@book{muller2016introduction,
+  title     = {Introduction to Machine Learning with Python: A Guide for Data Scientists},
+  author    = {Müller, Andreas C. and Guido, Sarah},
+  year      = {2016},
   publisher = {O'Reilly Media},
+  address   = {Sebastopol, CA},
+  pages     = {392},
 }
 
-@article{park2019specaugment,
-  title     = {{SpecAugment}: A Simple Data Augmentation Method for Automatic Speech Recognition},
-  author    = {Park, Daniel S. and Chan, William and Zhang, Yu and Chiu, Chung-Cheng and Zoph, Barret and Cubuk, Ekin D. and Le, Quoc V.},
-  booktitle = {Proc. Interspeech},
-  pages     = {2613--2617},
-  year      = {2019},
+@book{russell2020aima,
+  title     = {Artificial Intelligence: A Modern Approach},
+  author    = {Russell, Stuart and Norvig, Peter},
+  edition   = {4th},
+  year      = {2020},
+  publisher = {Pearson},
+  address   = {New York},
+  pages     = {1136},
 }
 
-@inproceedings{snyder2018xvectors,
-  title     = {X-Vectors: Robust {DNN} Embeddings for Speaker Recognition},
-  author    = {Snyder, David and Garcia-Romero, Daniel and Sell, Gregory and Povey, Daniel and Khudanpur, Sanjeev},
-  booktitle = {Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  pages     = {5329--5333},
-  year      = {2018},
-  publisher = {IEEE},
+@article{chen2016xgboost,
+  title   = {XGBoost: A Scalable Tree Boosting System},
+  author  = {Chen, Tianqi and Guestrin, Carlos},
+  journal = {Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+  pages   = {785--794},
+  year    = {2016},
+}
+
+@article{ke2017lightgbm,
+  title   = {LightGBM: A Highly Efficient Gradient Boosting Decision Tree},
+  author  = {Ke, Guolin and Meng, Qi and Finley, Thomas and Wang, Taifeng and Chen, Wei and Ma, Weidong and Ye, Qiwei and Liu, Tie-Yan},
+  journal = {Advances in Neural Information Processing Systems},
+  volume  = {30},
+  year    = {2017},
+}
+
+@book{breiman1984cart,
+  title     = {Classification and Regression Trees},
+  author    = {Breiman, Leo and Friedman, Jerome and Stone, Charles J. and Olshen, Richard A.},
+  year      = {1984},
+  publisher = {CRC Press},
+  address   = {Boca Raton, FL},
+  pages     = {368},
+}
+
+@article{pedregosa2011sklearn,
+  title   = {Scikit-learn: Machine Learning in Python},
+  author  = {Pedregosa, Fabian and Varoquaux, Ga{\"e}l and Gramfort, Alexandre and Michel, Vincent and Thirion, Bertrand and Grisel, Olivier and Blondel, Mathieu and Prettenhofer, Peter and Weiss, Ron and Dubourg, Vincent and Vanderplas, Jake and Passos, Alexandre and Cournapeau, David and Brucher, Matthieu and Perrot, Matthieu and Duchesnay, {\'E}douard},
+  journal = {Journal of Machine Learning Research},
+  volume  = {12},
+  pages   = {2825--2830},
+  year    = {2011},
 }

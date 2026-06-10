@@ -1,7 +1,9 @@
-\documentclass[14pt, a4paper, titlepage, fleqn]{extarticle}
+\documentclass[a4paper, titlepage, fleqn]{extarticle}
 
 \usepackage{style/style}
 \usepackage{style/titlepage}
+
+% НЕ добавляйте здесь \addbibresource — он уже есть в style.sty!
 
 \everymath{\displaystyle}
 \renewcommand*\contentsname{СОДЕРЖАНИЕ}
@@ -34,14 +36,13 @@
 
     \pagebreak
 
-    \printbibliography[heading=bibintoc, title={Список литературы}]
+    % Список литературы
+    \printbibliography[heading=bibintoc, title={СПИСОК ЛИТЕРАТУРЫ}]
 
     \pagebreak
 
     \input{parts/5 appendix}
     
     \pagebreak
-
-    
 
 \end{document}

@@ -96,7 +96,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxbibnames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>99</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxcitenames</bcf:key>
@@ -104,7 +104,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxsortnames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>99</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxitems</bcf:key>
@@ -116,7 +116,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>minbibnames</bcf:key>
-      <bcf:value>1</bcf:value>
+      <bcf:value>3</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>mincitenames</bcf:key>
@@ -124,7 +124,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>minsortnames</bcf:key>
-      <bcf:value>1</bcf:value>
+      <bcf:value>3</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>minitems</bcf:key>
@@ -331,7 +331,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxbibnames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>99</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxcitenames</bcf:key>
@@ -339,7 +339,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxsortnames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>99</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxitems</bcf:key>
@@ -351,7 +351,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>minbibnames</bcf:key>
-      <bcf:value>1</bcf:value>
+      <bcf:value>3</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>mincitenames</bcf:key>
@@ -359,7 +359,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>minsortnames</bcf:key>
-      <bcf:value>1</bcf:value>
+      <bcf:value>3</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>minitems</bcf:key>
@@ -2373,6 +2373,32 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">refs/bibliography.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="1" intorder="1">rgs2026kbm</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">feng2015telematics</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">breiman1984cart</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">chen2016xgboost</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">ke2017lightgbm</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">goodfellow2016deep</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">russell2020aima</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">russell2020aima</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">cbr2026osago</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">rgs2026kbm</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">hastie2009elements</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">prokhorenkova2018catboost</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">catboost2026docs</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">bishop2006pattern</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">levin2026telematics</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">kornilov2004insurance</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">ivanov2007risk</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">catboost2026docs</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">figma2026learn</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">krug2014dont</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">flask2026docs</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">reportlab2026docs</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">html2026mdn</bcf:citekey>
+    <bcf:citekey order="23" intorder="2">css2026mdn</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">matplotlib2026docs</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">python2026docs</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
