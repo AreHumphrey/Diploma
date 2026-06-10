@@ -1,10 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  11 JUN 2026 04:49
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  11 JUN 2026 05:43
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/lutdi/diplom_bakalavriat/main.tex
-(c:/Users/lutdi/diplom_bakalavriat/main.tex
+**./main.tex
+(main.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
 (C:\Program Files\MiKTeX\tex/latex/extsizes\extarticle.cls
@@ -957,7 +956,7 @@ Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 \@quotelevel=\count474
 \@quotereset=\count475
 
-(c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.aux
+(C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.aux
 
 LaTeX Warning: Label `lst:feature_eng' multiply defined.
 
@@ -1033,8 +1032,8 @@ LaTeX Font Info:    ... okay on input line 11.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 11.
-(c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out)
-(c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out)
+(C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out)
+(C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out)
 \@outlinefile=\write4
 \openout4 = `VKR_Vinnitskaya_DS.out'.
 
@@ -1137,10 +1136,101 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'VKR_Vinnitskaya_DS.bbl' found.
 
-(c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.bbl)
+(C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                bishop2006pattern
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                breiman1984cart
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                chen2016xgboost
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                feng2015telematics
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                goodfellow2016deep
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                ke2017lightgbm
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                russell2020aima
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
+
+Package biblatex Warning: citation 'feng2015telematics'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
+
+Package biblatex Warning: citation 'breiman1984cart'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
+
+Package biblatex Warning: citation 'chen2016xgboost'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
+
+Package biblatex Warning: citation 'ke2017lightgbm'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
+
+Package biblatex Warning: citation 'goodfellow2016deep'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
+
+Package biblatex Warning: citation 'russell2020aima'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
+
+Package biblatex Warning: citation 'bishop2006pattern'
+(biblatex)                was not found at all in the .bbl file,
+(biblatex)                bibliography labels cannot be generated,
+(biblatex)                please correct the citation.
+
 Package biblatex Info: Reference section=0 on input line 11.
 Package biblatex Info: Reference segment=0 on input line 11.
-
 (parts/1 titlepage.tex
 File: pictures/logo.pdf Graphic file (type pdf)
 <use pictures/logo.pdf>
@@ -1158,7 +1248,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )) [1
 
 ]
-(c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.toc
+(C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.toc
 Overfull \hbox (0.23386pt too wide) in paragraph at lines 9--9
  [][] [][]\TU/TimesNewRoman(1)/m/n/14 Математическое обоснование необходимости 
 применения методов 
@@ -1314,7 +1404,43 @@ Overfull \hbox (2.03076pt too wide) in paragraph at lines 14--16
 азовой ставки на набор фик-
  []
 
-[19] [20] [21] [22]
+
+LaTeX Warning: Citation 'feng2015telematics' on page 19 undefined on input line
+ 27.
+
+[19]
+
+LaTeX Warning: Citation 'breiman1984cart' on page 20 undefined on input line 39
+.
+
+
+LaTeX Warning: Citation 'chen2016xgboost' on page 20 undefined on input line 50
+.
+
+
+LaTeX Warning: Citation 'ke2017lightgbm' on page 20 undefined on input line 50.
+
+
+
+LaTeX Warning: Citation 'goodfellow2016deep' on page 20 undefined on input line
+ 63.
+
+
+Overfull \hbox (80.38509pt too wide) in paragraph at lines 63--64
+[]\TU/TimesNewRoman(1)/m/n/14 Архитектуры глубокого обучения и искусственные не
+йронные сети [[]]
+ []
+
+[20]
+
+LaTeX Warning: Citation 'russell2020aima' on page 21 undefined on input line 70
+.
+
+
+LaTeX Warning: Citation 'russell2020aima' on page 21 undefined on input line 83
+.
+
+[21] [22]
 Overfull \hbox (1.73763pt too wide) in paragraph at lines 120--121
 []\TU/TimesNewRoman(1)/m/n/14 Описанные ограничения формируют предпосылки для в
 недрения более гиб-
@@ -1345,6 +1471,11 @@ st реализует метод Ordered
  []
 
 [27]
+
+LaTeX Warning: Citation 'bishop2006pattern' on page 28 undefined on input line 
+206.
+
+
 Overfull \hbox (5.09781pt too wide) in paragraph at lines 212--213
 \TU/TimesNewRoman(1)/m/n/14 кретных систем бонус-малус и обеспечить непрерывную
  оценку вероятности ДТП. 
@@ -1476,9 +1607,9 @@ Overfull \hbox (13.0374pt too wide) in paragraph at lines 519--520
  []
 
 
-Overfull \hbox (1.66855pt too wide) in paragraph at lines 519--520
-\TU/TimesNewRoman(1)/m/n/14 щих за собой этапов: формирование дизайн-концепции,
- создание дизайн-системы,
+Overfull \hbox (2.55156pt too wide) in paragraph at lines 519--520
+\TU/TimesNewRoman(1)/m/n/14 за собой этапов: формирование дизайн-концепции, соз
+дание дизайн-системы, про-
  []
 
 [48]
@@ -1602,7 +1733,7 @@ Overfull \hbox (3.65556pt too wide) in paragraph at lines 624--625
 
 Overfull \hbox (11.95052pt too wide) in paragraph at lines 630--631
 []\TU/TimesNewRoman(1)/m/n/14 Генерация графика осуществляется с применением би
-блиотеки Matplotlib [[]22[]]
+блиотеки Matplotlib [[]15[]]
  []
 
 [61]
@@ -1653,119 +1784,63 @@ Overfull \hbox (1.9037pt too wide) in paragraph at lines 40--40
 айт ПАО СК «Росгосстрах». Режим доступа: []$[][][][][] []
  []
 
-
-Overfull \hbox (16.07675pt too wide) in paragraph at lines 40--40
-\TU/TimesNewRoman(1)/m/n/14 Telematics”. В: \TU/TimesNewRoman(1)/m/it/14 IEEE T
-ransactions on Intelligent Transportation Systems \TU/TimesNewRoman(1)/m/n/14 1
-6.5 (2015),
- []
-
-
-Overfull \hbox (14.3169pt too wide) in paragraph at lines 40--40
-[]\TU/TimesNewRoman(1)/m/n/14 T. Chen и C. Guestrin. “XGBoost: A Scalable Tree 
-Boosting System”. В: \TU/TimesNewRoman(1)/m/it/14 Proceedings
- []
-
-
-Overfull \hbox (7.77538pt too wide) in paragraph at lines 40--40
-[]\TU/TimesNewRoman(1)/m/n/14 G. Ke, Q. Meng, T. Finley, T. Wang, W. Chen, W. M
-a, Q. Ye и T.[]Y. Liu. “LightGBM:
- []
-
-
-Overfull \hbox (34.91434pt too wide) in paragraph at lines 40--40
-\TU/TimesNewRoman(1)/m/n/14 A Highly Efficient Gradient Boosting Decision Tree”
-. В: \TU/TimesNewRoman(1)/m/it/14 Advances in Neural Information
- []
-
-
-Overfull \hbox (21.804pt too wide) in paragraph at lines 40--40
-[]\TU/TimesNewRoman(1)/m/n/14 Центральный банк Российской Федерации. \TU/TimesN
-ewRoman(1)/m/it/14 Указание Банка России от 30.07.2024
- []
-
 [70]
-Overfull \hbox (0.81433pt too wide) in paragraph at lines 40--40
-\TU/TimesNewRoman(1)/m/n/14 кументация Flask. Режим доступа: []$[][][][][] [] [
-] [] [][][][][] [] [][][][][][][][][][][][][][][] []
+Overfull \hbox (9.98692pt too wide) in paragraph at lines 40--40
+[]\TU/TimesNewRoman(1)/m/it/14 Flask Documentation [Электронный ресурс]\TU/Time
+sNewRoman(1)/m/n/14 . Официальная документация Flask.
  []
 
 
-Overfull \hbox (20.01877pt too wide) in paragraph at lines 40--40
-\TU/TimesNewRoman(1)/m/n/14 Mozilla Developer Network. Режим доступа: []$[][][]
-[][] [] [] [] [][][][][][][][][] [] [][][][][][][] []
+Overfull \hbox (10.3936pt too wide) in paragraph at lines 40--40
+\TU/TimesNewRoman(1)/m/n/14 Режим доступа: []$[][][][][] [] [] [] [][][][][] []
+ [][][][][][][][][][][][][][][] [] [][][] [] [][] [] [][][][][][][]$[]
  []
 
-[71]
-Overfull \hbox (0.70512pt too wide) in paragraph at lines 40--40
-\TU/TimesNewRoman(1)/m/it/14 ный ресурс]\TU/TimesNewRoman(1)/m/n/14 . Официальн
-ая документация Matplotlib. Режим доступа: []$[][][][][] []
- []
-
-
-Overfull \hbox (33.61757pt too wide) in paragraph at lines 40--40
-[] [] [][][][][][][][][][] [] [][][] [] [][][][][][] [] [][][][][][][][] [] [][
-][][]$[] \TU/TimesNewRoman(1)/m/n/14 (дата обращения: 10.05.2026).
- []
-
-
-Overfull \hbox (3.4814pt too wide) in paragraph at lines 40--40
-[]\TU/TimesNewRoman(1)/m/n/14 Python Software Foundation. \TU/TimesNewRoman(1)/
-m/it/14 Python 3.13 Documentation [Электронный ресурс]\TU/TimesNewRoman(1)/m/n/
-14 .
- []
-
-
-Overfull \hbox (23.83322pt too wide) in paragraph at lines 40--40
-\TU/TimesNewRoman(1)/m/n/14 Официальная документация Python. Режим доступа: []$
-[][][][][] [] [] [] [][][][] [] [][][][][][] []
- []
-
-[72] (parts/5 appendix.tex
+[71] (parts/5 appendix.tex
 Overfull \hbox (5.95229pt too wide) in paragraph at lines 24--53
  [][] 
  []
 
-[73]
+[72]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 74.
- [74] [75] [76]
+ [73] [74] [75]
 File: pictures/threshold_analysis.png Graphic file (type bmp)
 <pictures/threshold_analysis.png>
- [77] [78]
+ [76] [77]
 File: pictures/metric_p.png Graphic file (type bmp)
 <pictures/metric_p.png>
- [79]
+ [78]
 File: pictures/matrix_err.png Graphic file (type bmp)
 <pictures/matrix_err.png>
- [80]
+ [79]
 File: pictures/roc_k.png Graphic file (type bmp)
 <pictures/roc_k.png>
- [81]
+ [80]
 File: pictures/v_p_p.png Graphic file (type bmp)
 <pictures/v_p_p.png>
- [82]
+ [81]
 File: pictures/scr_color.png Graphic file (type bmp)
 <pictures/scr_color.png>
- [83]
+ [82]
 File: pictures/d_home_page.pdf Graphic file (type pdf)
 <use pictures/d_home_page.pdf>
- [84]
+ [83]
 File: pictures/d_docx_page.pdf Graphic file (type pdf)
 <use pictures/d_docx_page.pdf>
- [85]
+ [84]
 File: pictures/scr_form.png Graphic file (type bmp)
 <pictures/scr_form.png>
- [86]
+ [85]
 File: pictures/d_res_page.pdf Graphic file (type pdf)
 <use pictures/d_res_page.pdf>
- [87]
-[88] [89] [90]
+ [86]
+[87] [88] [89]
 Overfull \hbox (9.85611pt too wide) in paragraph at lines 498--499
 [][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[91]
+[90]
 Overfull \hbox (14.86258pt too wide) in paragraph at lines 539--540
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -1775,7 +1850,7 @@ Overfull \hbox (9.12723pt too wide) in paragraph at lines 549--551
 [][][][][][][][][][][][][][][][][][][][] 
  []
 
-[92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102]
+[91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101]
 Overfull \hbox (4.53647pt too wide) in paragraph at lines 903--904
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -1835,7 +1910,7 @@ Overfull \hbox (4.92612pt too wide) in paragraph at lines 919--920
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[103]
+[102]
 Overfull \hbox (10.13638pt too wide) in paragraph at lines 933--934
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -1855,11 +1930,11 @@ Overfull \hbox (10.52603pt too wide) in paragraph at lines 936--937
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[104] [105]
+[103] [104]
 File: pictures/kbm_graph.png Graphic file (type bmp)
 <pictures/kbm_graph.png>
- [106]) [107]
-(c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.aux)
+ [105]) [106]
+(C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -1878,13 +1953,13 @@ Package logreq Info: Writing requests to 'VKR_Vinnitskaya_DS.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31184 strings out of 402987
- 600364 string characters out of 5452871
- 1565929 words of memory out of 5000000
- 59522 multiletter control sequences out of 15000+600000
+ 31148 strings out of 402987
+ 598513 string characters out of 5452871
+ 1565439 words of memory out of 5000000
+ 59487 multiletter control sequences out of 15000+600000
  635860 words of font info for 110 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 89i,12n,131p,1150b,5025s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,12n,131p,1118b,5022s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.xd
-v (107 pages, 1633104 bytes).
+Output written on C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.xd
+v (106 pages, 1619900 bytes).

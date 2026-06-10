@@ -33,25 +33,25 @@
 \contentsline {subsection}{\numberline {2.6}Выводы по главе}{66}{subsection.2.6}%
 \contentsline {section}{Заключение}{68}{subsection.2.6}%
 \contentsline {section}{СПИСОК ЛИТЕРАТУРЫ}{70}{subsection.2.6}%
-\contentsline {section}{Приложение А~--- Перечень признаков модели}{73}{section*.7}%
-\contentsline {section}{Приложение Б~--- Генерация признаков и обучение модели}{74}{section*.9}%
-\contentsline {section}{Приложение В~--- Обработка признаков и обучение CatBoost}{75}{section*.10}%
-\contentsline {section}{Приложение Г~--- Подбор оптимального порога классификации}{77}{section*.11}%
-\contentsline {section}{Приложение Д~--- Сериализация модели}{78}{section*.13}%
-\contentsline {section}{Приложение Е~--- Важность признаков}{79}{section*.14}%
-\contentsline {section}{Приложение Ж~--- Матрица ошибок}{80}{section*.16}%
-\contentsline {section}{Приложение З~--- ROC-кривая}{81}{section*.18}%
-\contentsline {section}{Приложение И~--- Детальный анализ важности признаков}{82}{section*.20}%
-\contentsline {section}{Приложение К~--- Цветовая палитра приложения}{83}{section*.22}%
-\contentsline {section}{Приложение Л~--- Главная страница}{84}{section*.24}%
-\contentsline {section}{Приложение М~--- Страница документации}{85}{section*.26}%
-\contentsline {section}{Приложение Н~--- Форма ввода данных}{86}{section*.28}%
-\contentsline {section}{Приложение О~--- Страница результатов}{87}{section*.30}%
-\contentsline {section}{Приложение П~--- Инициализация Flask-приложения}{88}{section*.32}%
-\contentsline {section}{Приложение Р~--- Маршруты сервера}{90}{section*.33}%
-\contentsline {section}{Приложение С~--- Обработка POST-запросов}{95}{section*.34}%
-\contentsline {section}{Приложение Т~--- Функции экспорта}{97}{section*.35}%
-\contentsline {section}{Приложение У~--- CSS-стили интерфейса}{102}{section*.36}%
-\contentsline {section}{Приложение Ф~--- HTML-структура формы}{105}{section*.37}%
-\contentsline {section}{Приложение Х~--- График сравнения КБМ}{106}{section*.38}%
-\contentsline {section}{Приложение Ц~--- Пример CSV-файла}{107}{section*.40}%
+\contentsline {section}{Приложение А~--- Перечень признаков модели}{72}{section*.7}%
+\contentsline {section}{Приложение Б~--- Генерация признаков и обучение модели}{73}{section*.9}%
+\contentsline {section}{Приложение В~--- Обработка признаков и обучение CatBoost}{74}{section*.10}%
+\contentsline {section}{Приложение Г~--- Подбор оптимального порога классификации}{76}{section*.11}%
+\contentsline {section}{Приложение Д~--- Сериализация модели}{77}{section*.13}%
+\contentsline {section}{Приложение Е~--- Важность признаков}{78}{section*.14}%
+\contentsline {section}{Приложение Ж~--- Матрица ошибок}{79}{section*.16}%
+\contentsline {section}{Приложение З~--- ROC-кривая}{80}{section*.18}%
+\contentsline {section}{Приложение И~--- Детальный анализ важности признаков}{81}{section*.20}%
+\contentsline {section}{Приложение К~--- Цветовая палитра приложения}{82}{section*.22}%
+\contentsline {section}{Приложение Л~--- Главная страница}{83}{section*.24}%
+\contentsline {section}{Приложение М~--- Страница документации}{84}{section*.26}%
+\contentsline {section}{Приложение Н~--- Форма ввода данных}{85}{section*.28}%
+\contentsline {section}{Приложение О~--- Страница результатов}{86}{section*.30}%
+\contentsline {section}{Приложение П~--- Инициализация Flask-приложения}{87}{section*.32}%
+\contentsline {section}{Приложение Р~--- Маршруты сервера}{89}{section*.33}%
+\contentsline {section}{Приложение С~--- Обработка POST-запросов}{94}{section*.34}%
+\contentsline {section}{Приложение Т~--- Функции экспорта}{96}{section*.35}%
+\contentsline {section}{Приложение У~--- CSS-стили интерфейса}{101}{section*.36}%
+\contentsline {section}{Приложение Ф~--- HTML-структура формы}{104}{section*.37}%
+\contentsline {section}{Приложение Х~--- График сравнения КБМ}{105}{section*.38}%
+\contentsline {section}{Приложение Ц~--- Пример CSV-файла}{106}{section*.40}%

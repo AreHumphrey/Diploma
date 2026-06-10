@@ -1,7 +1,7 @@
-PWD c:\Users\lutdi\diplom_bakalavriat
+PWD C:\Users\lutdi\diplom_bakalavriat
 INPUT C:\Users\lutdi\AppData\Local\MiKTeX\miktex\data\le\xetex\xelatex.fmt
-INPUT c:\Users\lutdi\diplom_bakalavriat\main.tex
-OUTPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.log
+INPUT main.tex
+OUTPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.log
 INPUT C:\Program Files\MiKTeX\tex\latex\extsizes\extarticle.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\extsizes\extarticle.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\fleqn.clo
@@ -237,20 +237,20 @@ INPUT .\style\titlepage.sty
 INPUT style\titlepage.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
-INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.aux
-INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.aux
-INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.aux
-OUTPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.aux
+INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.aux
+INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.aux
+INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.aux
+OUTPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.aux
 INPUT C:\Program Files\MiKTeX\tex\latex\tipa\t3cmr.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\tipa\t3cmr.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\tipa\t3cmr.fd
-INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
-INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
-INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
-INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
-INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
-INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
-OUTPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
+INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
+INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
+INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
+INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
+INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
+INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
+OUTPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\american.lbx
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\american.lbx
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\american.lbx
@@ -261,12 +261,12 @@ INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\russian.lbx
-OUTPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.bcf
-INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.bbl
-INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.bbl
-INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.bbl
-INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.bbl
-INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.bbl
+OUTPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.bcf
+INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.bbl
+INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.bbl
+INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.bbl
+INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.bbl
+INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.bbl
 INPUT .\parts\1 titlepage.tex
 INPUT .\parts\1 titlepage.tex
 INPUT .\parts\1 titlepage.tex
@@ -293,11 +293,11 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
-OUTPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.xdv
-INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.toc
-INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.toc
-INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.toc
-OUTPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.toc
+OUTPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.xdv
+INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.toc
+INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.toc
+INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.toc
+OUTPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.toc
 INPUT .\parts\1_1 annotation.tex
 INPUT .\parts\1_1 annotation.tex
 INPUT .\parts\1_1 annotation.tex
@@ -397,8 +397,8 @@ INPUT .\pictures\d_res_page.pdf
 INPUT .\pictures\kbm_graph.png
 INPUT .\pictures\kbm_graph.png
 INPUT .\pictures\kbm_graph.png
-INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.aux
-INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
-INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
-INPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.run.xml
-OUTPUT c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.run.xml
+INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.aux
+INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
+INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
+INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.run.xml
+OUTPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.run.xml
