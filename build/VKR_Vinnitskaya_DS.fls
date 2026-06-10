@@ -244,12 +244,6 @@ OUTPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.aux
 INPUT C:\Program Files\MiKTeX\tex\latex\tipa\t3cmr.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\tipa\t3cmr.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\tipa\t3cmr.fd
-INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
-INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
-INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
-INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
-INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
-INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
 OUTPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\american.lbx
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\american.lbx
@@ -294,9 +288,6 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 OUTPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.xdv
-INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.toc
-INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.toc
-INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.toc
 OUTPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.toc
 INPUT .\parts\1_1 annotation.tex
 INPUT .\parts\1_1 annotation.tex
@@ -400,5 +391,4 @@ INPUT .\pictures\kbm_graph.png
 INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.aux
 INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
 INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.out
-INPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.run.xml
 OUTPUT C:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.run.xml

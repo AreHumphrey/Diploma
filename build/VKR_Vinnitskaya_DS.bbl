@@ -20,25 +20,11 @@
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
     \entry{rgs2026kbm}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=1f6174268f4e2fbf5e9968a6135793ed}{%
-           family={{ПАО СК «Росгосстрах»}},
-           familyi={П\bibinitperiod}}}%
-      }
       \list{language}{1}{%
         {russian}%
       }
-      \strng{namehash}{1f6174268f4e2fbf5e9968a6135793ed}
-      \strng{fullhash}{1f6174268f4e2fbf5e9968a6135793ed}
-      \strng{fullhashraw}{1f6174268f4e2fbf5e9968a6135793ed}
-      \strng{bibnamehash}{1f6174268f4e2fbf5e9968a6135793ed}
-      \strng{authorbibnamehash}{1f6174268f4e2fbf5e9968a6135793ed}
-      \strng{authornamehash}{1f6174268f4e2fbf5e9968a6135793ed}
-      \strng{authorfullhash}{1f6174268f4e2fbf5e9968a6135793ed}
-      \strng{authorfullhashraw}{1f6174268f4e2fbf5e9968a6135793ed}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{Официальный сайт ПАО СК «Росгосстрах»}
       \field{note}{Режим доступа: \url{https://www.rgs.ru/prosto/terms/koeffitsient-bonus-malus-osago-chto-eto} (дата обращения: 22.03.2026)}
@@ -46,25 +32,11 @@
       \field{year}{2026}
     \endentry
     \entry{cbr2026osago}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=7b2f93d37731a987fe82e3286acdb829}{%
-           family={{Центральный банк РФ}},
-           familyi={Ц\bibinitperiod}}}%
-      }
       \list{language}{1}{%
         {russian}%
       }
-      \strng{namehash}{7b2f93d37731a987fe82e3286acdb829}
-      \strng{fullhash}{7b2f93d37731a987fe82e3286acdb829}
-      \strng{fullhashraw}{7b2f93d37731a987fe82e3286acdb829}
-      \strng{bibnamehash}{7b2f93d37731a987fe82e3286acdb829}
-      \strng{authorbibnamehash}{7b2f93d37731a987fe82e3286acdb829}
-      \strng{authornamehash}{7b2f93d37731a987fe82e3286acdb829}
-      \strng{authorfullhash}{7b2f93d37731a987fe82e3286acdb829}
-      \strng{authorfullhashraw}{7b2f93d37731a987fe82e3286acdb829}
       \field{sortinit}{9}
       \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{Официальный сайт Банка России}
       \field{note}{Режим доступа: \url{https://cbr.ru/} (дата обращения: 15.04.2026)}
@@ -72,110 +44,34 @@
       \field{year}{2024}
     \endentry
     \entry{hastie2009elements}{book}{}{}
-      \name{author}{3}{}{%
-        {{hash=0cb8fe4210baa81c4b0e67913b4d2768}{%
-           family={Hastie},
-           familyi={H\bibinitperiod},
-           given={Trevor},
-           giveni={T\bibinitperiod}}}%
-        {{hash=88eea600247d798f8b2ce0b2dc614492}{%
-           family={Tibshirani},
-           familyi={T\bibinitperiod},
-           given={Robert},
-           giveni={R\bibinitperiod}}}%
-        {{hash=971cf69058b64a94326dea0f2a8bbcce}{%
-           family={Friedman},
-           familyi={F\bibinitperiod},
-           given={Jerome},
-           giveni={J\bibinitperiod}}}%
+      \name{author}{1}{}{%
+        {{hash=cf7f8fd81283198164bc878fb0f3fe38}{%
+           family={Хасти\bibnamedelima Тревор},
+           familyi={Х\bibinitperiod\bibinitdelim Т\bibinitperiod},
+           given={Тибришани\bibnamedelima Роберт},
+           giveni={Т\bibinitperiod\bibinitdelim Р\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{7ca1bfe876d5e037b6aed69704221267}
-      \strng{fullhash}{7ca1bfe876d5e037b6aed69704221267}
-      \strng{fullhashraw}{7ca1bfe876d5e037b6aed69704221267}
-      \strng{bibnamehash}{7ca1bfe876d5e037b6aed69704221267}
-      \strng{authorbibnamehash}{7ca1bfe876d5e037b6aed69704221267}
-      \strng{authornamehash}{7ca1bfe876d5e037b6aed69704221267}
-      \strng{authorfullhash}{7ca1bfe876d5e037b6aed69704221267}
-      \strng{authorfullhashraw}{7ca1bfe876d5e037b6aed69704221267}
+      \strng{namehash}{cf7f8fd81283198164bc878fb0f3fe38}
+      \strng{fullhash}{cf7f8fd81283198164bc878fb0f3fe38}
+      \strng{fullhashraw}{cf7f8fd81283198164bc878fb0f3fe38}
+      \strng{bibnamehash}{cf7f8fd81283198164bc878fb0f3fe38}
+      \strng{authorbibnamehash}{cf7f8fd81283198164bc878fb0f3fe38}
+      \strng{authornamehash}{cf7f8fd81283198164bc878fb0f3fe38}
+      \strng{authorfullhash}{cf7f8fd81283198164bc878fb0f3fe38}
+      \strng{authorfullhashraw}{cf7f8fd81283198164bc878fb0f3fe38}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{2nd}
-      \field{title}{The Elements of Statistical Learning: Data Mining, Inference, and Prediction}
-      \field{year}{2009}
-      \field{pages}{745}
+      \field{title}{Основы статистического обучения: интеллектуальный анализ данных, логический вывод и прогнозирование}
+      \field{year}{2017}
+      \field{pages}{764}
       \range{pages}{1}
     \endentry
-    \entry{prokhorenkova2018catboost}{inproceedings}{}{}
-      \name{author}{5}{}{%
-        {{hash=75d85fbaf5e44febf90b390cb205c49e}{%
-           family={Prokhorenkova},
-           familyi={P\bibinitperiod},
-           given={Liudmila},
-           giveni={L\bibinitperiod}}}%
-        {{hash=d99ea4ed468e2d3f8bc4082b7d308161}{%
-           family={Gusev},
-           familyi={G\bibinitperiod},
-           given={Gleb},
-           giveni={G\bibinitperiod}}}%
-        {{hash=4eea157d768ad9f7d675c1cb1624b822}{%
-           family={Vorobev},
-           familyi={V\bibinitperiod},
-           given={Aleksandr},
-           giveni={A\bibinitperiod}}}%
-        {{hash=a2bbc57c5fa93135342ee3c846b63db3}{%
-           family={Dorogush},
-           familyi={D\bibinitperiod},
-           given={Anna\bibnamedelima Veronika},
-           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
-        {{hash=b0bbfa15913cf76eff37e68538d3927e}{%
-           family={Gulin},
-           familyi={G\bibinitperiod},
-           given={Andrey},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{bf2200e049515471bef98bbe4ddd078a}
-      \strng{fullhash}{be3384044cde3b920a17c00545fb90a0}
-      \strng{fullhashraw}{be3384044cde3b920a17c00545fb90a0}
-      \strng{bibnamehash}{be3384044cde3b920a17c00545fb90a0}
-      \strng{authorbibnamehash}{be3384044cde3b920a17c00545fb90a0}
-      \strng{authornamehash}{bf2200e049515471bef98bbe4ddd078a}
-      \strng{authorfullhash}{be3384044cde3b920a17c00545fb90a0}
-      \strng{authorfullhashraw}{be3384044cde3b920a17c00545fb90a0}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Advances in Neural Information Processing Systems}
-      \field{note}{Режим доступа: \url{https://arxiv.org/pdf/1706.09516} (дата обращения: 22.03.2026)}
-      \field{title}{CatBoost: Unbiased Boosting with Categorical Features}
-      \field{volume}{31}
-      \field{year}{2018}
-    \endentry
     \entry{catboost2026docs}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=0c0a230358d00f0fcf81c28d23bf6e8c}{%
-           family={{Yandex}},
-           familyi={Y\bibinitperiod}}}%
-      }
-      \strng{namehash}{0c0a230358d00f0fcf81c28d23bf6e8c}
-      \strng{fullhash}{0c0a230358d00f0fcf81c28d23bf6e8c}
-      \strng{fullhashraw}{0c0a230358d00f0fcf81c28d23bf6e8c}
-      \strng{bibnamehash}{0c0a230358d00f0fcf81c28d23bf6e8c}
-      \strng{authorbibnamehash}{0c0a230358d00f0fcf81c28d23bf6e8c}
-      \strng{authornamehash}{0c0a230358d00f0fcf81c28d23bf6e8c}
-      \strng{authorfullhash}{0c0a230358d00f0fcf81c28d23bf6e8c}
-      \strng{authorfullhashraw}{0c0a230358d00f0fcf81c28d23bf6e8c}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{Официальная документация CatBoost}
       \field{note}{Режим доступа: \url{https://catboost.ai/docs/en/} (дата обращения: 10.05.2026)}
@@ -183,24 +79,8 @@
       \field{year}{2026}
     \endentry
     \entry{levin2026telematics}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=0345e622dfdbf061f9a7adf4a2a316bc}{%
-           family={Yun},
-           familyi={Y\bibinitperiod},
-           given={Levin},
-           giveni={L\bibinitperiod}}}%
-      }
-      \strng{namehash}{0345e622dfdbf061f9a7adf4a2a316bc}
-      \strng{fullhash}{0345e622dfdbf061f9a7adf4a2a316bc}
-      \strng{fullhashraw}{0345e622dfdbf061f9a7adf4a2a316bc}
-      \strng{bibnamehash}{0345e622dfdbf061f9a7adf4a2a316bc}
-      \strng{authorbibnamehash}{0345e622dfdbf061f9a7adf4a2a316bc}
-      \strng{authornamehash}{0345e622dfdbf061f9a7adf4a2a316bc}
-      \strng{authorfullhash}{0345e622dfdbf061f9a7adf4a2a316bc}
-      \strng{authorfullhashraw}{0345e622dfdbf061f9a7adf4a2a316bc}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{Kaggle}
       \field{note}{Режим доступа: \url{https://www.kaggle.com/datasets/yunlevin/levin-vehicle-telematics} (дата обращения: 15.03.2026)}
@@ -220,9 +100,6 @@
       }
       \list{location}{1}{%
         {М.}%
-      }
-      \list{publisher}{1}{%
-        {Юнити-Дана}%
       }
       \strng{namehash}{2d9c7468665f827d2906975eb0d029e5}
       \strng{fullhash}{2d9c7468665f827d2906975eb0d029e5}
@@ -301,34 +178,28 @@
     \endentry
     \entry{krug2014dont}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=5484dccb0532d31791b5359574fe6830}{%
-           family={Krug},
-           familyi={K\bibinitperiod},
-           given={Steve},
-           giveni={S\bibinitperiod}}}%
+        {{hash=8da42b3bd5ec6dfc3a99ed9076dc676d}{%
+           family={Стив},
+           familyi={С\bibinitperiod},
+           given={Круг},
+           giveni={К\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {Berkeley, CA}%
-      }
-      \list{publisher}{1}{%
-        {New Riders}%
-      }
-      \strng{namehash}{5484dccb0532d31791b5359574fe6830}
-      \strng{fullhash}{5484dccb0532d31791b5359574fe6830}
-      \strng{fullhashraw}{5484dccb0532d31791b5359574fe6830}
-      \strng{bibnamehash}{5484dccb0532d31791b5359574fe6830}
-      \strng{authorbibnamehash}{5484dccb0532d31791b5359574fe6830}
-      \strng{authornamehash}{5484dccb0532d31791b5359574fe6830}
-      \strng{authorfullhash}{5484dccb0532d31791b5359574fe6830}
-      \strng{authorfullhashraw}{5484dccb0532d31791b5359574fe6830}
+      \strng{namehash}{8da42b3bd5ec6dfc3a99ed9076dc676d}
+      \strng{fullhash}{8da42b3bd5ec6dfc3a99ed9076dc676d}
+      \strng{fullhashraw}{8da42b3bd5ec6dfc3a99ed9076dc676d}
+      \strng{bibnamehash}{8da42b3bd5ec6dfc3a99ed9076dc676d}
+      \strng{authorbibnamehash}{8da42b3bd5ec6dfc3a99ed9076dc676d}
+      \strng{authornamehash}{8da42b3bd5ec6dfc3a99ed9076dc676d}
+      \strng{authorfullhash}{8da42b3bd5ec6dfc3a99ed9076dc676d}
+      \strng{authorfullhashraw}{8da42b3bd5ec6dfc3a99ed9076dc676d}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{edition}{3rd}
-      \field{title}{Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability}
-      \field{year}{2014}
-      \field{pages}{216}
+      \field{edition}{3-е издание}
+      \field{title}{Не заставляйте меня думать. Веб-юзабилити и здравый смысл}
+      \field{year}{2017}
+      \field{pages}{256}
       \range{pages}{1}
     \endentry
     \entry{flask2026docs}{misc}{}{}
