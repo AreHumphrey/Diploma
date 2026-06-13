@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  11 JUN 2026 07:33
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.16)  14 JUN 2026 05:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1204,20 +1204,14 @@ Overfull \hbox (1.69203pt too wide) in paragraph at lines 22--23
 ть реализации модуль-
  []
 
-
+[7]
 Overfull \hbox (4.92448pt too wide) in paragraph at lines 33--34
 []\TU/TimesNewRoman(1)/m/n/14 реализовать алгоритм генерации производных призна
 ков, учитывающий нели-
  []
 
-[7]
-Overfull \hbox (3.37723pt too wide) in paragraph at lines 44--45
-[]\TU/TimesNewRoman(1)/b/n/14 Методы исследования. \TU/TimesNewRoman(1)/m/n/14 
-В работе используются методы математической ста-
- []
-
 [8]
-Overfull \hbox (3.11427pt too wide) in paragraph at lines 51--52
+Overfull \hbox (3.11427pt too wide) in paragraph at lines 53--54
 \TU/TimesNewRoman(1)/m/n/14 формализуется задача прогнозирования страховых риск
 ов, выполняется обзор тра-
  []
@@ -1660,38 +1654,38 @@ Overfull \hbox (21.54134pt too wide) in paragraph at lines 14--15
  []
 
 ) [69]
-Overfull \hbox (8.39415pt too wide) in paragraph at lines 40--40
+Overfull \hbox (8.39415pt too wide) in paragraph at lines 39--39
 []\TU/TimesNewRoman(1)/m/it/14 Коэффициент бонус-малус ОСАГО [Электронный ресур
 с]\TU/TimesNewRoman(1)/m/n/14 . Официальный сайт
  []
 
 
-Overfull \hbox (4.16623pt too wide) in paragraph at lines 40--40
+Overfull \hbox (4.16623pt too wide) in paragraph at lines 39--39
 \TU/TimesNewRoman(1)/m/n/14 ПАО СК «Росгосстрах». Режим доступа: []$[][][][][] 
 [] [] [] [][][] [] [][][] [] [][] [] [][][][][][] []
  []
 
 
-Overfull \hbox (3.64015pt too wide) in paragraph at lines 40--40
+Overfull \hbox (3.64015pt too wide) in paragraph at lines 39--39
 []\TU/TimesNewRoman(1)/m/n/14 А. В. Колесников. \TU/TimesNewRoman(1)/m/it/14 Ин
 теллектуальный анализ данных: учебник для вузов\TU/TimesNewRoman(1)/m/n/14 . СП
 б.:
  []
 
 [70]
-Overfull \hbox (9.98692pt too wide) in paragraph at lines 40--40
+Overfull \hbox (9.98692pt too wide) in paragraph at lines 39--39
 []\TU/TimesNewRoman(1)/m/it/14 Flask Documentation [Электронный ресурс]\TU/Time
 sNewRoman(1)/m/n/14 . Официальная документация Flask.
  []
 
 
-Overfull \hbox (10.3936pt too wide) in paragraph at lines 40--40
+Overfull \hbox (10.3936pt too wide) in paragraph at lines 39--39
 \TU/TimesNewRoman(1)/m/n/14 Режим доступа: []$[][][][][] [] [] [] [][][][][] []
  [][][][][][][][][][][][][][][] [] [][][] [] [][] [] [][][][][][][]$[]
  []
 
 
-Overfull \hbox (3.052pt too wide) in paragraph at lines 40--40
+Overfull \hbox (3.052pt too wide) in paragraph at lines 39--39
 []\TU/TimesNewRoman(1)/m/it/14 CSS: Cascading Style Sheets [Электронный ресурс]
 \TU/TimesNewRoman(1)/m/n/14 . Mozilla Developer Network.
  []
@@ -1862,4 +1856,4 @@ Here is how much of TeX's memory you used:
  89i,12n,131p,1150b,5022s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on c:\Users\lutdi\diplom_bakalavriat\build\VKR_Vinnitskaya_DS.xd
-v (107 pages, 1640556 bytes).
+v (107 pages, 1642464 bytes).
